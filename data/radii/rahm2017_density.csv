@@ -1,0 +1,97 @@
+set_id,symbol,variant,kind,value_A,esd_A,value_2016_A,source,table_ref,note
+rahm2017,H,,v,1.54,,1.54,"Rahm, Hoffmann, Ashcroft, Chem. Eur. J. 2016, 22, 14625",Figure 2 (read from figure),transcribed from the periodic-table figure; spot-check
+rahm2017,He,,v,1.34,,1.34,"Rahm, Hoffmann, Ashcroft, Chem. Eur. J. 2016, 22, 14625",Figure 2 (read from figure),transcribed from the periodic-table figure; spot-check
+rahm2017,Li,,v,2.2,,2.2,"Rahm, Hoffmann, Ashcroft, Chem. Eur. J. 2016, 22, 14625",Figure 2 (read from figure),transcribed from the periodic-table figure; spot-check
+rahm2017,Be,,v,2.19,,2.19,"Rahm, Hoffmann, Ashcroft, Chem. Eur. J. 2016, 22, 14625",Figure 2 (read from figure),transcribed from the periodic-table figure; spot-check
+rahm2017,B,,v,2.05,,2.05,"Rahm, Hoffmann, Ashcroft, Chem. Eur. J. 2016, 22, 14625",Figure 2 (read from figure),transcribed from the periodic-table figure; spot-check
+rahm2017,C,,v,1.9,,1.9,"Rahm, Hoffmann, Ashcroft, Chem. Eur. J. 2016, 22, 14625",Figure 2 (read from figure),transcribed from the periodic-table figure; spot-check
+rahm2017,N,,v,1.79,,1.79,"Rahm, Hoffmann, Ashcroft, Chem. Eur. J. 2016, 22, 14625",Figure 2 (read from figure),transcribed from the periodic-table figure; spot-check
+rahm2017,O,,v,1.71,,1.71,"Rahm, Hoffmann, Ashcroft, Chem. Eur. J. 2016, 22, 14625",Figure 2 (read from figure),transcribed from the periodic-table figure; spot-check
+rahm2017,F,,v,1.63,,1.63,"Rahm, Hoffmann, Ashcroft, Chem. Eur. J. 2016, 22, 14625",Figure 2 (read from figure),transcribed from the periodic-table figure; spot-check
+rahm2017,Ne,,v,1.56,,1.56,"Rahm, Hoffmann, Ashcroft, Chem. Eur. J. 2016, 22, 14625",Figure 2 (read from figure),transcribed from the periodic-table figure; spot-check
+rahm2017,Na,,v,2.25,,2.25,"Rahm, Hoffmann, Ashcroft, Chem. Eur. J. 2016, 22, 14625",Figure 2 (read from figure),transcribed from the periodic-table figure; spot-check
+rahm2017,Mg,,v,2.4,,2.4,"Rahm, Hoffmann, Ashcroft, Chem. Eur. J. 2016, 22, 14625",Figure 2 (read from figure),transcribed from the periodic-table figure; spot-check
+rahm2017,Al,,v,2.39,,2.39,"Rahm, Hoffmann, Ashcroft, Chem. Eur. J. 2016, 22, 14625",Figure 2 (read from figure),transcribed from the periodic-table figure; spot-check
+rahm2017,Si,,v,2.32,,2.32,"Rahm, Hoffmann, Ashcroft, Chem. Eur. J. 2016, 22, 14625",Figure 2 (read from figure),transcribed from the periodic-table figure; spot-check
+rahm2017,P,,v,2.23,,2.23,"Rahm, Hoffmann, Ashcroft, Chem. Eur. J. 2016, 22, 14625",Figure 2 (read from figure),transcribed from the periodic-table figure; spot-check
+rahm2017,S,,v,2.14,,2.14,"Rahm, Hoffmann, Ashcroft, Chem. Eur. J. 2016, 22, 14625",Figure 2 (read from figure),transcribed from the periodic-table figure; spot-check
+rahm2017,Cl,,v,2.06,,2.06,"Rahm, Hoffmann, Ashcroft, Chem. Eur. J. 2016, 22, 14625",Figure 2 (read from figure),transcribed from the periodic-table figure; spot-check
+rahm2017,Ar,,v,1.97,,1.97,"Rahm, Hoffmann, Ashcroft, Chem. Eur. J. 2016, 22, 14625",Figure 2 (read from figure),transcribed from the periodic-table figure; spot-check
+rahm2017,K,,v,2.34,,2.34,"Rahm, Hoffmann, Ashcroft, Chem. Eur. J. 2016, 22, 14625",Figure 2 (read from figure),transcribed from the periodic-table figure; spot-check
+rahm2017,Ca,,v,2.7,,2.7,"Rahm, Hoffmann, Ashcroft, Chem. Eur. J. 2016, 22, 14625",Figure 2 (read from figure),transcribed from the periodic-table figure; spot-check
+rahm2017,Sc,,v,2.63,,2.63,"Rahm, Hoffmann, Ashcroft, Chem. Eur. J. 2016, 22, 14625",Figure 2 (read from figure),transcribed from the periodic-table figure; spot-check
+rahm2017,Ti,,v,2.57,,2.57,"Rahm, Hoffmann, Ashcroft, Chem. Eur. J. 2016, 22, 14625",Figure 2 (read from figure),transcribed from the periodic-table figure; spot-check
+rahm2017,V,,v,2.52,,2.52,"Rahm, Hoffmann, Ashcroft, Chem. Eur. J. 2016, 22, 14625",Figure 2 (read from figure),transcribed from the periodic-table figure; spot-check
+rahm2017,Cr,,v,2.33,,2.33,"Rahm, Hoffmann, Ashcroft, Chem. Eur. J. 2016, 22, 14625",Figure 2 (read from figure),transcribed from the periodic-table figure; spot-check
+rahm2017,Mn,,v,2.42,,2.42,"Rahm, Hoffmann, Ashcroft, Chem. Eur. J. 2016, 22, 14625",Figure 2 (read from figure),transcribed from the periodic-table figure; spot-check
+rahm2017,Fe,,v,2.37,,2.26,"Rahm, Hoffmann, Ashcroft, Chem. Eur. J. 2016, 22, 14625; corrigendum 2017, 23, 4017",Corrigendum Table 1,corrected in corrigendum
+rahm2017,Co,,v,2.33,,2.22,"Rahm, Hoffmann, Ashcroft, Chem. Eur. J. 2016, 22, 14625; corrigendum 2017, 23, 4017",Corrigendum Table 1,corrected in corrigendum
+rahm2017,Ni,,v,2.29,,2.19,"Rahm, Hoffmann, Ashcroft, Chem. Eur. J. 2016, 22, 14625; corrigendum 2017, 23, 4017",Corrigendum Table 1,corrected in corrigendum
+rahm2017,Cu,,v,2.17,,2.17,"Rahm, Hoffmann, Ashcroft, Chem. Eur. J. 2016, 22, 14625",Figure 2 (read from figure),transcribed from the periodic-table figure; spot-check
+rahm2017,Zn,,v,2.22,,2.22,"Rahm, Hoffmann, Ashcroft, Chem. Eur. J. 2016, 22, 14625",Figure 2 (read from figure),transcribed from the periodic-table figure; spot-check
+rahm2017,Ga,,v,2.33,,2.33,"Rahm, Hoffmann, Ashcroft, Chem. Eur. J. 2016, 22, 14625",Figure 2 (read from figure),transcribed from the periodic-table figure; spot-check
+rahm2017,Ge,,v,2.34,,2.34,"Rahm, Hoffmann, Ashcroft, Chem. Eur. J. 2016, 22, 14625",Figure 2 (read from figure),transcribed from the periodic-table figure; spot-check
+rahm2017,As,,v,2.31,,2.31,"Rahm, Hoffmann, Ashcroft, Chem. Eur. J. 2016, 22, 14625",Figure 2 (read from figure),transcribed from the periodic-table figure; spot-check
+rahm2017,Se,,v,2.24,,2.24,"Rahm, Hoffmann, Ashcroft, Chem. Eur. J. 2016, 22, 14625",Figure 2 (read from figure),transcribed from the periodic-table figure; spot-check
+rahm2017,Br,,v,2.19,,2.19,"Rahm, Hoffmann, Ashcroft, Chem. Eur. J. 2016, 22, 14625",Figure 2 (read from figure),transcribed from the periodic-table figure; spot-check
+rahm2017,Kr,,v,2.12,,2.12,"Rahm, Hoffmann, Ashcroft, Chem. Eur. J. 2016, 22, 14625",Figure 2 (read from figure),transcribed from the periodic-table figure; spot-check
+rahm2017,Rb,,v,2.4,,2.4,"Rahm, Hoffmann, Ashcroft, Chem. Eur. J. 2016, 22, 14625",Figure 2 (read from figure),transcribed from the periodic-table figure; spot-check
+rahm2017,Sr,,v,2.79,,2.79,"Rahm, Hoffmann, Ashcroft, Chem. Eur. J. 2016, 22, 14625",Figure 2 (read from figure),transcribed from the periodic-table figure; spot-check
+rahm2017,Y,,v,2.74,,2.74,"Rahm, Hoffmann, Ashcroft, Chem. Eur. J. 2016, 22, 14625",Figure 2 (read from figure),transcribed from the periodic-table figure; spot-check
+rahm2017,Zr,,v,2.69,,2.68,"Rahm, Hoffmann, Ashcroft, Chem. Eur. J. 2016, 22, 14625; corrigendum 2017, 23, 4017",Corrigendum Table 1,corrected in corrigendum
+rahm2017,Nb,,v,2.51,,2.51,"Rahm, Hoffmann, Ashcroft, Chem. Eur. J. 2016, 22, 14625",Figure 2 (read from figure),transcribed from the periodic-table figure; spot-check
+rahm2017,Mo,,v,2.44,,2.44,"Rahm, Hoffmann, Ashcroft, Chem. Eur. J. 2016, 22, 14625",Figure 2 (read from figure),transcribed from the periodic-table figure; spot-check
+rahm2017,Tc,,v,2.52,,2.41,"Rahm, Hoffmann, Ashcroft, Chem. Eur. J. 2016, 22, 14625; corrigendum 2017, 23, 4017",Corrigendum Table 1,corrected in corrigendum
+rahm2017,Ru,,v,2.37,,2.37,"Rahm, Hoffmann, Ashcroft, Chem. Eur. J. 2016, 22, 14625",Figure 2 (read from figure),transcribed from the periodic-table figure; spot-check
+rahm2017,Rh,,v,2.33,,2.33,"Rahm, Hoffmann, Ashcroft, Chem. Eur. J. 2016, 22, 14625",Figure 2 (read from figure),transcribed from the periodic-table figure; spot-check
+rahm2017,Pd,,v,2.15,,2.15,"Rahm, Hoffmann, Ashcroft, Chem. Eur. J. 2016, 22, 14625",Figure 2 (read from figure),transcribed from the periodic-table figure; spot-check
+rahm2017,Ag,,v,2.25,,2.25,"Rahm, Hoffmann, Ashcroft, Chem. Eur. J. 2016, 22, 14625",Figure 2 (read from figure),transcribed from the periodic-table figure; spot-check
+rahm2017,Cd,,v,2.38,,2.38,"Rahm, Hoffmann, Ashcroft, Chem. Eur. J. 2016, 22, 14625",Figure 2 (read from figure),transcribed from the periodic-table figure; spot-check
+rahm2017,In,,v,2.46,,2.46,"Rahm, Hoffmann, Ashcroft, Chem. Eur. J. 2016, 22, 14625",Figure 2 (read from figure),transcribed from the periodic-table figure; spot-check
+rahm2017,Sn,,v,2.48,,2.48,"Rahm, Hoffmann, Ashcroft, Chem. Eur. J. 2016, 22, 14625",Figure 2 (read from figure),transcribed from the periodic-table figure; spot-check
+rahm2017,Sb,,v,2.46,,2.46,"Rahm, Hoffmann, Ashcroft, Chem. Eur. J. 2016, 22, 14625",Figure 2 (read from figure),transcribed from the periodic-table figure; spot-check
+rahm2017,Te,,v,2.42,,2.42,"Rahm, Hoffmann, Ashcroft, Chem. Eur. J. 2016, 22, 14625",Figure 2 (read from figure),transcribed from the periodic-table figure; spot-check
+rahm2017,I,,v,2.38,,2.38,"Rahm, Hoffmann, Ashcroft, Chem. Eur. J. 2016, 22, 14625",Figure 2 (read from figure),transcribed from the periodic-table figure; spot-check
+rahm2017,Xe,,v,2.32,,2.32,"Rahm, Hoffmann, Ashcroft, Chem. Eur. J. 2016, 22, 14625",Figure 2 (read from figure),transcribed from the periodic-table figure; spot-check
+rahm2017,Cs,,v,2.49,,2.49,"Rahm, Hoffmann, Ashcroft, Chem. Eur. J. 2016, 22, 14625",Figure 2 (read from figure),transcribed from the periodic-table figure; spot-check
+rahm2017,Ba,,v,2.93,,2.93,"Rahm, Hoffmann, Ashcroft, Chem. Eur. J. 2016, 22, 14625",Figure 2 (read from figure),transcribed from the periodic-table figure; spot-check
+rahm2017,La,,v,2.84,,2.84,"Rahm, Hoffmann, Ashcroft, Chem. Eur. J. 2016, 22, 14625",Figure 2 (read from figure),transcribed from the periodic-table figure; spot-check
+rahm2017,Ce,,v,2.82,,2.82,"Rahm, Hoffmann, Ashcroft, Chem. Eur. J. 2016, 22, 14625",Figure 2 (read from figure),transcribed from the periodic-table figure; spot-check
+rahm2017,Pr,,v,2.86,,2.86,"Rahm, Hoffmann, Ashcroft, Chem. Eur. J. 2016, 22, 14625",Figure 2 (read from figure),transcribed from the periodic-table figure; spot-check
+rahm2017,Nd,,v,2.84,,2.84,"Rahm, Hoffmann, Ashcroft, Chem. Eur. J. 2016, 22, 14625",Figure 2 (read from figure),transcribed from the periodic-table figure; spot-check
+rahm2017,Pm,,v,2.83,,2.83,"Rahm, Hoffmann, Ashcroft, Chem. Eur. J. 2016, 22, 14625",Figure 2 (read from figure),transcribed from the periodic-table figure; spot-check
+rahm2017,Sm,,v,2.8,,2.8,"Rahm, Hoffmann, Ashcroft, Chem. Eur. J. 2016, 22, 14625",Figure 2 (read from figure),transcribed from the periodic-table figure; spot-check
+rahm2017,Eu,,v,2.8,,2.8,"Rahm, Hoffmann, Ashcroft, Chem. Eur. J. 2016, 22, 14625",Figure 2 (read from figure),transcribed from the periodic-table figure; spot-check
+rahm2017,Gd,,v,2.77,,2.77,"Rahm, Hoffmann, Ashcroft, Chem. Eur. J. 2016, 22, 14625",Figure 2 (read from figure),transcribed from the periodic-table figure; spot-check
+rahm2017,Tb,,v,2.76,,2.76,"Rahm, Hoffmann, Ashcroft, Chem. Eur. J. 2016, 22, 14625",Figure 2 (read from figure),transcribed from the periodic-table figure; spot-check
+rahm2017,Dy,,v,2.75,,2.75,"Rahm, Hoffmann, Ashcroft, Chem. Eur. J. 2016, 22, 14625",Figure 2 (read from figure),transcribed from the periodic-table figure; spot-check
+rahm2017,Ho,,v,2.73,,2.73,"Rahm, Hoffmann, Ashcroft, Chem. Eur. J. 2016, 22, 14625",Figure 2 (read from figure),transcribed from the periodic-table figure; spot-check
+rahm2017,Er,,v,2.72,,2.72,"Rahm, Hoffmann, Ashcroft, Chem. Eur. J. 2016, 22, 14625",Figure 2 (read from figure),transcribed from the periodic-table figure; spot-check
+rahm2017,Tm,,v,2.71,,2.71,"Rahm, Hoffmann, Ashcroft, Chem. Eur. J. 2016, 22, 14625",Figure 2 (read from figure),transcribed from the periodic-table figure; spot-check
+rahm2017,Yb,,v,2.77,,2.77,"Rahm, Hoffmann, Ashcroft, Chem. Eur. J. 2016, 22, 14625",Figure 2 (read from figure),transcribed from the periodic-table figure; spot-check
+rahm2017,Lu,,v,2.7,,2.7,"Rahm, Hoffmann, Ashcroft, Chem. Eur. J. 2016, 22, 14625",Figure 2 (read from figure),transcribed from the periodic-table figure; spot-check
+rahm2017,Hf,,v,2.64,,2.64,"Rahm, Hoffmann, Ashcroft, Chem. Eur. J. 2016, 22, 14625",Figure 2 (read from figure),transcribed from the periodic-table figure; spot-check
+rahm2017,Ta,,v,2.58,,2.58,"Rahm, Hoffmann, Ashcroft, Chem. Eur. J. 2016, 22, 14625",Figure 2 (read from figure),transcribed from the periodic-table figure; spot-check
+rahm2017,W,,v,2.53,,2.53,"Rahm, Hoffmann, Ashcroft, Chem. Eur. J. 2016, 22, 14625",Figure 2 (read from figure),transcribed from the periodic-table figure; spot-check
+rahm2017,Re,,v,2.49,,2.49,"Rahm, Hoffmann, Ashcroft, Chem. Eur. J. 2016, 22, 14625",Figure 2 (read from figure),transcribed from the periodic-table figure; spot-check
+rahm2017,Os,,v,2.44,,2.44,"Rahm, Hoffmann, Ashcroft, Chem. Eur. J. 2016, 22, 14625",Figure 2 (read from figure),transcribed from the periodic-table figure; spot-check
+rahm2017,Ir,,v,2.4,,2.33,"Rahm, Hoffmann, Ashcroft, Chem. Eur. J. 2016, 22, 14625; corrigendum 2017, 23, 4017",Corrigendum Table 1,corrected in corrigendum
+rahm2017,Pt,,v,2.3,,2.3,"Rahm, Hoffmann, Ashcroft, Chem. Eur. J. 2016, 22, 14625",Figure 2 (read from figure),transcribed from the periodic-table figure; spot-check
+rahm2017,Au,,v,2.26,,2.26,"Rahm, Hoffmann, Ashcroft, Chem. Eur. J. 2016, 22, 14625",Figure 2 (read from figure),transcribed from the periodic-table figure; spot-check
+rahm2017,Hg,,v,2.29,,2.29,"Rahm, Hoffmann, Ashcroft, Chem. Eur. J. 2016, 22, 14625",Figure 2 (read from figure),transcribed from the periodic-table figure; spot-check
+rahm2017,Tl,,v,2.42,,2.42,"Rahm, Hoffmann, Ashcroft, Chem. Eur. J. 2016, 22, 14625",Figure 2 (read from figure),transcribed from the periodic-table figure; spot-check
+rahm2017,Pb,,v,2.49,,2.49,"Rahm, Hoffmann, Ashcroft, Chem. Eur. J. 2016, 22, 14625",Figure 2 (read from figure),transcribed from the periodic-table figure; spot-check
+rahm2017,Bi,,v,2.5,,2.5,"Rahm, Hoffmann, Ashcroft, Chem. Eur. J. 2016, 22, 14625",Figure 2 (read from figure),transcribed from the periodic-table figure; spot-check
+rahm2017,Po,,v,2.5,,2.5,"Rahm, Hoffmann, Ashcroft, Chem. Eur. J. 2016, 22, 14625",Figure 2 (read from figure),transcribed from the periodic-table figure; spot-check
+rahm2017,At,,v,2.47,,2.47,"Rahm, Hoffmann, Ashcroft, Chem. Eur. J. 2016, 22, 14625",Figure 2 (read from figure),transcribed from the periodic-table figure; spot-check
+rahm2017,Rn,,v,2.43,,2.43,"Rahm, Hoffmann, Ashcroft, Chem. Eur. J. 2016, 22, 14625",Figure 2 (read from figure),transcribed from the periodic-table figure; spot-check
+rahm2017,Fr,,v,2.58,,2.58,"Rahm, Hoffmann, Ashcroft, Chem. Eur. J. 2016, 22, 14625",Figure 2 (read from figure),transcribed from the periodic-table figure; spot-check
+rahm2017,Ra,,v,2.92,,2.92,"Rahm, Hoffmann, Ashcroft, Chem. Eur. J. 2016, 22, 14625",Figure 2 (read from figure),transcribed from the periodic-table figure; spot-check
+rahm2017,Ac,,v,2.93,,2.93,"Rahm, Hoffmann, Ashcroft, Chem. Eur. J. 2016, 22, 14625",Figure 2 (read from figure),transcribed from the periodic-table figure; spot-check
+rahm2017,Th,,v,2.88,,2.89,"Rahm, Hoffmann, Ashcroft, Chem. Eur. J. 2016, 22, 14625; corrigendum 2017, 23, 4017",Corrigendum Table 1,corrected in corrigendum
+rahm2017,Pa,,v,2.85,,2.85,"Rahm, Hoffmann, Ashcroft, Chem. Eur. J. 2016, 22, 14625",Figure 2 (read from figure),transcribed from the periodic-table figure; spot-check
+rahm2017,U,,v,2.83,,2.83,"Rahm, Hoffmann, Ashcroft, Chem. Eur. J. 2016, 22, 14625",Figure 2 (read from figure),transcribed from the periodic-table figure; spot-check
+rahm2017,Np,,v,2.81,,2.8,"Rahm, Hoffmann, Ashcroft, Chem. Eur. J. 2016, 22, 14625; corrigendum 2017, 23, 4017",Corrigendum Table 1,corrected in corrigendum
+rahm2017,Pu,,v,2.78,,2.78,"Rahm, Hoffmann, Ashcroft, Chem. Eur. J. 2016, 22, 14625",Figure 2 (read from figure),transcribed from the periodic-table figure; spot-check
+rahm2017,Am,,v,2.76,,2.76,"Rahm, Hoffmann, Ashcroft, Chem. Eur. J. 2016, 22, 14625",Figure 2 (read from figure),transcribed from the periodic-table figure; spot-check
+rahm2017,Cm,,v,2.64,,2.64,"Rahm, Hoffmann, Ashcroft, Chem. Eur. J. 2016, 22, 14625",Figure 2 (read from figure),transcribed from the periodic-table figure; spot-check

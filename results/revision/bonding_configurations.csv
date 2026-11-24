@@ -1,0 +1,4 @@
+symbol,ground_config,bonding_config,dE_eV_PBE0,v_rho_ground,v_rho_bond,r_outer_ground,r_outer_bond,c_orb_ground,c_orb_bond,r_cov_Cordero,r_cov_Pyykko
+Pd,[Kr]4d10,[Kr]4d9 5s1,0.88,2.1567,2.3102,0.5801,1.3772,0.4814,0.4814,1.39,1.2
+Pr,[Xe]4f3 6s2,[Xe]4f2 5d1 6s2,1.19,2.8599,2.8396,2.0807,1.9467,0.8164,0.8023,2.03,1.76
+Nd,[Xe]4f4 6s2,[Xe]4f3 5d1 6s2,1.68,2.8357,2.8243,2.0437,1.915,0.7988,0.7847,2.01,1.74

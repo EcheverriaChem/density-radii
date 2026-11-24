@@ -1,0 +1,5 @@
+Z,symbol,charge,configuration,ground_term,multiplicity,status,note
+46,Pd,0,[Kr]4d9 5s1,3D,3,BONDING CONFIGURATION (R2 / Step 8b),"4d9 5s1 valence configuration of Pd in its compounds; ground state is 4d10 1S"
+58,Ce,0,[Xe]5d2 6s2,3F,3,BONDING CONFIGURATION (R2 / Step 8b),"tetravalent Ce, the oxidation state behind the Pyykko radius; ground state is 4f1 5d1 6s2. f-block recipe"
+59,Pr,0,[Xe]4f2 5d1 6s2,4K,4,BONDING CONFIGURATION (R2 / Step 8b),"trivalent Pr; ground state is 4f3 6s2. f-block recipe"
+60,Nd,0,[Xe]4f3 5d1 6s2,5L,5,BONDING CONFIGURATION (R2 / Step 8b),"trivalent Nd; ground state is 4f4 6s2. f-block recipe"

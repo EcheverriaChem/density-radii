@@ -1,0 +1,404 @@
+Z1,Z2,sym1,sym2,bond,R_pm,R_A,species,species_and_ref,source_type,class,ion,solid,in_range_Z_le_96,pred_router,pred_cordero,pred_pyykko
+3,3,Li,Li,Li–Li,267.29,2.6729,Li2,Li2,experimental,A–A,False,False,True,3.2276,2.56,2.66
+1,10,H,Ne,H–Ne,99.1195,0.9912,NeH+,NeH+ [85],experimental,A–H,True,False,True,0.8862,0.89,0.99
+1,42,H,Mo,H–Mo,170.3,1.703,CH=MoH3,CH=MoH3 [105],calculated,A–H,False,False,True,2.0875,1.85,1.7
+6,6,C,C,C–C,153.1,1.531,C2H6,"C2H6 [65] , p.914, [66]",experimental,A–A,False,False,True,1.2986,1.52,1.5
+1,11,H,Na,H–Na,188.66,1.8866,NaH,NaH,experimental,A–H,False,False,True,2.2673,1.97,1.87
+1,42,H,Mo,H–Mo,170.2,1.702,CH=MoH2F,CH=MoH2F [106],calculated,A–H,False,False,True,2.0875,1.85,1.7
+6,6,C,C,C–C,153.7,1.537,C(CH3)4,C(CH3)4 [67],experimental,A–A,False,False,True,1.2986,1.52,1.5
+1,12,H,Mg,H–Mg,173.0,1.73,MgH2,MgH2 [67],experimental,A–H,False,False,True,1.8802,1.72,1.71
+1,43,H,Tc,H–Tc,159.8,1.598,TcH5,TcH5 PW,calculated,A–H,False,False,True,2.0494,1.78,1.6
+6,6,C,C,C–C,154.0,1.54,diamond,"diamond [65] , p.913",experimental,A–A,False,True,True,1.2986,1.52,1.5
+1,13,H,Al,H–Al,157.5,1.575,Al2H6,"Al2H6 [86] , B3LYP",calculated,A–H,False,False,True,1.9416,1.52,1.58
+1,44,H,Ru,H–Ru,156.7,1.567,RuH4,RuH4 PW,calculated,A–H,False,False,True,1.9648,1.77,1.57
+7,7,N,N,N–N,145.3,1.453,N2H4,"N2H4 [65] , p.803(IR)",experimental,A–A,False,False,True,1.0872,1.42,1.42
+1,13,H,Al,H–Al,158.4,1.584,AlH3,"AlH3 [86] , B3LYP",calculated,A–H,False,False,True,1.9416,1.52,1.58
+1,45,H,Rh,H–Rh,161.7,1.617,RhH3,RhH3 PW,calculated,A–H,False,False,True,1.9246,1.73,1.57
+8,8,O,O,O–O,121.7,1.217,O2F2,"O2F2 [65] , p.502",experimental,A–A,False,False,True,0.9306,1.32,1.26
+1,13,H,Al,H–Al,159.0,1.59,AlH3,AlH3 [67],experimental,A–H,False,False,True,1.9416,1.52,1.58
+1,45,H,Rh,H–Rh,152.0,1.52,RhH3,RhH3 [107],calculated,A–H,False,False,True,1.9246,1.73,1.57
+11,11,Na,Na,Na–Na,307.887,3.0789,Na2,Na2,experimental,A–A,False,False,True,3.4814,3.32,3.1
+1,13,H,Al,H–Al,159.7,1.597,AlH3,"AlH3 [83] , MP2",calculated,A–H,False,False,True,1.9416,1.52,1.58
+1,46,H,Pd,H–Pd,151.7,1.517,PdH2,"PdH2 [108] , open 1 A1 state",calculated,A–H,False,False,True,1.1082,1.7,1.52
+14,14,Si,Si,Si–Si,235.0,2.35,Si(s),"Si(s) [65] , p.986",experimental,A–A,False,True,True,2.28,2.22,2.32
+1,14,H,Si,H–Si,148.0,1.48,SiH4,"SiH4 [65] , p.914",experimental,A–H,False,False,True,1.6666,1.42,1.48
+1,46,H,Pd,H–Pd,152.2,1.522,PdH2,PdH2 [79] p.550,calculated,A–H,False,False,True,1.1082,1.7,1.52
+14,14,Si,Si,Si–Si,236.0,2.36,Si,Si[Si(CH3)3]4,experimental,A–A,False,False,True,2.28,2.22,2.32
+1,15,H,P,H–P,142.06,1.4206,PH3,"PH3 [65] , p.846",experimental,A–H,False,False,True,1.4974,1.38,1.43
+1,47,H,Ag,H–Ag,161.791,1.6179,AgH,AgH [96],experimental,A–H,False,False,True,1.8612,1.76,1.6
+15,15,P,P,P–P,221.2,2.212,P2Me4,P2Me4 [68],experimental,A–A,False,False,True,1.9416,2.14,2.22
+1,16,H,S,H–S,134.0,1.34,H2S,H2S [67],experimental,A–H,False,False,True,1.379,1.36,1.35
+1,48,H,Cd,H–Cd,166.4,1.664,CdH+,CdH+,experimental,A–H,True,False,True,1.785,1.75,1.68
+15,15,P,P,P–P,223.0,2.23,P(black),"P(black) [65] , p.89",experimental,A–A,False,True,True,1.9416,2.14,2.22
+1,16,H,S,H–S,134.5,1.345,H2S2,H2S2 [84],experimental,A–H,False,False,True,1.379,1.36,1.35
+1,48,H,Cd,H–Cd,167.917,1.6792,CdH2,CdH2 [109],experimental,A–H,False,False,True,1.785,1.75,1.68
+16,16,S,S,S–S,202.0,2.02,S2Me2,"S2Me2 [65] , p.728",experimental,A–A,False,False,True,1.7048,2.1,2.06
+1,16,H,S,H–S,135.0,1.35,H2S,"H2S [65] , p.705",experimental,A–H,False,False,True,1.379,1.36,1.35
+1,48,H,Cd,H–Cd,171.4,1.714,HCdCdH,"HCdCdH PW, SDD",calculated,A–H,False,False,True,1.785,1.75,1.68
+16,16,S,S,S–S,205.5,2.055,S2H2,S2H2 [69],calculated,A–A,False,False,True,1.7048,2.1,2.06
+1,16,H,S,H–S,135.2,1.352,H2S2,H2S2 [69],calculated,A–H,False,False,True,1.379,1.36,1.35
+1,49,H,In,H–In,172.8,1.728,InH3,InH3 [110],calculated,A–H,False,False,True,2.0833,1.73,1.74
+17,17,Cl,Cl,Cl–Cl,198.79,1.9879,Cl2,Cl2,experimental,A–A,False,False,True,1.5144,2.04,1.98
+1,17,H,Cl,H–Cl,127.49,1.2749,HCl,HCl,experimental,A–H,False,False,True,1.2838,1.33,1.31
+1,49,H,In,H–In,175.0,1.75,InH3,"InH3 [83] , MP2",calculated,A–H,False,False,True,2.0833,1.73,1.74
+19,19,K,K,K–K,390.51,3.9051,K2,K2,experimental,A–A,False,False,True,4.3908,4.06,3.92
+1,18,H,Ar,H–Ar,128.056,1.2806,ArH+,ArH+ [87],experimental,A–H,True,False,True,1.2076,1.37,1.28
+1,49,H,In,H–In,175.0,1.75,InH3,InH3 [111],calculated,A–H,False,False,True,2.0833,1.73,1.74
+29,29,Cu,Cu,Cu–Cu,221.927,2.2193,Cu2,Cu2 [70],experimental,A–A,False,False,True,2.538,2.64,2.24
+1,19,H,K,H–K,224.0,2.24,KH,KH,experimental,A–H,False,False,True,2.722,2.34,2.28
+1,50,H,Sn,H–Sn,170.0,1.7,SnH4,"SnH4 [65] , p.915",experimental,A–H,False,False,True,1.8971,1.7,1.72
+30,30,Zn,Zn,Zn–Zn,237.5,2.375,HZnZnH,HZnZnH [71],calculated,A–A,False,False,True,2.2716,2.44,2.36
+1,20,H,Ca,H–Ca,200.0,2.0,CaH2,CaH2 [67],experimental,A–H,False,False,True,2.3201,2.07,2.03
+1,50,H,Sn,H–Sn,171.0,1.71,SnH4,SnH4 [67],experimental,A–H,False,False,True,1.8971,1.7,1.72
+30,30,Zn,Zn,Zn–Zn,236.0,2.36,Ar-ZnZn-Ar,Ar-ZnZn-Ar [72],experimental,A–A,False,False,True,2.2716,2.44,2.36
+1,20,H,Ca,H–Ca,203.0,2.03,CaH2,"CaH2 [88] , B3LYP",calculated,A–H,False,False,True,2.3201,2.07,2.03
+1,51,H,Sb,H–Sb,169.5,1.695,Sb2H4,Sb2H4 [75],calculated,A–H,False,False,True,1.7575,1.7,1.72
+30,30,Zn,Zn,Zn–Zn,230.5,2.305,(Cp*)ZnZn(Cp*),(Cp*)ZnZn(Cp*) [73],experimental,A–A,False,False,True,2.2716,2.44,2.36
+1,21,H,Sc,H–Sc,181.3,1.813,ScH3,ScH3 [89],calculated,A–H,False,False,True,2.1869,2.01,1.8
+1,51,H,Sb,H–Sb,170.4,1.704,SbH3,SbH3 [99],calculated,A–H,False,False,True,1.7575,1.7,1.72
+32,32,Ge,Ge,Ge–Ge,241.0,2.41,Ge2H6,"Ge2H6 [65] , p.914",experimental,A–A,False,False,True,2.3688,2.4,2.42
+1,21,H,Sc,H–Sc,183.5,1.835,ScH3,"ScH3 [90] , CCSD(T)",calculated,A–H,False,False,True,2.1869,2.01,1.8
+1,51,H,Sb,H–Sb,170.7,1.707,SbH3,"SbH3 [65] , p.879",experimental,A–H,False,False,True,1.7575,1.7,1.72
+32,32,Ge,Ge,Ge–Ge,245.0,2.45,Ge(s),"Ge(s) [74] , p.24",experimental,A–A,False,True,True,2.3688,2.4,2.42
+1,22,H,Ti,H–Ti,168.8,1.688,TiH4,"TiH4 [79] , p.550",calculated,A–H,False,False,True,2.1171,1.91,1.68
+1,52,H,Te,H–Te,164.0,1.64,Te2H2,Te2H2 [69],calculated,A–H,False,False,True,1.6729,1.69,1.68
+33,33,As,As,As–As,242.9,2.429,As2Me4,As2Me4 [68],experimental,A–A,False,False,True,2.0982,2.38,2.42
+1,22,H,Ti,H–Ti,171.1,1.711,TiH4,"TiH4 [91] , BP86",calculated,A–H,False,False,True,2.1171,1.91,1.68
+1,52,H,Te,H–Te,164.4,1.644,Te2H2,Te2H2 [75],calculated,A–H,False,False,True,1.6729,1.69,1.68
+34,34,Se,Se,Se–Se,229.0,2.29,Se2Ph2,"Se2Ph2 [65] , p.728",experimental,A–A,False,False,True,1.929,2.4,2.32
+1,22,H,Ti,H–Ti,171.7,1.717,TiH2Me2,TiH2Me2 [92],calculated,A–H,False,False,True,2.1171,1.91,1.68
+1,52,H,Te,H–Te,166.0,1.66,TeH2,TeH2 [67],experimental,A–H,False,False,True,1.6729,1.69,1.68
+34,34,Se,Se,Se–Se,233.0,2.33,Se2Me2,"Se2Me2 [65] , p.728",experimental,A–A,False,False,True,1.929,2.4,2.32
+1,23,H,V,H–V,162.2,1.622,VH5,VH5 PW,calculated,A–H,False,False,True,2.0431,1.84,1.66
+1,52,H,Te,H–Te,169.0,1.69,TeH2,"TeH2 [100] , B3LYP+SO",calculated,A–H,False,False,True,1.6729,1.69,1.68
+34,34,Se,Se,Se–Se,234.6,2.346,H2Se2,H2Se2 [75],calculated,A–A,False,False,True,1.929,2.4,2.32
+1,23,H,V,H–V,169.8,1.698,HC=VH2F,HC=VH2F [93],calculated,A–H,True,False,True,2.0431,1.84,1.66
+1,53,H,I,H–I,160.99,1.6099,HI,HI,experimental,A–H,False,False,True,1.5968,1.7,1.65
+35,35,Br,Br,Br–Br,228.105,2.281,Br2,Br2,experimental,A–A,False,False,True,1.7682,2.4,2.28
+1,24,H,Cr,H–Cr,154.2,1.542,CrH6(av),"CrH6(av) [79] , p.550",calculated,A–H,False,False,True,1.9987,1.7,1.54
+1,54,H,Xe,H–Xe,160.2813,1.6028,XeH+,XeH+ [112],experimental,A–H,True,False,True,1.5355,1.71,1.63
+37,37,Rb,Rb,Rb–Rb,420.99,4.2099,Rb2,Rb2,experimental,A–A,False,False,True,4.6446,4.4,4.2
+1,24,H,Cr,H–Cr,153.5,1.535,CrH6(av),CrH6(av) [94],calculated,A–H,False,False,True,1.9987,1.7,1.54
+1,56,H,Ba,H–Ba,223.0,2.23,BaH2,BaH2 [67],experimental,A–H,False,False,True,2.7495,2.46,2.28
+47,47,Ag,Ag,Ag–Ag,253.03,2.5303,Ag2,Ag2 [76],experimental,A–A,False,False,True,2.6692,2.9,2.56
+1,25,H,Mn,H–Mn,151.2,1.512,MnH5,MnH5 PW,calculated,A–H,False,False,True,1.9394,1.7,1.51
+1,56,H,Ba,H–Ba,228.1,2.281,BaH2,BaH2 [113],calculated,A–H,False,False,True,2.7495,2.46,2.28
+48,48,Cd,Cd,Cd–Cd,269.6,2.696,HCdCdH,HCdCdH PW,calculated,A–A,False,False,True,2.5168,2.88,2.72
+1,26,H,Fe,H–Fe,148.0,1.48,FeH4,FeH4 PW,calculated,A–H,False,False,True,1.8591,1.63,1.48
+1,56,H,Ba,H–Ba,228.7,2.287,BaH2,BaH2 [88],calculated,A–H,False,False,True,2.7495,2.46,2.28
+50,50,Sn,Sn,Sn–Sn,277.6,2.776,Sn2(CH3)6,Sn2(CH3)6 [77],experimental,A–A,False,False,True,2.741,2.78,2.8
+1,27,H,Co,H–Co,143.1,1.431,CoH3,CoH3 PW,calculated,A–H,False,False,True,1.8062,1.57,1.43
+1,57,H,La,H–La,211.1,2.111,LaH3,"LaH3 [69] , 4-comp. MP2",calculated,A–H,False,False,True,2.5147,2.38,2.12
+50,50,Sn,Sn,Sn–Sn,280.0,2.8,Sn(grey),Sn(grey) [78],experimental,A–A,False,True,True,2.741,2.78,2.8
+1,28,H,Ni,H–Ni,141.7,1.417,NiH2,"NiH2 [79] , p.550",calculated,A–H,False,False,True,1.7554,1.55,1.42
+1,57,H,La,H–La,212.0,2.12,LaH3,LaH3 [114],calculated,A–H,False,False,True,2.5147,2.38,2.12
+51,51,Sb,Sb,Sb–Sb,281.8,2.818,Sb2Me4,Sb2Me4 [77],experimental,A–A,False,False,True,2.4618,2.78,2.8
+1,28,H,Ni,H–Ni,142.6,1.426,NiH2,NiH2 [95],calculated,A–H,False,False,True,1.7554,1.55,1.42
+1,57,H,La,H–La,214.2,2.142,(Cp)2LaH,(Cp)2LaH [115],calculated,A–H,False,False,True,2.5147,2.38,2.12
+52,52,Te,Te,Te–Te,268.6,2.686,Te2(CH3)2,Te2(CH3)2 [77],experimental,A–A,False,False,True,2.2926,2.76,2.72
+1,29,H,Cu,H–Cu,146.2544,1.4625,CuH,CuH [96],experimental,A–H,False,False,True,1.7956,1.63,1.44
+1,58,H,Ce,H–Ce,194.2,1.942,CeH+ 3,CeH+ 3 [89],calculated,A–H,True,False,True,2.5422,2.35,1.95
+52,52,Te,Te,Te–Te,276.2,2.762,H2Te2,"H2Te2 [75] , MP4",calculated,A–A,False,False,True,2.2926,2.76,2.72
+1,30,H,Zn,H–Zn,150.35,1.5035,(Cp)ZnH,(Cp)ZnH PW,calculated,A–H,False,False,True,1.6624,1.53,1.5
+1,58,H,Ce,H–Ce,195.9,1.959,(Cp)2CeH+,(Cp)2CeH+ [115],calculated,A–H,True,False,True,2.5422,2.35,1.95
+53,53,I,I,I–I,266.63,2.6663,I2,I2,experimental,A–A,False,False,True,2.1404,2.78,2.66
+1,30,H,Zn,H–Zn,151.25,1.5125,I-Zn-H,I-Zn-H PW,calculated,A–H,False,False,True,1.6624,1.53,1.5
+1,59,H,Pr,H–Pr,208.0,2.08,PrH3,PrH3 [114],calculated,A–H,False,False,True,2.6078,2.34,2.08
+55,55,Cs,Cs,Cs–Cs,465.1,4.651,Cs2,Cs2,experimental,A–A,False,False,True,5.1098,4.88,4.64
+1,30,H,Zn,H–Zn,151.4,1.514,ZnH+,ZnH+,experimental,A–H,True,False,True,1.6624,1.53,1.5
+1,59,H,Pr,H–Pr,209.3,2.093,PrH3,PrH3 [89],calculated,A–H,False,False,True,2.6078,2.34,2.08
+77,77,Ir,Ir,Ir–Ir,241.7,2.417,H2IrIrH2,"H2IrIrH2 [79] , p.414",calculated,A–A,False,False,True,2.6184,2.82,2.44
+1,30,H,Zn,H–Zn,152.394,1.5239,ZnH2,ZnH2 [97],experimental,A–H,False,False,True,1.6624,1.53,1.5
+1,59,H,Pr,H–Pr,211.2,2.112,(Cp)2PrH,(Cp)2PrH [115],calculated,A–H,False,False,True,2.6078,2.34,2.08
+78,78,Pt,Pt,Pt–Pt,248.3,2.483,HPtPtH,"HPtPtH [79] , p.414",calculated,A–A,False,False,True,2.5422,2.72,2.46
+1,31,H,Ga,H–Ga,155.6,1.556,Ga2H6,Ga2H6 [98],calculated,A–H,False,False,True,1.9014,1.53,1.56
+1,60,H,Nd,H–Nd,207.0,2.07,NdH3,NdH3 PW,calculated,A–H,False,False,True,2.5697,2.32,2.06
+79,79,Au,Au,Au–Au,247.19,2.4719,Au2,Au2,experimental,A–A,False,False,True,2.4916,2.72,2.48
+1,31,H,Ga,H–Ga,156.7,1.567,GaH3,GaH3 [98],calculated,A–H,False,False,True,1.9014,1.53,1.56
+1,60,H,Nd,H–Nd,209.9,2.099,(Cp)2NdH,(Cp)2NdH [115],calculated,A–H,False,False,True,2.5697,2.32,2.06
+80,80,Hg,Hg,Hg–Hg,268.2,2.682,HHgHgH,HHgHgH PW,calculated,A–A,False,False,True,2.3646,2.64,2.66
+1,31,H,Ga,H–Ga,158.7,1.587,GaH3,"GaH3 [83] , MP2",calculated,A–H,False,False,True,1.9014,1.53,1.56
+1,61,H,Pm,H–Pm,206.0,2.06,PmH3,PmH3 PW,calculated,A–H,False,False,True,2.5507,2.3,2.05
+82,82,Pb,Pb,Pb–Pb,286.97,2.8697,(Bp)3Pb Pb(Bp)3,(Bp)3Pb Pb(Bp)3,experimental,A–A,False,False,True,2.8342,2.92,2.88
+1,32,H,Ge,H–Ge,153.0,1.53,GeH4,GeH4 [67],experimental,A–H,False,False,True,1.711,1.51,1.53
+1,61,H,Pm,H–Pm,208.8,2.088,(Cp)2PmH,(Cp)2PmH [115],calculated,A–H,False,False,True,2.5507,2.3,2.05
+82,82,Pb,Pb,Pb–Pb,288.0,2.88,Pb2(CH3)6,"Pb2(CH3)6 [65] , p.915",experimental,A–A,False,False,True,2.8342,2.92,2.88
+1,33,H,As,H–As,151.3,1.513,As2H4,As2H4 [75],calculated,A–H,False,False,True,1.5757,1.5,1.53
+1,62,H,Sm,H–Sm,204.0,2.04,SmH3,SmH3 PW,calculated,A–H,False,False,True,2.5168,2.29,2.04
+83,83,Bi,Bi,Bi–Bi,304.0,3.04,Bi2(SiMe3)4,Bi2(SiMe3)4 [75],calculated,A–A,False,False,True,2.6142,2.96,3.02
+1,33,H,As,H–As,151.9,1.519,AsH3,"AsH3 [65] , p.879",experimental,A–H,False,False,True,1.5757,1.5,1.53
+1,62,H,Sm,H–Sm,207.8,2.078,(Cp)2SmH,(Cp)2SmH [115],calculated,A–H,False,False,True,2.5168,2.29,2.04
+84,84,Po,Po,Po–Po,289.9,2.899,Po2 H2,Po2 H2 [75],calculated,A–A,False,False,True,2.4618,2.8,2.9
+1,33,H,As,H–As,151.1,1.511,AsH3,AsH3 [99],calculated,A–H,False,False,True,1.5757,1.5,1.53
+1,63,H,Eu,H–Eu,233.0,2.33,EuH 3,EuH 3 [114],calculated,A–H,False,False,True,2.5041,2.29,2.0
+84,84,Po,Po,Po–Po,291.0,2.91,Po2 H2,Po2 H2 [69],calculated,A–A,False,False,True,2.4618,2.8,2.9
+1,34,H,Se,H–Se,145.0,1.45,Se2H2,Se2H2 [69],calculated,A–H,False,False,True,1.4911,1.51,1.48
+1,63,H,Eu,H–Eu,233.1,2.331,(Cp)2EuH-,(Cp)2EuH- [115],calculated,A–H,False,False,True,2.5041,2.29,2.0
+85,85,At,At,At–At,297.9,2.979,At2,At2 [81],calculated,A–A,False,False,True,2.3138,3.0,2.94
+1,34,H,Se,H–Se,145.9,1.459,Se2H2,Se2H2 [75],calculated,A–H,False,False,True,1.4911,1.51,1.48
+1,64,H,Gd,H–Gd,202.0,2.02,GdH3,GdH3 PW,calculated,A–H,False,False,True,2.3646,2.27,2.01
+87,87,Fr,Fr,Fr–Fr,447.0,4.47,Fr2,Fr2 [26],calculated,A–A,False,False,True,5.0592,5.2,4.46
+1,34,H,Se,H–Se,146.0,1.46,H2Se,"H2Se [65] , p.705",experimental,A–H,False,False,True,1.4911,1.51,1.48
+1,64,H,Gd,H–Gd,205.9,2.059,(Cp)2GdH,(Cp)2GdH [115],calculated,A–H,False,False,True,2.3646,2.27,2.01
+1,2,H,He,H–He,77.43,0.7743,HeH+,HeH+ [82],experimental,A–H,True,False,True,0.8248,0.59,0.78
+1,34,H,Se,H–Se,146.7,1.467,H2Se,"H2Se [100] , B3LYP+SO",calculated,A–H,False,False,True,1.4911,1.51,1.48
+1,65,H,Tb,H–Tb,201.0,2.01,TbH3,TbH3 PW,calculated,A–H,False,False,True,2.4301,2.25,2.0
+1,3,H,Li,H–Li,159.4,1.594,LiH,LiH,experimental,A–H,False,False,True,2.1404,1.59,1.65
+1,35,H,Br,H–Br,141.456,1.4146,HBr,HBr,experimental,A–H,False,False,True,1.4107,1.51,1.46
+1,65,H,Tb,H–Tb,204.5,2.045,(Cp)2TbH,(Cp)2TbH [115],calculated,A–H,False,False,True,2.4301,2.25,2.0
+1,4,H,Be,H–Be,134.0,1.34,BeH2,BeH2 [67],experimental,A–H,False,False,True,1.6095,1.27,1.34
+1,36,H,Kr,H–Kr,142.119,1.4212,KrH+,KrH+ [101],experimental,A–H,True,False,True,1.3472,1.47,1.49
+1,66,H,Dy,H–Dy,200.0,2.0,DyH3,DyH3 PW,calculated,A–H,False,False,True,2.3963,2.23,1.99
+1,5,H,B,H–B,118.0,1.18,BH3,BH3 [67],experimental,A–H,False,False,True,1.3726,1.15,1.17
+1,37,H,Rb,H–Rb,236.6808,2.3668,RbH,RbH [102],experimental,A–H,False,False,True,2.8489,2.51,2.42
+1,66,H,Dy,H–Dy,203.1,2.031,(Cp)2DyH,(Cp)2DyH [115],calculated,A–H,False,False,True,2.3963,2.23,1.99
+1,5,H,B,H–B,119.1,1.191,BH3,"BH3 [83] , MP2",calculated,A–H,False,False,True,1.3726,1.15,1.17
+1,38,H,Sr,H–Sr,215.0,2.15,SrH2,SrH2 [67],experimental,A–H,False,False,True,2.483,2.26,2.17
+1,67,H,Ho,H–Ho,199.0,1.99,HoH3,HoH3 PW,calculated,A–H,False,False,True,2.3646,2.23,1.98
+1,6,H,C,H–C,109.0,1.09,CH4,CH4,experimental,A–H,False,False,True,1.1759,1.07,1.07
+1,38,H,Sr,H–Sr,216.4,2.164,SrH2,"SrH2 [88] , B3LYP",calculated,A–H,False,False,True,2.483,2.26,2.17
+1,67,H,Ho,H–Ho,201.8,2.018,(Cp)2HoH,(Cp)2HoH [115],calculated,A–H,False,False,True,2.3646,2.23,1.98
+1,6,H,C,H–C,111.0,1.11,C2H6,"C2H6 [65] , p.914",experimental,A–H,False,False,True,1.1759,1.07,1.07
+1,39,H,Y,H–Y,197.1,1.971,YH3,YH3 [89],calculated,A–H,False,False,True,2.3096,2.21,1.95
+1,68,H,Er,H–Er,198.0,1.98,ErH3,ErH3 PW,calculated,A–H,False,False,True,2.3371,2.2,1.97
+1,7,H,N,H–N,100.8,1.008,N2H4,N2H4 [84],experimental,A–H,False,False,True,1.0702,1.02,1.03
+1,40,H,Zr,H–Zr,185.0,1.85,ZrH4,"ZrH4 [79] , p.550",calculated,A–H,False,False,True,2.2503,2.06,1.86
+1,68,H,Er,H–Er,200.5,2.005,(Cp)2ErH,(Cp)2ErH [115],calculated,A–H,False,False,True,2.3371,2.2,1.97
+1,7,H,N,H–N,101.1,1.011,NH2(CH3),"NH2(CH3) [65] , p.914",experimental,A–H,False,False,True,1.0702,1.02,1.03
+1,40,H,Zr,H–Zr,186.8,1.868,ZrH2Me2,ZrH2Me2 [103],calculated,A–H,False,False,True,2.2503,2.06,1.86
+1,69,H,Tm,H–Tm,197.0,1.97,TmH3,TmH3 PW[80],calculated,A–H,False,False,True,2.3117,2.21,1.96
+1,7,H,N,H–N,101.5,1.015,NH3,"NH3 [65] , p.793",experimental,A–H,False,False,True,1.0702,1.02,1.03
+1,40,H,Zr,H–Zr,187.0,1.87,ZrH4,ZrH4 [27],calculated,A–H,False,False,True,2.2503,2.06,1.86
+1,69,H,Tm,H–Tm,199.4,1.994,(Cp)2TmH,(Cp)2TmH [115],calculated,A–H,False,False,True,2.3117,2.21,1.96
+1,7,H,N,H–N,102.2,1.022,NH(CH3)2,"NH(CH3)2 [65] , p.793",experimental,A–H,False,False,True,1.0702,1.02,1.03
+1,40,H,Zr,H–Zr,187.5,1.875,CH2=ZrHCl,CH2=ZrHCl [104],calculated,A–H,False,False,True,2.2503,2.06,1.86
+1,70,H,Yb,H–Yb,201.5,2.015,YbH3,YbH3 PW,calculated,A–H,False,False,True,2.3624,2.18,2.02
+1,8,H,O,H–O,96.0,0.96,H2O,"H2O [65] , p.653",experimental,A–H,False,False,True,0.9919,0.97,0.95
+1,41,H,Nb,H–Nb,175.5,1.755,NbH5,NbH5 PW,calculated,A–H,False,False,True,2.1594,1.95,1.79
+1,71,H,Lu,H–Lu,192.2,1.922,LuH3,"LuH3 [69] ,4-comp. MP2",calculated,A–H,False,False,True,2.17,2.18,1.94
+1,8,H,O,H–O,97.0,0.97,H2O2,H2O2 [69],calculated,A–H,False,False,True,0.9919,0.97,0.95
+1,41,H,Nb,H–Nb,183.7,1.837,HC=NbH2F,HC=NbH2F [93],calculated,A–H,False,False,True,2.1594,1.95,1.79
+1,9,H,F,H–F,91.76,0.9176,HF,HF,experimental,A–H,False,False,True,0.9327,0.88,0.96
+1,42,H,Mo,H–Mo,166.2,1.662,MoH6(av),"MoH6(av) [79] , p.550 Chem. Eur. J. 2009, 15, 186 – 197  2009 Wiley-VCH Verlag GmbH & Co. KGaA, Weinheim www.chemeurj.org 189 FULL PAPER Molecular Single-Bond Covalent Radii for Elements 1–118 15213765, 2009, 1, Downloaded from https://chemistry-europe.onlinelibrary.wiley.com/doi/10.1002/chem.200800987 by Universidad De Zaragoza, Wiley Online Library on [21/09/2026]. See the Terms and Conditions (https://onlinelibrary.wiley.com/terms-and-conditions) on Wiley Online Library for rules of use; OA articles are governed by the applicable Creative Commons License Table 4. (Continued) Z1 Z2 Distance Species Reference Z1 Z2 Distance Species Reference Z1 Z2 Distance Species Reference",calculated,A–H,False,False,True,2.0875,1.85,1.7
+1,71,H,Lu,H–Lu,196.0,1.96,LuH3,LuH3 PW,calculated,A–H,False,False,True,2.17,2.18,1.94
+1,94,H,Pu,H–Pu,208.1,2.081,PuH3,"PuH3 PW,[131] B3LYP 6 A2",calculated,A–H,False,False,True,2.4597,2.18,2.04
+6,15,C,P,C–P,183.8,1.838,P2Me4,P2Me4 [68],experimental,A–C,False,False,True,1.6201,1.83,1.86
+1,71,H,Lu,H–Lu,197.2,1.972,(Cp)2LuH,(Cp)2LuH [115],calculated,A–H,False,False,True,2.17,2.18,1.94
+1,95,H,Am,H–Am,202.6,2.026,AmH3,AmH3 PW,calculated,A–H,False,False,True,2.4344,2.11,1.98
+6,15,C,P,C–P,184.3,1.843,P(CH3)3,"P(CH3)3 [65] , p.846",experimental,A–C,False,False,True,1.6201,1.83,1.86
+1,72,H,Hf,H–Hf,183.2,1.832,HfH4,"HfH4 [79] , p.550",calculated,A–H,False,False,True,2.1023,2.06,1.84
+1,96,H,Cm,H–Cm,198.4,1.984,CmH3,CmH3 PW,calculated,A–H,False,False,True,2.3244,2.0,1.98
+6,15,C,P,C–P,184.7,1.847,P(CH3)3,P(CH3)3 [67] (ED),experimental,A–C,False,False,True,1.6201,1.83,1.86
+1,72,H,Hf,H–Hf,185.0,1.85,HfH4,HfH4 [27],calculated,A–H,False,False,True,2.1023,2.06,1.84
+1,97,H,E97,H–E97,199.6,1.996,BkH3,BkH3 PW,calculated,A–H,False,False,False,,,
+6,16,C,S,C–S,180.2,1.802,S(CH3)2,S(CH3)2 [67] (MW),experimental,A–C,False,False,True,1.5017,1.81,1.78
+1,72,H,Hf,H–Hf,186.9,1.869,CH2=HfHCl,CH2=HfHCl [104],calculated,A–H,False,False,True,2.1023,2.06,1.84
+1,99,H,E99,H–E99,197.2,1.972,EsH3,EsH3 PW,calculated,A–H,False,False,False,,,
+6,16,C,S,C–S,180.7,1.807,(ED),(ED),experimental,A–C,False,False,True,1.5017,1.81,1.78
+1,73,H,Ta,H–Ta,176.9,1.769,TaH5,TaH5 PW,calculated,A–H,False,False,True,2.0558,2.01,1.78
+1,100,H,E100,H–E100,199.1,1.991,FmH3,FmH3 PW,calculated,A–H,False,False,False,,,
+6,16,C,S,C–S,181.9,1.819,MeSH,MeSH [84],experimental,A–C,False,False,True,1.5017,1.81,1.78
+1,73,H,Ta,H–Ta,183.9,1.839,HC=TaH2F,HC=TaH2F [93],calculated,A–H,True,False,True,2.0558,2.01,1.78
+1,101,H,E101,H–E101,204.6,2.046,MdH3,MdH3 PW,calculated,A–H,False,False,False,,,
+6,17,C,Cl,C–Cl,178.5,1.785,ClCH3,"ClCH3 [67] , (MW)",experimental,A–C,False,False,True,1.4065,1.78,1.74
+1,74,H,W,H–W,168.45,1.6845,WH6(av),"WH6(av) [79] , p.550",calculated,A–H,False,False,True,1.9817,1.93,1.69
+1,102,H,E102,H–E102,207.8,2.078,NoH3,NoH3 PW,calculated,A–H,False,False,False,,,
+6,19,C,K,C–K,269.8,2.698,K-CH3,K-CH3 [141],calculated,A–C,False,False,True,2.8447,2.79,2.71
+1,74,H,W,H–W,169.0,1.69,WH6(av),"WH6(av) [116,117]",experimental,A–H,False,False,True,1.9817,1.93,1.69
+1,102,H,E102,H–E102,212.2,2.122,NoH2,"NoH2 PW, [132]",calculated,A–H,False,False,False,,,
+6,20,C,Ca,C–Ca,245.2,2.452,CaMe2,CaMe2 [113],calculated,A–C,False,False,True,2.4428,2.52,2.46
+1,74,H,W,H–W,171.9,1.719,CH=WH2F,CH=WH2F [106],calculated,A–H,False,False,True,1.9817,1.93,1.69
+1,103,H,E103,H–E103,193.4,1.934,LrH3,"LrH3 [69] , 4-comp. MP2",calculated,A–H,False,False,False,,,
+6,20,C,Ca,C–Ca,248.7,2.487,CaMe2,CaMe2 [142],calculated,A–C,False,False,True,2.4428,2.52,2.46
+1,75,H,Re,H–Re,162.6,1.626,ReH5,"ReH5 [79] , p.391",calculated,A–H,False,False,True,1.9648,1.82,1.63
+1,103,H,E103,H–E103,197.2,1.972,LrH3,LrH3 PW,calculated,A–H,False,False,False,,,
+6,21,C,Sc,C–Sc,218.3,2.183,ScMe3,ScMe3 [89],calculated,A–C,False,False,True,2.3096,2.46,2.23
+1,75,H,Re,H–Re,163.0,1.63,ReH5,ReH5 PW,calculated,A–H,False,False,True,1.9648,1.82,1.63
+1,104,H,E104,H–E104,189.1,1.891,RfH4,RfH4 PW,calculated,A–H,False,False,False,,,
+6,22,C,Ti,C–Ti,205.0,2.05,TiH2Me2,TiH2Me2 [92],calculated,A–C,False,False,True,2.2398,2.36,2.11
+1,75,H,Re,H–Re,166.0,1.66,H4ReReH4,"H4ReReH4 [79] , p.414",calculated,A–H,False,False,True,1.9648,1.82,1.63
+1,105,H,E105,H–E105,181.7,1.817,DbH3,DbH3 PW,calculated,A–H,False,False,False,,,
+6,22,C,Ti,C–Ti,208.5,2.085,TiMe4,"TiMe4 [143,144]",experimental,A–C,False,False,True,2.2398,2.36,2.11
+1,76,H,Os,H–Os,159.4,1.594,OsH4,OsH4 PW,calculated,A–H,False,False,True,1.8887,1.75,1.61
+1,105,H,E105,H–E105,180.9,1.809,DbH5,DbH5 PW,calculated,A–H,False,False,False,,,
+6,29,C,Cu,C–Cu,186.6,1.866,CuMe,CuMe [145],calculated,A–C,False,False,True,1.9183,2.08,1.87
+1,76,H,Os,H–Os,160.1,1.601,OsH4,"OsH4 [79] , p.391",calculated,A–H,False,False,True,1.8887,1.75,1.61
+1,106,H,E106,H–E106,176.5,1.765,SgH3,SgH3 PW,calculated,A–H,False,False,False,,,
+6,29,C,Cu,C–Cu,192.2,1.922,CuMe2 ,CuMe2  [145],calculated,A–C,True,False,True,1.9183,2.08,1.87
+1,76,H,Os,H–Os,161.4,1.614,H3Os-OsH3,"H3Os-OsH3 [79] , p.414",calculated,A–H,False,False,True,1.8887,1.75,1.61
+1,106,H,E106,H–E106,178.688,1.7869,SgH6,SgH6 PW,calculated,A–H,False,False,False,,,
+6,30,C,Zn,C–Zn,193.0,1.93,Zn(CH3)2,"Zn(CH3)2 [67] , (ED)",experimental,A–C,False,False,True,1.7851,1.98,1.93
+1,76,H,Os,H–Os,163.0,1.63,OsH4,OsH4 [118],calculated,A–H,False,False,True,1.8887,1.75,1.61
+1,107,H,E107,H–E107,172.2,1.722,BhH3,BhH3 PW,calculated,A–H,False,False,False,,,
+6,31,C,Ga,C–Ga,196.7,1.967,Ga(CH3)3,"Ga(CH3)3 [67] , (ED)",experimental,A–C,False,False,True,2.0241,1.98,1.99
+1,76,H,Os,H–Os,165.3,1.653,ReH4Me,"ReH4Me [79] , p.398",calculated,A–H,False,False,True,1.8887,1.75,1.61
+1,107,H,E107,H–E107,174.355,1.7436,BhH5,BhH5 PW,calculated,A–H,False,False,False,,,
+6,32,C,Ge,C–Ge,194.5,1.945,Ge(CH3)4,"Ge(CH3)4 [67] , (ED)",experimental,A–C,False,False,True,1.8337,1.96,1.96
+1,77,H,Ir,H–Ir,154.5,1.545,IrH2Me,"IrH2Me [79] , p.398",calculated,A–H,False,False,True,1.8358,1.72,1.54
+1,108,H,E108,H–E108,165.3,1.653,HsH3,HsH3 PW,calculated,A–H,False,False,False,,,
+6,32,C,Ge,C–Ge,195.0,1.95,GeH2(CH3)2,"GeH2(CH3)2 [65] , p.914",experimental,A–C,False,False,True,1.8337,1.96,1.96
+1,77,H,Ir,H–Ir,154.3,1.543,IrH3,IrH3 PW,calculated,A–H,False,False,True,1.8358,1.72,1.54
+1,108,H,E108,H–E108,165.6,1.656,HsH4,HsH4 PW,calculated,A–H,False,False,False,,,
+6,32,C,Ge,C–Ge,196.0,1.96,(H3Ge)3CH,"(H3Ge)3CH [146] , (ED)",experimental,A–C,False,False,True,1.8337,1.96,1.96
+1,77,H,Ir,H–Ir,154.8,1.548,IrH3,"IrH3 [79] , p.391",calculated,A–H,False,False,True,1.8358,1.72,1.54
+1,109,H,E109,H–E109,162.999,1.63,MtH3,MtH3 PW,calculated,A–H,False,False,False,,,
+6,32,C,Ge,C–Ge,197.0,1.97,(H3Ge)4C,"(H3Ge)4C [146] , (ED)",experimental,A–C,False,False,True,1.8337,1.96,1.96
+1,77,H,Ir,H–Ir,155.3,1.553,H2Ir-IrH2,"H2Ir-IrH2 [79] , p.414",calculated,A–H,False,False,True,1.8358,1.72,1.54
+1,110,H,E110,H–E110,156.855,1.5686,DsH2,DsH2 PW,calculated,A–H,False,False,False,,,
+6,33,C,As,C–As,196.8,1.968,As(CH3)3,"As(CH3)3 [67] , (ED)",experimental,A–C,False,False,True,1.6984,1.95,1.96
+1,78,H,Pt,H–Pt,151.8,1.518,MePtH,"MePtH [79] , p.398",calculated,A–H,False,False,True,1.7977,1.67,1.55
+1,110,H,E110,H–E110,162.7,1.627,DsH3,DsH3 PW,calculated,A–H,False,False,False,,,
+6,34,C,Se,C–Se,194.3,1.943,Se(CH3)2,"Se(CH3)2 [67] , (MW)",experimental,A–C,False,False,True,1.6138,1.96,1.91
+1,78,H,Pt,H–Pt,152.0,1.52,HPtPtH,"HPtPtH [79] , p.414",calculated,A–H,False,False,True,1.7977,1.67,1.55
+1,111,H,E111,H–E111,149.9,1.499,(E111)H,"(E111)H [133] , SOPP/ CCSD(T)",calculated,A–H,False,False,False,,,
+6,35,C,Br,C–Br,193.2,1.932,BrCH3,"BrCH3 [67] , (MW)",experimental,A–C,False,False,True,1.5334,1.96,1.89
+1,78,H,Pt,H–Pt,152.0,1.52,PtH2,"PtH2 [79] , p.550",calculated,A–H,False,False,True,1.7977,1.67,1.55
+1,111,H,E111,H–E111,151.0,1.51,(E111)H,(E111)H [134],calculated,A–H,False,False,False,,,
+6,37,C,Rb,C–Rb,285.9,2.859,Rb-CH3,Rb-CH3 [141],calculated,A–C,False,False,True,2.9716,2.96,2.85
+1,78,H,Pt,H–Pt,152.0,1.52,PtH2,PtH2 [95],calculated,A–H,False,False,True,1.7977,1.67,1.55
+1,111,H,E111,H–E111,152.9,1.529,(E111)H,(E111)H [135],calculated,A–H,False,False,False,,,
+6,38,C,Sr,C–Sr,262.1,2.621,SrMe2,SrMe2 [142],calculated,A–C,False,False,True,2.6057,2.71,2.6
+1,78,H,Pt,H–Pt,152.0,1.52,HPtCH3,"HPtCH3 [119,120]",experimental,A–H,False,False,True,1.7977,1.67,1.55
+1,111,H,E111,H–E111,154.3,1.543,(E111)H,(E111)H PW ADF,calculated,A–H,False,False,False,,,
+6,39,C,Y,C–Y,234.8,2.348,YMe3,YMe3 [89],calculated,A–C,False,False,True,2.4323,2.66,2.38
+1,79,H,Au,H–Au,152.3675,1.5237,AuH,AuH [96],experimental,A–H,False,False,True,1.7724,1.67,1.56
+1,111,H,E111,H–E111,154.6,1.546,(E111)H,"(E111)H [136] , BDF",calculated,A–H,False,False,False,,,
+6,40,C,Zr,C–Zr,227.3,2.273,ZrMe4,ZrMe4 [144],calculated,A–C,False,False,True,2.373,2.51,2.29
+1,80,H,Hg,H–Hg,159.44,1.5944,HgH+,HgH+,experimental,A–H,True,False,True,1.7089,1.63,1.65
+1,112,H,E112,H–E112,151.7,1.517,(E112)H+,(E112)H+ [137],calculated,A–H,True,False,False,,,
+6,41,C,Nb,C–Nb,220.4,2.204,Nb(CH3)5,Nb(CH3)5 [147],calculated,A–C,False,False,True,2.2821,2.4,2.22
+1,80,H,Hg,H–Hg,163.315,1.6332,HgH2,HgH2 [121],experimental,A–H,False,False,True,1.7089,1.63,1.65
+1,112,H,E112,H–E112,158.3,1.583,(E112)H+,(E112)H+ [41],calculated,A–H,True,False,False,,,
+6,47,C,Ag,C–Ag,211.1,2.111,AgMe,"AgMe [145] , MP2",calculated,A–C,False,False,True,1.9839,2.21,2.03
+1,80,H,Hg,H–Hg,168.7,1.687,HHgHgH,HHgHgH PW,calculated,A–H,False,False,True,1.7089,1.63,1.65
+1,113,H,E113,H–E113,168.0,1.68,(E113)H3,"(E113)H3 [138] , (av of T)",calculated,A–H,False,False,False,,,
+6,48,C,Cd,C–Cd,211.2,2.112,Cd(CH3)2,"Cd(CH3)2 [67] , (RR)",experimental,A–C,False,False,True,1.9077,2.2,2.11
+1,81,H,Tl,H–Tl,173.0,1.73,TlH3,TlH3 [122],calculated,A–H,False,False,True,2.1065,1.76,1.76
+1,114,H,E114,H–E114,175.0,1.75,(E114)H4,(E114)H4 [124],calculated,A–H,False,False,False,,,
+6,49,C,In,C–In,216.1,2.161,In(CH3)3,"In(CH3)3 [67] , (ED)",experimental,A–C,False,False,True,2.206,2.18,2.17
+1,81,H,Tl,H–Tl,174.3,1.743,TlH3,"TlH3 [83] , MP2",calculated,A–H,False,False,True,2.1065,1.76,1.76
+1,115,H,E115,H–E115,193.8,1.938,(E115)H3,(E115)H3 PW,calculated,A–H,False,False,False,,,
+6,49,C,In,C–In,217.9,2.179,In(CH3)3,"In(CH3)3 [148] , B3PW91",calculated,A–C,False,False,True,2.206,2.18,2.17
+1,81,H,Tl,H–Tl,179.0,1.79,TlH3,TlH3 [111],calculated,A–H,False,False,True,2.1065,1.76,1.76
+1,116,H,E116,H–E116,204.7,2.047,(E116)H2,"(E116)H2 [100] , B3LYP+SO",calculated,A–H,False,False,False,,,
+6,50,C,Sn,C–Sn,213.4,2.134,Sn(CH3)4,Sn(CH3)4 [149],experimental,A–C,False,False,True,2.0198,2.15,2.15
+1,82,H,Pb,H–Pb,174.3,1.743,PbH4,PbH4 [123],calculated,A–H,False,False,True,1.9437,1.77,1.76
+1,116,H,E116,H–E116,204.7,2.047,(E116)H2,(E116)H2 [139],calculated,A–H,False,False,False,,,
+6,50,C,Sn,C–Sn,214.4,2.144,,"[67] , (ED)",experimental,A–C,False,False,True,2.0198,2.15,2.15
+1,82,H,Pb,H–Pb,175.0,1.75,PbH4,PbH4 [124],calculated,A–H,False,False,True,1.9437,1.77,1.76
+1,116,H,E116,H–E116,205.9,2.059,(E116)H2,"(E116)H2 [100] , CCSD(T)+SO",calculated,A–H,False,False,False,,,
+6,51,C,Sb,C–Sb,216.3,2.163,Sb(CH3)3,"Sb(CH3)3 [67] , (ED)",experimental,A–C,False,False,True,1.8802,2.15,2.15
+1,82,H,Pb,H–Pb,175.4,1.754,Pb2H2,Pb2H2 [123],calculated,A–H,False,False,True,1.9437,1.77,1.76
+1,117,H,E117,H–E117,193.8,1.938,H(E117),H(E117) [126],calculated,A–H,False,False,False,,,
+6,51,C,Sb,C–Sb,216.5,2.165,Sb(CH3)5,"Sb(CH3)5 [150] , (ED)",experimental,A–C,False,False,True,1.8802,2.15,2.15
+1,83,H,Bi,H–Bi,177.59,1.7759,BiH3,BiH3 [125],experimental,A–H,False,False,True,1.8337,1.79,1.83
+1,117,H,E117,H–E117,194.9,1.949,H(E117),H(E117) [127],calculated,A–H,False,False,False,,,
+6,52,C,Te,C–Te,214.2,2.142,Te(CH3)2,"Te(CH3)2 [67] , (ED)",experimental,A–C,False,False,True,1.7956,2.14,2.11
+1,84,H,Po,H–Po,174.0,1.74,Po2H2,Po2H2 [75],calculated,A–H,False,False,True,1.7575,1.71,1.77
+1,117,H,E117,H–E117,198.3,1.983,H(E117),"H(E117) [39] , CCSD(T)",calculated,A–H,False,False,False,,,
+6,53,C,I,C–I,213.2,2.132,ICH3,"ICH3 [67] , (MW)",experimental,A–C,False,False,True,1.7195,2.15,2.08
+1,84,H,Po,H–Po,174.0,1.74,Po2 H2,Po2 H2 [69],calculated,A–H,False,False,True,1.7575,1.71,1.77
+1,118,H,E118,H–E118,199.2,1.992,(E118)H+,"(E118)H+ [41] , CCSD(T)",calculated,A–H,True,False,False,,,
+6,56,C,Ba,C–Ba,275.7,2.757,BaMe2,BaMe2 [142],calculated,A–C,False,False,True,2.8722,2.91,2.71
+1,84,H,Po,H–Po,180.8,1.808,PoH2,"PoH2 [100] ,B3LYP SO",calculated,A–H,False,False,True,1.7575,1.71,1.77
+3,6,Li,C,Li–C,203.0,2.03,LiCH(SiMe3)2,LiCH(SiMe3)2 [140],experimental,A–C,False,False,True,2.2631,2.04,2.08
+6,57,C,La,C–La,249.5,2.495,LaMe3,LaMe3 [89],calculated,A–C,False,False,True,2.6374,2.83,2.55
+1,85,H,At,H–At,173.7,1.737,HAt,"HAt [126] ,CCSD(T)",calculated,A–H,False,False,True,1.6835,1.81,1.79
+3,11,Li,Na,Li–Na,288.5,2.885,LiNa,LiNa,experimental,A–B,False,False,True,3.3545,2.94,2.88
+6,57,C,La,C–La,257.6,2.576,(Cp)2LaCF3,(Cp)2LaCF3 [151],calculated,A–C,False,False,True,2.6374,2.83,2.55
+1,85,H,At,H–At,174.2,1.742,HAt,HAt [127],calculated,A–H,False,False,True,1.6835,1.81,1.79
+3,19,Li,K,Li–K,331.915,3.3192,LiK,LiK [57],experimental,A–B,False,False,True,3.8092,3.31,3.29
+6,59,C,Pr,C–Pr,246.1,2.461,PrMe3,PrMe3 [89],calculated,A–C,False,False,True,2.7305,2.79,2.51
+1,86,H,Rn,H–Rn,161.8,1.618,RnH+,"RnH+ [41] , CCSD(T)",calculated,A–H,True,False,True,1.6243,1.81,1.74
+3,55,Li,Cs,Li–Cs,366.81,3.6681,LiCs,LiCs [58],experimental,A–B,False,False,True,4.1687,3.72,3.65
+6,60,C,Nd,C–Nd,244.0,2.44,NdMe3,NdMe3 [89],calculated,A–C,False,False,True,2.6924,2.77,2.49
+1,87,H,Fr,H–Fr,250.9,2.509,FrH,FrH PW,calculated,A–H,False,False,True,3.0562,2.91,2.55
+4,6,Be,C,Be–C,169.8,1.698,Be(CH3)2,Be(CH3)2 [67],experimental,A–C,False,False,True,1.7322,1.72,1.77
+6,61,C,Pm,C–Pm,243.1,2.431,PmMe3,PmMe3 [89],calculated,A–C,False,False,True,2.6734,2.75,2.48
+1,88,H,Ra,H–Ra,233.1,2.331,RaH2,RaH2 PW,calculated,A–H,False,False,True,2.7051,2.52,2.33
+5,6,B,C,B–C,157.8,1.578,B(CH3)3,B(CH3)3 [67],experimental,A–C,False,False,True,1.4953,1.6,1.6
+6,62,C,Sm,C–Sm,241.7,2.417,NdMe3,NdMe3 [89],calculated,A–C,False,False,True,2.6395,2.74,2.47
+1,89,H,Ac,H–Ac,220.8,2.208,AcH3,AcH3 PW,calculated,A–H,False,False,True,2.5232,2.46,2.18
+6,7,C,N,C–N,146.6,1.466,NH(CH3)2,"NH(CH3)2 [65] , p.793",experimental,A–C,False,False,True,1.1929,1.47,1.46
+6,63,C,Eu,C–Eu,270.1,2.701,EuMe3,EuMe3 [89],calculated,A–C,False,False,True,2.6268,2.74,2.43
+1,89,H,Ac,H–Ac,221.5,2.215,AcH3,"AcH3 [69] , 4-comp. MP2",calculated,A–H,False,False,True,2.5232,2.46,2.18
+6,7,C,N,C–N,147.4,1.474,NH2(CH3),"NH2(CH3) [65] , p.793",experimental,A–C,False,False,True,1.1929,1.47,1.46
+6,64,C,Gd,C–Gd,239.3,2.393,GdMe3,GdMe3 [89],calculated,A–C,False,False,True,2.4873,2.72,2.44
+1,90,H,Th,H–Th,205.8,2.058,ThH4,ThH4 [128],calculated,A–H,False,False,True,2.3942,2.37,2.07
+6,8,C,O,C–O,141.6,1.416,O(CH3)2,"O(CH3)2 [65] , p.500 (ED)",experimental,A–C,False,False,True,1.1146,1.42,1.38
+6,65,C,Tb,C–Tb,237.5,2.375,TbMe3,TbMe3 [89],calculated,A–C,False,False,True,2.5528,2.7,2.43
+1,90,H,Th,H–Th,207.1,2.071,ThH4,ThH4 [129],calculated,A–H,False,False,True,2.3942,2.37,2.07
+6,8,C,O,C–O,142.5,1.425,MeOH,MeOH [84],experimental,A–C,False,False,True,1.1146,1.42,1.38
+6,66,C,Dy,C–Dy,236.9,2.369,DyMe3,DyMe3 [89],calculated,A–C,False,False,True,2.519,2.68,2.42
+1,90,H,Th,H–Th,207.1,2.071,ThH4,ThH4 [129],calculated,A–H,False,False,True,2.3942,2.37,2.07
+6,9,C,F,C–F,138.9,1.389,FCH3,FCH3 [67],experimental,A–C,False,False,True,1.0554,1.33,1.39
+6,67,C,Ho,C–Ho,235.8,2.358,HoMe3,HoMe3 [89],calculated,A–C,False,False,True,2.4873,2.68,2.41
+1,91,H,Pa,H–Pa,200.6,2.006,PaH5,PaH5 PW,calculated,A–H,False,False,True,2.4492,2.31,2.01
+6,11,C,Na,C–Na,231.5,2.315,Na-CH3,Na-CH3,experimental,A–C,False,False,True,2.39,2.42,2.3
+6,68,C,Er,C–Er,234.7,2.347,ErMe3,ErMe3 [89],calculated,A–C,False,False,True,2.4598,2.65,2.4
+1,92,H,U,H–U,196.7,1.967,UH6,UH6 [17],experimental,A–H,False,False,True,2.4174,2.27,2.02
+6,12,C,Mg,C–Mg,212.6,2.126,Mg(CH3)2,Mg(CH3)2 [67],experimental,A–C,False,False,True,2.0029,2.17,2.14
+6,69,C,Tm,C–Tm,234.0,2.34,TmMe3,TmMe3 [89],calculated,A–C,False,False,True,2.4344,2.66,2.39
+1,92,H,U,H–U,206.6,2.066,UH3,"UH3 [130] ,DFT 4 A2",calculated,A–H,False,False,True,2.4174,2.27,2.02
+6,13,C,Al,C–Al,195.7,1.957,Al(CH3)3,Al(CH3)3 [67],experimental,A–C,False,False,True,2.0643,1.97,2.01
+6,70,C,Yb,C–Yb,261.5,2.615,YbMe3,YbMe3 [89],calculated,A–C,False,False,True,2.4851,2.63,2.45
+1,93,H,Np,H–Np,202.9,2.029,NpH4,NpH4 PW,calculated,A–H,False,False,True,2.3942,2.21,2.03
+6,14,C,Si,C–Si,187.0,1.87,(CH3)3SiH,"(CH3)3SiH [65] , p.914",experimental,A–C,False,False,True,1.7893,1.87,1.91
+6,71,C,Lu,C–Lu,232.4,2.324,LuMe3,LuMe3 [89],calculated,A–C,False,False,True,2.2927,2.63,2.37
+1,94,H,Pu,H–Pu,200.7,2.007,PuH4,PuH4 PW,calculated,A–H,False,False,True,2.4597,2.18,2.04
+6,14,C,Si,C–Si,187.5,1.875,Si(CH3)4,"Si(CH3)4 [67] , (ED)",experimental,A–C,False,False,True,1.7893,1.87,1.91
+6,72,C,Hf,C–Hf,225.2,2.252,HfMe4,"HfMe4 [144] www.chemeurj.org  2009 Wiley-VCH Verlag GmbH & Co. KGaA, Weinheim Chem. Eur. J. 2009, 15, 186 – 197 190 P. Pyykkç and M. Atsumi 15213765, 2009, 1, Downloaded from https://chemistry-europe.onlinelibrary.wiley.com/doi/10.1002/chem.200800987 by Universidad De Zaragoza, Wiley Online Library on [21/09/2026]. See the Terms and Conditions (https://onlinelibrary.wiley.com/terms-and-conditions) on Wiley Online Library for rules of use; OA articles are governed by the applicable Creative Commons License Group 6: Six-coordinated hydride and methyl compounds were used. Because both adopt low-symmetry, C3v struc- tures, an average of the two distances was taken. Group 7: ML5 systems were used. Group 8: ML4 systems were used. Group 9: ML3 systems were used. Group 10: ML2 systems of C2v symmetry were used. Group 11: ML, M=H, Me. In the coinage-metal group (M=Cu, Ag, Au, Rg) (Rg=roentgenium, E111), the mono- valent systems ML, L=H, Me were used. The intermetallics AgCu and AuCu were added. The resulting r(Au) is 4 pm smaller than r(Ag). Group 12: ML2 systems were used. The Zn–Zn distances of the new dizinc compounds fit in well. Group 13: ML3 systems were used. As discussed by Himmel and Gaertner,[32] variations of Ga–Ga distances occur in the range 239–254 pm for putative single bonds. The present 2r(Ga) is 248 pm. Group 14: Elements of Group 14 were treated as tetracoor- dinate. Concerning the homonuclear E–E distances we in- clude, in addition to molecular data, solid diamond, Si, Ge, and grey tin. As noted by Pauling on p. 247 of reference [2], the E–E’ distance in SiC is anomalously short. He attributed it to an ionic contribution. Another reason could be the in- volvement of Si d orbitals. We omit SiC. More generally this anomalous shortness affects the bonds in the neighborhood (Si, P, S)–(O, F). Pitzer[33] evoked differences in core repul- sion between 2nd-row (2s2p) and 3rd-row (3s3p) elements, to explain it. Concerning the Group 14 halides, EX4, for E=Ge–Pb and X=I, the present radii give distances, close to the ex- perimental ones.[31] For the more ionic systems X=F–Br, the experimental R are below the sum of radii. Table 4. (Continued) Z1 Z2 Distance Species Reference Z1 Z2 Distance Species Reference Z1 Z2 Distance Species Reference",experimental,A–C,False,False,True,2.225,2.51,2.27
+6,73,C,Ta,C–Ta,216.6,2.166,TaMe5 (av),TaMe5 (av) [150],experimental,A–C,False,False,True,2.1785,2.46,2.21
+9,35,F,Br,F–Br,175.894,1.7589,BrF,BrF,experimental,A–B,False,False,True,1.2902,1.77,1.78
+14,42,Si,Mo,Si–Mo,255.7,2.557,H3 Si-MoH,H3 Si-MoH [161],calculated,A–B,False,False,True,2.7009,2.65,2.54
+6,73,C,Ta,C–Ta,219.8,2.198,TaMe5,TaMe5 [147],calculated,A–C,False,False,True,2.1785,2.46,2.21
+9,36,F,Kr,F–Kr,187.693,1.8769,KrF2,KrF2 [153],experimental,A–B,False,False,True,1.2267,1.73,1.81
+14,74,Si,W,Si–W,254.8,2.548,H3 Si-WH,H3 Si-WH [161],calculated,A–B,False,False,True,2.5951,2.73,2.53
+6,74,C,W,C–W,206.1,2.061,WH5Me,"WH5Me [79] , p.398",calculated,A–C,False,False,True,2.1044,2.38,2.12
+9,53,F,I,F–I,190.9759,1.9098,IF,IF,experimental,A–B,False,False,True,1.4763,1.96,1.97
+17,35,Cl,Br,Cl–Br,213.665,2.1366,BrCl,BrCl,experimental,A–B,False,False,True,1.6413,2.22,2.13
+6,74,C,W,C–W,214.6,2.146,WMe6 exp. see,WMe6 exp. see [152],calculated,A–C,False,False,True,2.1044,2.38,2.12
+9,54,F,Xe,F–Xe,193.48,1.9348,XeF4,XeF4 [154],experimental,A–B,False,False,True,1.415,1.97,1.95
+17,53,Cl,I,Cl–I,232.0878,2.3209,ICI,ICI,experimental,A–B,False,False,True,1.8274,2.41,2.32
+6,75,C,Re,C–Re,201.2,2.012,ReH4Me,"ReH4Me [79] , p.398",calculated,A–C,False,False,True,2.0875,2.27,2.06
+9,54,F,Xe,F–Xe,195.0,1.95,XeF4,"XeF4 [155] , RCI",calculated,A–B,False,False,True,1.415,1.97,1.95
+17,54,Cl,Xe,Cl–Xe,230.6,2.306,XeCl+ in,XeCl+ in [XeCl][Sb7F11] [162],experimental,A–B,True,False,True,1.7661,2.42,2.3
+6,76,C,Os,C–Os,200.1,2.001,OsH3Me,"OsH3Me [79] , p.398",calculated,A–C,False,False,True,2.0114,2.2,2.04
+9,54,F,Xe,F–Xe,197.436,1.9744,XeF2,XeF2 [153],experimental,A–B,False,False,True,1.415,1.97,1.95
+17,116,Cl,E116,Cl–E116,273.6,2.736,(E116)Cl2,(E116)Cl2 [139],calculated,A–B,False,False,False,,,
+6,77,C,Ir,C–Ir,200.4,2.004,IrH2Me,"IrH2Me [79] , p.398",calculated,A–C,False,False,True,1.9585,2.17,1.97
+9,86,F,Rn,F–Rn,205.0,2.05,RnF4,"RnF4 [155] , RCI",calculated,A–B,False,False,True,1.5038,2.07,2.06
+19,37,K,Rb,K–Rb,406.85,4.0685,KRb,KRb [62],experimental,A–B,False,False,True,4.5177,4.23,4.06
+6,78,C,Pt,C–Pt,200.0,2.0,HPtCH3,HPtCH3 [119],calculated,A–C,False,False,True,1.9204,2.12,1.98
+9,86,F,Rn,F–Rn,210.3,2.103,RnF2,RnF2 [156],calculated,A–B,False,False,True,1.5038,2.07,2.06
+29,47,Cu,Ag,Cu–Ag,237.35,2.3735,AgCu,AgCu [163],experimental,A–B,False,False,True,2.6036,2.77,2.4
+6,78,C,Pt,C–Pt,200.4,2.004,HPtMe,"HPtMe [79] , p.398",calculated,A–C,False,False,True,1.9204,2.12,1.98
+9,86,F,Rn,F–Rn,213.5,2.135,RnF2,"RnF2 [157] , CCSD(T)",calculated,A–B,False,False,True,1.5038,2.07,2.06
+29,79,Cu,Au,Cu–Au,233.03,2.3303,AuCu,AuCu [164],experimental,A–B,False,False,True,2.5148,2.68,2.36
+6,79,C,Au,C–Au,201.7,2.017,AuMe,"AuMe [145] , MP2",calculated,A–C,False,False,True,1.8951,2.12,1.99
+9,118,F,E118,F–E118,221.7,2.217,(E118)F2,"(E118)F2 [157] , CCSD(T)",calculated,A–B,False,False,False,,,
+34,50,Se,Sn,Se–Sn,257.9,2.579,av SnSe in CSD,av SnSe in CSD [165],experimental,A–B,False,False,True,2.335,2.59,2.56
+6,79,C,Au,C–Au,204.8,2.048,AuMe,"AuMe [79] , p.398",calculated,A–C,False,False,True,1.8951,2.12,1.99
+9,118,F,E118,F–E118,215.0,2.15,(E118)F4,"(E118)F4 [155] , RCI(D4h)",calculated,A–B,False,False,False,,,
+35,53,Br,I,Br–I,246.8989,2.469,IBr,IBr,experimental,A–B,False,False,True,1.9543,2.59,2.47
+6,80,C,Hg,C–Hg,208.3,2.083,Hg(CH3)2,"Hg(CH3)2 [67] , (ED)",experimental,A–C,False,False,True,1.8316,2.08,2.08
+9,118,F,E118,F–E118,214.0,2.14,(E118)F4,"(E118)F4 [155] , RCI (Td)",calculated,A–B,False,False,False,,,
+35,116,Br,E116,Br–E116,288.4,2.884,(E116)Br2,(E116)Br2 [139],calculated,A–B,False,False,False,,,
+6,80,C,Hg,C–Hg,209.4,2.094,(RR),(RR),experimental,A–C,False,False,True,1.8316,2.08,2.08
+11,19,Na,K,Na–K,349.935,3.4994,NaK,NaK [158],experimental,A–B,False,False,True,3.9361,3.69,3.51
+37,55,Rb,Cs,Rb–Cs,441.8,4.418,RbCs,"RbCs [166,167]",experimental,A–B,False,False,True,4.8772,4.64,4.42
+6,81,C,Tl,C–Tl,220.6,2.206,Tl(CH3)3,"Tl(CH3)3 [67] , (ED)",experimental,A–C,False,False,True,2.2292,2.21,2.19
+11,37,Na,Rb,Na–Rb,364.35,3.6435,NaRb,NaRb [159],calculated,A–B,False,False,True,4.063,3.86,3.65
+37,87,Rb,Fr,Rb–Fr,434.0,4.34,RbFr,RbFr [26],calculated,A–B,False,False,True,4.8519,4.8,4.33
+6,82,C,Pb,C–Pb,223.8,2.238,Pb(CH3)4,"Pb(CH3)4 [67] , (ED)",experimental,A–C,False,False,True,2.0664,2.22,2.19
+11,55,Na,Cs,Na–Cs,385.063,3.8506,NaCs,NaCs [61],experimental,A–B,False,False,True,4.2956,4.1,3.87
+53,116,I,E116,I–E116,310.0,3.1,(E116)I2,(E116)I2 [139],calculated,A–B,False,False,False,,,
+6,83,C,Bi,C–Bi,226.7,2.267,Bi(CH3)3,"Bi(CH3)3 [67] , (ED)",experimental,A–C,False,False,True,1.9564,2.24,2.26
+14,15,Si,P,Si–P,224.8,2.248,P(SiH3)3,"P(SiH3)3 [65] , p.846",experimental,A–B,False,False,True,2.1108,2.18,2.27
+55,87,Cs,Fr,Cs–Fr,452.4,4.524,CsFr,CsFr [26],calculated,A–B,False,False,True,5.0845,5.04,4.55
+8,30,O,Zn,O–Zn,177.01,1.7701,Zn(OH)2,Zn(OH)2 PW,calculated,A–B,False,False,True,1.6011,1.88,1.81
+14,16,Si,S,Si–S,212.9,2.129,S(SiH3)2,S(SiH3)2 [160],experimental,A–B,False,False,True,1.9924,2.16,2.19
+85,116,At,E116,At–E116,321.3,3.213,(E116)At2,(E116)At2 [139],calculated,A–B,False,False,False,,,
+9,17,F,Cl,F–Cl,162.8313,1.6283,ClF,ClF,experimental,A–B,False,False,True,1.1633,1.59,1.63
+14,34,Si,Se,Si–Se,227.0,2.27,Se(SiH3)2,"Se(SiH3)2 [65] , p.705",experimental,A–B,False,False,True,2.1045,2.31,2.32
+116,117,E116,E117,E116–E117,342.0,3.42,(E116)(E117)2,(E116)(E117)2 [139],calculated,A–B,False,False,False,,,

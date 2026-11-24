@@ -1,0 +1,267 @@
+set_id,symbol,variant,kind,value_A,esd_A,source,table_ref,note
+density_anions_pbe0_anorcc,H,,v,2.1003,,"this work, PBE0/ANO-RCC, free ion, spherical average",rho=0.001 e/bohr3,
+density_anions_pbe0_anorcc,H,,r,0.6451,,"this work, PBE0/ANO-RCC, free ion, spherical average",outermost occupied orbital,
+density_anions_pbe0_anorcc,H,,c,0.0,,"this work, PBE0/ANO-RCC, free ion, spherical average","most probable radius, outermost core orbital (c_orb)",
+density_anions_pbe0_anorcc,H,,c_count,0.0,,"this work, PBE0/ANO-RCC, free ion, spherical average","sphere with chemical-core electrons (c_count, kind c in version 1.0)",
+density_anions_pbe0_anorcc,Li,,v,2.7888,,"this work, PBE0/ANO-RCC, free ion, spherical average",rho=0.001 e/bohr3,computed EA differs from experiment by more than 0.3 eV
+density_anions_pbe0_anorcc,Li,,r,2.06,,"this work, PBE0/ANO-RCC, free ion, spherical average",outermost occupied orbital,computed EA differs from experiment by more than 0.3 eV
+density_anions_pbe0_anorcc,Li,,c,0.1922,,"this work, PBE0/ANO-RCC, free ion, spherical average","most probable radius, outermost core orbital (c_orb)",computed EA differs from experiment by more than 0.3 eV
+density_anions_pbe0_anorcc,Li,,c_count,0.8104,,"this work, PBE0/ANO-RCC, free ion, spherical average","sphere with chemical-core electrons (c_count, kind c in version 1.0)",computed EA differs from experiment by more than 0.3 eV
+density_anions_pbe0_anorcc,Li,,c_elf,0.8584,,"this work, PBE0/ANO-RCC, free ion, spherical average",outermost ELF minimum inside r_outer (c_elf),computed EA differs from experiment by more than 0.3 eV
+density_anions_pbe0_anorcc,C,,v,2.1681,,"this work, PBE0/ANO-RCC, free ion, spherical average",rho=0.001 e/bohr3,computed EA differs from experiment by more than 0.3 eV
+density_anions_pbe0_anorcc,C,,r,0.717,,"this work, PBE0/ANO-RCC, free ion, spherical average",outermost occupied orbital,computed EA differs from experiment by more than 0.3 eV
+density_anions_pbe0_anorcc,C,,c,0.0917,,"this work, PBE0/ANO-RCC, free ion, spherical average","most probable radius, outermost core orbital (c_orb)",computed EA differs from experiment by more than 0.3 eV
+density_anions_pbe0_anorcc,C,,c_count,0.2811,,"this work, PBE0/ANO-RCC, free ion, spherical average","sphere with chemical-core electrons (c_count, kind c in version 1.0)",computed EA differs from experiment by more than 0.3 eV
+density_anions_pbe0_anorcc,C,,c_elf,0.3078,,"this work, PBE0/ANO-RCC, free ion, spherical average",outermost ELF minimum inside r_outer (c_elf),computed EA differs from experiment by more than 0.3 eV
+density_anions_pbe0_anorcc,O,,v,2.0213,,"this work, PBE0/ANO-RCC, free ion, spherical average",rho=0.001 e/bohr3,
+density_anions_pbe0_anorcc,O,,r,0.4674,,"this work, PBE0/ANO-RCC, free ion, spherical average",outermost occupied orbital,
+density_anions_pbe0_anorcc,O,,c,0.0688,,"this work, PBE0/ANO-RCC, free ion, spherical average","most probable radius, outermost core orbital (c_orb)",
+density_anions_pbe0_anorcc,O,,c_count,0.1901,,"this work, PBE0/ANO-RCC, free ion, spherical average","sphere with chemical-core electrons (c_count, kind c in version 1.0)",
+density_anions_pbe0_anorcc,O,,c_elf,0.2111,,"this work, PBE0/ANO-RCC, free ion, spherical average",outermost ELF minimum inside r_outer (c_elf),
+density_anions_pbe0_anorcc,F,,v,1.913,,"this work, PBE0/ANO-RCC, free ion, spherical average",rho=0.001 e/bohr3,
+density_anions_pbe0_anorcc,F,,r,0.4082,,"this work, PBE0/ANO-RCC, free ion, spherical average",outermost occupied orbital,
+density_anions_pbe0_anorcc,F,,c,0.0600,,"this work, PBE0/ANO-RCC, free ion, spherical average","most probable radius, outermost core orbital (c_orb)",
+density_anions_pbe0_anorcc,F,,c_count,0.1624,,"this work, PBE0/ANO-RCC, free ion, spherical average","sphere with chemical-core electrons (c_count, kind c in version 1.0)",
+density_anions_pbe0_anorcc,F,,c_elf,0.1808,,"this work, PBE0/ANO-RCC, free ion, spherical average",outermost ELF minimum inside r_outer (c_elf),
+density_anions_pbe0_anorcc,Na,,v,2.8123,,"this work, PBE0/ANO-RCC, free ion, spherical average",rho=0.001 e/bohr3,
+density_anions_pbe0_anorcc,Na,,r,2.1002,,"this work, PBE0/ANO-RCC, free ion, spherical average",outermost occupied orbital,
+density_anions_pbe0_anorcc,Na,,c,0.3227,,"this work, PBE0/ANO-RCC, free ion, spherical average","most probable radius, outermost core orbital (c_orb)",
+density_anions_pbe0_anorcc,Na,,c_count,1.1284,,"this work, PBE0/ANO-RCC, free ion, spherical average","sphere with chemical-core electrons (c_count, kind c in version 1.0)",
+density_anions_pbe0_anorcc,Na,,c_elf,1.1703,,"this work, PBE0/ANO-RCC, free ion, spherical average",outermost ELF minimum inside r_outer (c_elf),
+density_anions_pbe0_anorcc,Al,,v,2.7205,,"this work, PBE0/ANO-RCC, free ion, spherical average",rho=0.001 e/bohr3,computed EA differs from experiment by more than 0.3 eV
+density_anions_pbe0_anorcc,Al,,r,1.6243,,"this work, PBE0/ANO-RCC, free ion, spherical average",outermost occupied orbital,computed EA differs from experiment by more than 0.3 eV
+density_anions_pbe0_anorcc,Al,,c,0.2627,,"this work, PBE0/ANO-RCC, free ion, spherical average","most probable radius, outermost core orbital (c_orb)",computed EA differs from experiment by more than 0.3 eV
+density_anions_pbe0_anorcc,Al,,c_count,0.7197,,"this work, PBE0/ANO-RCC, free ion, spherical average","sphere with chemical-core electrons (c_count, kind c in version 1.0)",computed EA differs from experiment by more than 0.3 eV
+density_anions_pbe0_anorcc,Al,,c_elf,0.7441,,"this work, PBE0/ANO-RCC, free ion, spherical average",outermost ELF minimum inside r_outer (c_elf),computed EA differs from experiment by more than 0.3 eV
+density_anions_pbe0_anorcc,Si,,v,2.6325,,"this work, PBE0/ANO-RCC, free ion, spherical average",rho=0.001 e/bohr3,
+density_anions_pbe0_anorcc,Si,,r,1.2458,,"this work, PBE0/ANO-RCC, free ion, spherical average",outermost occupied orbital,
+density_anions_pbe0_anorcc,Si,,c,0.2398,,"this work, PBE0/ANO-RCC, free ion, spherical average","most probable radius, outermost core orbital (c_orb)",
+density_anions_pbe0_anorcc,Si,,c_count,0.6109,,"this work, PBE0/ANO-RCC, free ion, spherical average","sphere with chemical-core electrons (c_count, kind c in version 1.0)",
+density_anions_pbe0_anorcc,Si,,c_elf,0.6228,,"this work, PBE0/ANO-RCC, free ion, spherical average",outermost ELF minimum inside r_outer (c_elf),
+density_anions_pbe0_anorcc,P,,v,2.5256,,"this work, PBE0/ANO-RCC, free ion, spherical average",rho=0.001 e/bohr3,
+density_anions_pbe0_anorcc,P,,r,1.0152,,"this work, PBE0/ANO-RCC, free ion, spherical average",outermost occupied orbital,
+density_anions_pbe0_anorcc,P,,c,0.2222,,"this work, PBE0/ANO-RCC, free ion, spherical average","most probable radius, outermost core orbital (c_orb)",
+density_anions_pbe0_anorcc,P,,c_count,0.5326,,"this work, PBE0/ANO-RCC, free ion, spherical average","sphere with chemical-core electrons (c_count, kind c in version 1.0)",
+density_anions_pbe0_anorcc,P,,c_elf,0.5433,,"this work, PBE0/ANO-RCC, free ion, spherical average",outermost ELF minimum inside r_outer (c_elf),
+density_anions_pbe0_anorcc,S,,v,2.4066,,"this work, PBE0/ANO-RCC, free ion, spherical average",rho=0.001 e/bohr3,
+density_anions_pbe0_anorcc,S,,r,0.8714,,"this work, PBE0/ANO-RCC, free ion, spherical average",outermost occupied orbital,
+density_anions_pbe0_anorcc,S,,c,0.2045,,"this work, PBE0/ANO-RCC, free ion, spherical average","most probable radius, outermost core orbital (c_orb)",
+density_anions_pbe0_anorcc,S,,c_count,0.4708,,"this work, PBE0/ANO-RCC, free ion, spherical average","sphere with chemical-core electrons (c_count, kind c in version 1.0)",
+density_anions_pbe0_anorcc,S,,c_elf,0.4801,,"this work, PBE0/ANO-RCC, free ion, spherical average",outermost ELF minimum inside r_outer (c_elf),
+density_anions_pbe0_anorcc,Cl,,v,2.2869,,"this work, PBE0/ANO-RCC, free ion, spherical average",rho=0.001 e/bohr3,
+density_anions_pbe0_anorcc,Cl,,r,0.7699,,"this work, PBE0/ANO-RCC, free ion, spherical average",outermost occupied orbital,
+density_anions_pbe0_anorcc,Cl,,c,0.1904,,"this work, PBE0/ANO-RCC, free ion, spherical average","most probable radius, outermost core orbital (c_orb)",
+density_anions_pbe0_anorcc,Cl,,c_count,0.4212,,"this work, PBE0/ANO-RCC, free ion, spherical average","sphere with chemical-core electrons (c_count, kind c in version 1.0)",
+density_anions_pbe0_anorcc,Cl,,c_elf,0.4294,,"this work, PBE0/ANO-RCC, free ion, spherical average",outermost ELF minimum inside r_outer (c_elf),
+density_anions_pbe0_anorcc,K,,v,2.9028,,"this work, PBE0/ANO-RCC, free ion, spherical average",rho=0.001 e/bohr3,
+density_anions_pbe0_anorcc,K,,r,2.6247,,"this work, PBE0/ANO-RCC, free ion, spherical average",outermost occupied orbital,
+density_anions_pbe0_anorcc,K,,c,0.6119,,"this work, PBE0/ANO-RCC, free ion, spherical average","most probable radius, outermost core orbital (c_orb)",
+density_anions_pbe0_anorcc,K,,c_count,1.5942,,"this work, PBE0/ANO-RCC, free ion, spherical average","sphere with chemical-core electrons (c_count, kind c in version 1.0)",
+density_anions_pbe0_anorcc,K,,c_elf,1.6723,,"this work, PBE0/ANO-RCC, free ion, spherical average",outermost ELF minimum inside r_outer (c_elf),
+density_anions_pbe0_anorcc,V,,v,2.7658,,"this work, PBE0/ANO-RCC, free ion, spherical average",rho=0.001 e/bohr3,
+density_anions_pbe0_anorcc,V,,r,1.9839,,"this work, PBE0/ANO-RCC, free ion, spherical average",outermost occupied orbital,
+density_anions_pbe0_anorcc,V,,c,0.4497,,"this work, PBE0/ANO-RCC, free ion, spherical average","most probable radius, outermost core orbital (c_orb)",
+density_anions_pbe0_anorcc,V,,c_count,0.6696,,"this work, PBE0/ANO-RCC, free ion, spherical average","sphere with chemical-core electrons (c_count, kind c in version 1.0)",
+density_anions_pbe0_anorcc,V,,c_elf,1.2278,,"this work, PBE0/ANO-RCC, free ion, spherical average",outermost ELF minimum inside r_outer (c_elf),
+density_anions_pbe0_anorcc,Fe,,v,2.6269,,"this work, PBE0/ANO-RCC, free ion, spherical average",rho=0.001 e/bohr3,
+density_anions_pbe0_anorcc,Fe,,r,1.5926,,"this work, PBE0/ANO-RCC, free ion, spherical average",outermost occupied orbital,
+density_anions_pbe0_anorcc,Fe,,c,0.3791,,"this work, PBE0/ANO-RCC, free ion, spherical average","most probable radius, outermost core orbital (c_orb)",
+density_anions_pbe0_anorcc,Fe,,c_count,0.4865,,"this work, PBE0/ANO-RCC, free ion, spherical average","sphere with chemical-core electrons (c_count, kind c in version 1.0)",
+density_anions_pbe0_anorcc,Fe,,c_elf,1.1145,,"this work, PBE0/ANO-RCC, free ion, spherical average",outermost ELF minimum inside r_outer (c_elf),
+density_anions_pbe0_anorcc,Co,,v,2.5987,,"this work, PBE0/ANO-RCC, free ion, spherical average",rho=0.001 e/bohr3,computed EA differs from experiment by more than 0.3 eV
+density_anions_pbe0_anorcc,Co,,r,1.527,,"this work, PBE0/ANO-RCC, free ion, spherical average",outermost occupied orbital,computed EA differs from experiment by more than 0.3 eV
+density_anions_pbe0_anorcc,Co,,c,0.3597,,"this work, PBE0/ANO-RCC, free ion, spherical average","most probable radius, outermost core orbital (c_orb)",computed EA differs from experiment by more than 0.3 eV
+density_anions_pbe0_anorcc,Co,,c_count,0.4459,,"this work, PBE0/ANO-RCC, free ion, spherical average","sphere with chemical-core electrons (c_count, kind c in version 1.0)",computed EA differs from experiment by more than 0.3 eV
+density_anions_pbe0_anorcc,Co,,c_elf,1.1311,,"this work, PBE0/ANO-RCC, free ion, spherical average",outermost ELF minimum inside r_outer (c_elf),computed EA differs from experiment by more than 0.3 eV
+density_anions_pbe0_anorcc,Ni,,v,2.5711,,"this work, PBE0/ANO-RCC, free ion, spherical average",rho=0.001 e/bohr3,
+density_anions_pbe0_anorcc,Ni,,r,1.4594,,"this work, PBE0/ANO-RCC, free ion, spherical average",outermost occupied orbital,
+density_anions_pbe0_anorcc,Ni,,c,0.3439,,"this work, PBE0/ANO-RCC, free ion, spherical average","most probable radius, outermost core orbital (c_orb)",
+density_anions_pbe0_anorcc,Ni,,c_count,0.4107,,"this work, PBE0/ANO-RCC, free ion, spherical average","sphere with chemical-core electrons (c_count, kind c in version 1.0)",
+density_anions_pbe0_anorcc,Ni,,c_elf,1.0751,,"this work, PBE0/ANO-RCC, free ion, spherical average",outermost ELF minimum inside r_outer (c_elf),
+density_anions_pbe0_anorcc,Cu,,v,2.5396,,"this work, PBE0/ANO-RCC, free ion, spherical average",rho=0.001 e/bohr3,
+density_anions_pbe0_anorcc,Cu,,r,1.434,,"this work, PBE0/ANO-RCC, free ion, spherical average",outermost occupied orbital,
+density_anions_pbe0_anorcc,Cu,,c,0.3280,,"this work, PBE0/ANO-RCC, free ion, spherical average","most probable radius, outermost core orbital (c_orb)",
+density_anions_pbe0_anorcc,Cu,,c_count,0.3804,,"this work, PBE0/ANO-RCC, free ion, spherical average","sphere with chemical-core electrons (c_count, kind c in version 1.0)",
+density_anions_pbe0_anorcc,Cu,,c_elf,1.0771,,"this work, PBE0/ANO-RCC, free ion, spherical average",outermost ELF minimum inside r_outer (c_elf),
+density_anions_pbe0_anorcc,Ge,,v,2.5868,,"this work, PBE0/ANO-RCC, free ion, spherical average",rho=0.001 e/bohr3,
+density_anions_pbe0_anorcc,Ge,,r,1.3134,,"this work, PBE0/ANO-RCC, free ion, spherical average",outermost occupied orbital,
+density_anions_pbe0_anorcc,Ge,,c,0.2874,,"this work, PBE0/ANO-RCC, free ion, spherical average","most probable radius, outermost core orbital (c_orb)",
+density_anions_pbe0_anorcc,Ge,,c_count,0.7805,,"this work, PBE0/ANO-RCC, free ion, spherical average","sphere with chemical-core electrons (c_count, kind c in version 1.0)",
+density_anions_pbe0_anorcc,Ge,,c_elf,0.7366,,"this work, PBE0/ANO-RCC, free ion, spherical average",outermost ELF minimum inside r_outer (c_elf),
+density_anions_pbe0_anorcc,As,,v,2.5874,,"this work, PBE0/ANO-RCC, free ion, spherical average",rho=0.001 e/bohr3,
+density_anions_pbe0_anorcc,As,,r,1.0956,,"this work, PBE0/ANO-RCC, free ion, spherical average",outermost occupied orbital,
+density_anions_pbe0_anorcc,As,,c,0.2768,,"this work, PBE0/ANO-RCC, free ion, spherical average","most probable radius, outermost core orbital (c_orb)",
+density_anions_pbe0_anorcc,As,,c_count,0.7017,,"this work, PBE0/ANO-RCC, free ion, spherical average","sphere with chemical-core electrons (c_count, kind c in version 1.0)",
+density_anions_pbe0_anorcc,As,,c_elf,0.6711,,"this work, PBE0/ANO-RCC, free ion, spherical average",outermost ELF minimum inside r_outer (c_elf),
+density_anions_pbe0_anorcc,Se,,v,2.5089,,"this work, PBE0/ANO-RCC, free ion, spherical average",rho=0.001 e/bohr3,
+density_anions_pbe0_anorcc,Se,,r,0.9856,,"this work, PBE0/ANO-RCC, free ion, spherical average",outermost occupied orbital,
+density_anions_pbe0_anorcc,Se,,c,0.2663,,"this work, PBE0/ANO-RCC, free ion, spherical average","most probable radius, outermost core orbital (c_orb)",
+density_anions_pbe0_anorcc,Se,,c_count,0.6403,,"this work, PBE0/ANO-RCC, free ion, spherical average","sphere with chemical-core electrons (c_count, kind c in version 1.0)",
+density_anions_pbe0_anorcc,Se,,c_elf,0.6182,,"this work, PBE0/ANO-RCC, free ion, spherical average",outermost ELF minimum inside r_outer (c_elf),
+density_anions_pbe0_anorcc,Br,,v,2.4155,,"this work, PBE0/ANO-RCC, free ion, spherical average",rho=0.001 e/bohr3,
+density_anions_pbe0_anorcc,Br,,r,0.9031,,"this work, PBE0/ANO-RCC, free ion, spherical average",outermost occupied orbital,
+density_anions_pbe0_anorcc,Br,,c,0.2557,,"this work, PBE0/ANO-RCC, free ion, spherical average","most probable radius, outermost core orbital (c_orb)",
+density_anions_pbe0_anorcc,Br,,c_count,0.5896,,"this work, PBE0/ANO-RCC, free ion, spherical average","sphere with chemical-core electrons (c_count, kind c in version 1.0)",
+density_anions_pbe0_anorcc,Br,,c_elf,0.5716,,"this work, PBE0/ANO-RCC, free ion, spherical average",outermost ELF minimum inside r_outer (c_elf),
+density_anions_pbe0_anorcc,Rb,,v,2.9071,,"this work, PBE0/ANO-RCC, free ion, spherical average",rho=0.001 e/bohr3,
+density_anions_pbe0_anorcc,Rb,,r,2.7707,,"this work, PBE0/ANO-RCC, free ion, spherical average",outermost occupied orbital,
+density_anions_pbe0_anorcc,Rb,,c,0.7547,,"this work, PBE0/ANO-RCC, free ion, spherical average","most probable radius, outermost core orbital (c_orb)",
+density_anions_pbe0_anorcc,Rb,,c_count,1.7731,,"this work, PBE0/ANO-RCC, free ion, spherical average","sphere with chemical-core electrons (c_count, kind c in version 1.0)",
+density_anions_pbe0_anorcc,Rb,,c_elf,1.8629,,"this work, PBE0/ANO-RCC, free ion, spherical average",outermost ELF minimum inside r_outer (c_elf),
+density_anions_pbe0_anorcc,Zr,,v,2.9355,,"this work, PBE0/ANO-RCC, free ion, spherical average",rho=0.001 e/bohr3,
+density_anions_pbe0_anorcc,Zr,,r,2.0304,,"this work, PBE0/ANO-RCC, free ion, spherical average",outermost occupied orbital,
+density_anions_pbe0_anorcc,Zr,,c,0.6260,,"this work, PBE0/ANO-RCC, free ion, spherical average","most probable radius, outermost core orbital (c_orb)",
+density_anions_pbe0_anorcc,Zr,,c_count,0.9842,,"this work, PBE0/ANO-RCC, free ion, spherical average","sphere with chemical-core electrons (c_count, kind c in version 1.0)",
+density_anions_pbe0_anorcc,Zr,,c_elf,1.4191,,"this work, PBE0/ANO-RCC, free ion, spherical average",outermost ELF minimum inside r_outer (c_elf),
+density_anions_pbe0_anorcc,Nb,,v,2.8602,,"this work, PBE0/ANO-RCC, free ion, spherical average",rho=0.001 e/bohr3,computed EA differs from experiment by more than 0.3 eV
+density_anions_pbe0_anorcc,Nb,,r,1.9352,,"this work, PBE0/ANO-RCC, free ion, spherical average",outermost occupied orbital,computed EA differs from experiment by more than 0.3 eV
+density_anions_pbe0_anorcc,Nb,,c,0.5960,,"this work, PBE0/ANO-RCC, free ion, spherical average","most probable radius, outermost core orbital (c_orb)",computed EA differs from experiment by more than 0.3 eV
+density_anions_pbe0_anorcc,Nb,,c_count,0.8735,,"this work, PBE0/ANO-RCC, free ion, spherical average","sphere with chemical-core electrons (c_count, kind c in version 1.0)",computed EA differs from experiment by more than 0.3 eV
+density_anions_pbe0_anorcc,Nb,,c_elf,1.3958,,"this work, PBE0/ANO-RCC, free ion, spherical average",outermost ELF minimum inside r_outer (c_elf),computed EA differs from experiment by more than 0.3 eV
+density_anions_pbe0_anorcc,Mo,,v,2.7873,,"this work, PBE0/ANO-RCC, free ion, spherical average",rho=0.001 e/bohr3,computed EA differs from experiment by more than 0.3 eV
+density_anions_pbe0_anorcc,Mo,,r,1.9564,,"this work, PBE0/ANO-RCC, free ion, spherical average",outermost occupied orbital,computed EA differs from experiment by more than 0.3 eV
+density_anions_pbe0_anorcc,Mo,,c,0.5678,,"this work, PBE0/ANO-RCC, free ion, spherical average","most probable radius, outermost core orbital (c_orb)",computed EA differs from experiment by more than 0.3 eV
+density_anions_pbe0_anorcc,Mo,,c_count,0.7894,,"this work, PBE0/ANO-RCC, free ion, spherical average","sphere with chemical-core electrons (c_count, kind c in version 1.0)",computed EA differs from experiment by more than 0.3 eV
+density_anions_pbe0_anorcc,Mo,,c_elf,1.3842,,"this work, PBE0/ANO-RCC, free ion, spherical average",outermost ELF minimum inside r_outer (c_elf),computed EA differs from experiment by more than 0.3 eV
+density_anions_pbe0_anorcc,Tc,,v,2.7681,,"this work, PBE0/ANO-RCC, free ion, spherical average",rho=0.001 e/bohr3,
+density_anions_pbe0_anorcc,Tc,,r,1.821,,"this work, PBE0/ANO-RCC, free ion, spherical average",outermost occupied orbital,
+density_anions_pbe0_anorcc,Tc,,c,0.5431,,"this work, PBE0/ANO-RCC, free ion, spherical average","most probable radius, outermost core orbital (c_orb)",
+density_anions_pbe0_anorcc,Tc,,c_count,0.7238,,"this work, PBE0/ANO-RCC, free ion, spherical average","sphere with chemical-core electrons (c_count, kind c in version 1.0)",
+density_anions_pbe0_anorcc,Tc,,c_elf,1.3502,,"this work, PBE0/ANO-RCC, free ion, spherical average",outermost ELF minimum inside r_outer (c_elf),
+density_anions_pbe0_anorcc,Ru,,v,2.7126,,"this work, PBE0/ANO-RCC, free ion, spherical average",rho=0.001 e/bohr3,computed EA differs from experiment by more than 0.3 eV
+density_anions_pbe0_anorcc,Ru,,r,1.7047,,"this work, PBE0/ANO-RCC, free ion, spherical average",outermost occupied orbital,computed EA differs from experiment by more than 0.3 eV
+density_anions_pbe0_anorcc,Ru,,c,0.5219,,"this work, PBE0/ANO-RCC, free ion, spherical average","most probable radius, outermost core orbital (c_orb)",computed EA differs from experiment by more than 0.3 eV
+density_anions_pbe0_anorcc,Ru,,c_count,0.6689,,"this work, PBE0/ANO-RCC, free ion, spherical average","sphere with chemical-core electrons (c_count, kind c in version 1.0)",computed EA differs from experiment by more than 0.3 eV
+density_anions_pbe0_anorcc,Ru,,c_elf,1.3829,,"this work, PBE0/ANO-RCC, free ion, spherical average",outermost ELF minimum inside r_outer (c_elf),computed EA differs from experiment by more than 0.3 eV
+density_anions_pbe0_anorcc,Rh,,v,2.677,,"this work, PBE0/ANO-RCC, free ion, spherical average",rho=0.001 e/bohr3,
+density_anions_pbe0_anorcc,Rh,,r,1.6074,,"this work, PBE0/ANO-RCC, free ion, spherical average",outermost occupied orbital,
+density_anions_pbe0_anorcc,Rh,,c,0.5008,,"this work, PBE0/ANO-RCC, free ion, spherical average","most probable radius, outermost core orbital (c_orb)",
+density_anions_pbe0_anorcc,Rh,,c_count,0.6225,,"this work, PBE0/ANO-RCC, free ion, spherical average","sphere with chemical-core electrons (c_count, kind c in version 1.0)",
+density_anions_pbe0_anorcc,Rh,,c_elf,1.3829,,"this work, PBE0/ANO-RCC, free ion, spherical average",outermost ELF minimum inside r_outer (c_elf),
+density_anions_pbe0_anorcc,Pd,,v,2.462,,"this work, PBE0/ANO-RCC, free ion, spherical average",rho=0.001 e/bohr3,
+density_anions_pbe0_anorcc,Pd,,r,1.5567,,"this work, PBE0/ANO-RCC, free ion, spherical average",outermost occupied orbital,
+density_anions_pbe0_anorcc,Pd,,c,0.4814,,"this work, PBE0/ANO-RCC, free ion, spherical average","most probable radius, outermost core orbital (c_orb)",
+density_anions_pbe0_anorcc,Pd,,c_count,0.5815,,"this work, PBE0/ANO-RCC, free ion, spherical average","sphere with chemical-core electrons (c_count, kind c in version 1.0)",
+density_anions_pbe0_anorcc,Ag,,v,2.6103,,"this work, PBE0/ANO-RCC, free ion, spherical average",rho=0.001 e/bohr3,
+density_anions_pbe0_anorcc,Ag,,r,1.4721,,"this work, PBE0/ANO-RCC, free ion, spherical average",outermost occupied orbital,
+density_anions_pbe0_anorcc,Ag,,c,0.4638,,"this work, PBE0/ANO-RCC, free ion, spherical average","most probable radius, outermost core orbital (c_orb)",
+density_anions_pbe0_anorcc,Ag,,c_count,0.5473,,"this work, PBE0/ANO-RCC, free ion, spherical average","sphere with chemical-core electrons (c_count, kind c in version 1.0)",
+density_anions_pbe0_anorcc,Ag,,c_elf,1.4455,,"this work, PBE0/ANO-RCC, free ion, spherical average",outermost ELF minimum inside r_outer (c_elf),
+density_anions_pbe0_anorcc,In,,v,2.8037,,"this work, PBE0/ANO-RCC, free ion, spherical average",rho=0.001 e/bohr3,
+density_anions_pbe0_anorcc,In,,r,1.7195,,"this work, PBE0/ANO-RCC, free ion, spherical average",outermost occupied orbital,
+density_anions_pbe0_anorcc,In,,c,0.4920,,"this work, PBE0/ANO-RCC, free ion, spherical average","most probable radius, outermost core orbital (c_orb)",
+density_anions_pbe0_anorcc,In,,c_count,1.0843,,"this work, PBE0/ANO-RCC, free ion, spherical average","sphere with chemical-core electrons (c_count, kind c in version 1.0)",
+density_anions_pbe0_anorcc,In,,c_elf,1.0662,,"this work, PBE0/ANO-RCC, free ion, spherical average",outermost ELF minimum inside r_outer (c_elf),
+density_anions_pbe0_anorcc,Sn,,v,2.787,,"this work, PBE0/ANO-RCC, free ion, spherical average",rho=0.001 e/bohr3,
+density_anions_pbe0_anorcc,Sn,,r,1.4721,,"this work, PBE0/ANO-RCC, free ion, spherical average",outermost occupied orbital,
+density_anions_pbe0_anorcc,Sn,,c,0.4690,,"this work, PBE0/ANO-RCC, free ion, spherical average","most probable radius, outermost core orbital (c_orb)",
+density_anions_pbe0_anorcc,Sn,,c_count,0.9789,,"this work, PBE0/ANO-RCC, free ion, spherical average","sphere with chemical-core electrons (c_count, kind c in version 1.0)",
+density_anions_pbe0_anorcc,Sn,,c_elf,0.9440,,"this work, PBE0/ANO-RCC, free ion, spherical average",outermost ELF minimum inside r_outer (c_elf),
+density_anions_pbe0_anorcc,Sb,,v,2.7321,,"this work, PBE0/ANO-RCC, free ion, spherical average",rho=0.001 e/bohr3,
+density_anions_pbe0_anorcc,Sb,,r,1.3219,,"this work, PBE0/ANO-RCC, free ion, spherical average",outermost occupied orbital,
+density_anions_pbe0_anorcc,Sb,,c,0.4479,,"this work, PBE0/ANO-RCC, free ion, spherical average","most probable radius, outermost core orbital (c_orb)",
+density_anions_pbe0_anorcc,Sb,,c_count,0.8977,,"this work, PBE0/ANO-RCC, free ion, spherical average","sphere with chemical-core electrons (c_count, kind c in version 1.0)",
+density_anions_pbe0_anorcc,Sb,,c_elf,0.8752,,"this work, PBE0/ANO-RCC, free ion, spherical average",outermost ELF minimum inside r_outer (c_elf),
+density_anions_pbe0_anorcc,Te,,v,2.6619,,"this work, PBE0/ANO-RCC, free ion, spherical average",rho=0.001 e/bohr3,
+density_anions_pbe0_anorcc,Te,,r,1.1929,,"this work, PBE0/ANO-RCC, free ion, spherical average",outermost occupied orbital,
+density_anions_pbe0_anorcc,Te,,c,0.4303,,"this work, PBE0/ANO-RCC, free ion, spherical average","most probable radius, outermost core orbital (c_orb)",
+density_anions_pbe0_anorcc,Te,,c_count,0.8317,,"this work, PBE0/ANO-RCC, free ion, spherical average","sphere with chemical-core electrons (c_count, kind c in version 1.0)",
+density_anions_pbe0_anorcc,Te,,c_elf,0.8100,,"this work, PBE0/ANO-RCC, free ion, spherical average",outermost ELF minimum inside r_outer (c_elf),
+density_anions_pbe0_anorcc,I,,v,2.5847,,"this work, PBE0/ANO-RCC, free ion, spherical average",rho=0.001 e/bohr3,
+density_anions_pbe0_anorcc,I,,r,1.0998,,"this work, PBE0/ANO-RCC, free ion, spherical average",outermost occupied orbital,
+density_anions_pbe0_anorcc,I,,c,0.4126,,"this work, PBE0/ANO-RCC, free ion, spherical average","most probable radius, outermost core orbital (c_orb)",
+density_anions_pbe0_anorcc,I,,c_count,0.7762,,"this work, PBE0/ANO-RCC, free ion, spherical average","sphere with chemical-core electrons (c_count, kind c in version 1.0)",
+density_anions_pbe0_anorcc,I,,c_elf,0.7552,,"this work, PBE0/ANO-RCC, free ion, spherical average",outermost ELF minimum inside r_outer (c_elf),
+density_anions_pbe0_anorcc,Cs,,v,2.9432,,"this work, PBE0/ANO-RCC, free ion, spherical average",rho=0.001 e/bohr3,
+density_anions_pbe0_anorcc,Cs,,r,2.9653,,"this work, PBE0/ANO-RCC, free ion, spherical average",outermost occupied orbital,
+density_anions_pbe0_anorcc,Cs,,c,0.9363,,"this work, PBE0/ANO-RCC, free ion, spherical average","most probable radius, outermost core orbital (c_orb)",
+density_anions_pbe0_anorcc,Cs,,c_count,2.0151,,"this work, PBE0/ANO-RCC, free ion, spherical average","sphere with chemical-core electrons (c_count, kind c in version 1.0)",
+density_anions_pbe0_anorcc,Cs,,c_elf,2.1138,,"this work, PBE0/ANO-RCC, free ion, spherical average",outermost ELF minimum inside r_outer (c_elf),
+density_anions_pbe0_anorcc,Ba,,v,3.2393,,"this work, PBE0/ANO-RCC, free ion, spherical average",rho=0.001 e/bohr3,
+density_anions_pbe0_anorcc,Ba,,r,3.4348,,"this work, PBE0/ANO-RCC, free ion, spherical average",outermost occupied orbital,
+density_anions_pbe0_anorcc,Ba,,c,0.8817,,"this work, PBE0/ANO-RCC, free ion, spherical average","most probable radius, outermost core orbital (c_orb)",
+density_anions_pbe0_anorcc,Ba,,c_count,1.7155,,"this work, PBE0/ANO-RCC, free ion, spherical average","sphere with chemical-core electrons (c_count, kind c in version 1.0)",
+density_anions_pbe0_anorcc,Ba,,c_elf,1.7938,,"this work, PBE0/ANO-RCC, free ion, spherical average",outermost ELF minimum inside r_outer (c_elf),
+density_anions_pbe0_anorcc,La,,v,3.1249,,"this work, PBE0/ANO-RCC, free ion, spherical average",rho=0.001 e/bohr3,
+density_anions_pbe0_anorcc,La,,r,2.4027,,"this work, PBE0/ANO-RCC, free ion, spherical average",outermost occupied orbital,
+density_anions_pbe0_anorcc,La,,c,0.8393,,"this work, PBE0/ANO-RCC, free ion, spherical average","most probable radius, outermost core orbital (c_orb)",
+density_anions_pbe0_anorcc,La,,c_count,1.3551,,"this work, PBE0/ANO-RCC, free ion, spherical average","sphere with chemical-core electrons (c_count, kind c in version 1.0)",
+density_anions_pbe0_anorcc,La,,c_elf,1.7855,,"this work, PBE0/ANO-RCC, free ion, spherical average",outermost ELF minimum inside r_outer (c_elf),
+density_anions_pbe0_anorcc,Ce,,v,3.0882,,"this work, PBE0/ANO-RCC, free ion, spherical average",rho=0.001 e/bohr3,
+density_anions_pbe0_anorcc,Ce,,r,2.4217,,"this work, PBE0/ANO-RCC, free ion, spherical average",outermost occupied orbital,
+density_anions_pbe0_anorcc,Ce,,c,0.8217,,"this work, PBE0/ANO-RCC, free ion, spherical average","most probable radius, outermost core orbital (c_orb)",
+density_anions_pbe0_anorcc,Ce,,c_count,1.1553,,"this work, PBE0/ANO-RCC, free ion, spherical average","sphere with chemical-core electrons (c_count, kind c in version 1.0)",
+density_anions_pbe0_anorcc,Ce,,c_elf,1.7839,,"this work, PBE0/ANO-RCC, free ion, spherical average",outermost ELF minimum inside r_outer (c_elf),
+density_anions_pbe0_anorcc,Tm,,v,3.0861,,"this work, PBE0/ANO-RCC, free ion, spherical average",rho=0.001 e/bohr3,computed EA differs from experiment by more than 0.3 eV
+density_anions_pbe0_anorcc,Tm,,r,2.5613,,"this work, PBE0/ANO-RCC, free ion, spherical average",outermost occupied orbital,computed EA differs from experiment by more than 0.3 eV
+density_anions_pbe0_anorcc,Tm,,c,0.6665,,"this work, PBE0/ANO-RCC, free ion, spherical average","most probable radius, outermost core orbital (c_orb)",computed EA differs from experiment by more than 0.3 eV
+density_anions_pbe0_anorcc,Tm,,c_count,0.4507,,"this work, PBE0/ANO-RCC, free ion, spherical average","sphere with chemical-core electrons (c_count, kind c in version 1.0)",computed EA differs from experiment by more than 0.3 eV
+density_anions_pbe0_anorcc,Tm,,c_elf,1.4820,,"this work, PBE0/ANO-RCC, free ion, spherical average",outermost ELF minimum inside r_outer (c_elf),computed EA differs from experiment by more than 0.3 eV
+density_anions_pbe0_anorcc,Ta,,v,2.7937,,"this work, PBE0/ANO-RCC, free ion, spherical average",rho=0.001 e/bohr3,
+density_anions_pbe0_anorcc,Ta,,r,1.7386,,"this work, PBE0/ANO-RCC, free ion, spherical average",outermost occupied orbital,
+density_anions_pbe0_anorcc,Ta,,c,0.5960,,"this work, PBE0/ANO-RCC, free ion, spherical average","most probable radius, outermost core orbital (c_orb)",
+density_anions_pbe0_anorcc,Ta,,c_count,0.9071,,"this work, PBE0/ANO-RCC, free ion, spherical average","sphere with chemical-core electrons (c_count, kind c in version 1.0)",
+density_anions_pbe0_anorcc,Ta,,c_elf,1.2599,,"this work, PBE0/ANO-RCC, free ion, spherical average",outermost ELF minimum inside r_outer (c_elf),
+density_anions_pbe0_anorcc,W,,v,2.7539,,"this work, PBE0/ANO-RCC, free ion, spherical average",rho=0.001 e/bohr3,computed EA differs from experiment by more than 0.3 eV
+density_anions_pbe0_anorcc,W,,r,1.7005,,"this work, PBE0/ANO-RCC, free ion, spherical average",outermost occupied orbital,computed EA differs from experiment by more than 0.3 eV
+density_anions_pbe0_anorcc,W,,c,0.5784,,"this work, PBE0/ANO-RCC, free ion, spherical average","most probable radius, outermost core orbital (c_orb)",computed EA differs from experiment by more than 0.3 eV
+density_anions_pbe0_anorcc,W,,c_count,0.8327,,"this work, PBE0/ANO-RCC, free ion, spherical average","sphere with chemical-core electrons (c_count, kind c in version 1.0)",computed EA differs from experiment by more than 0.3 eV
+density_anions_pbe0_anorcc,W,,c_elf,1.2495,,"this work, PBE0/ANO-RCC, free ion, spherical average",outermost ELF minimum inside r_outer (c_elf),computed EA differs from experiment by more than 0.3 eV
+density_anions_pbe0_anorcc,Os,,v,2.6594,,"this work, PBE0/ANO-RCC, free ion, spherical average",rho=0.001 e/bohr3,
+density_anions_pbe0_anorcc,Os,,r,1.5038,,"this work, PBE0/ANO-RCC, free ion, spherical average",outermost occupied orbital,
+density_anions_pbe0_anorcc,Os,,c,0.5449,,"this work, PBE0/ANO-RCC, free ion, spherical average","most probable radius, outermost core orbital (c_orb)",
+density_anions_pbe0_anorcc,Os,,c_count,0.7260,,"this work, PBE0/ANO-RCC, free ion, spherical average","sphere with chemical-core electrons (c_count, kind c in version 1.0)",
+density_anions_pbe0_anorcc,Os,,c_elf,1.2043,,"this work, PBE0/ANO-RCC, free ion, spherical average",outermost ELF minimum inside r_outer (c_elf),
+density_anions_pbe0_anorcc,Ir,,v,2.6191,,"this work, PBE0/ANO-RCC, free ion, spherical average",rho=0.001 e/bohr3,
+density_anions_pbe0_anorcc,Ir,,r,1.4192,,"this work, PBE0/ANO-RCC, free ion, spherical average",outermost occupied orbital,
+density_anions_pbe0_anorcc,Ir,,c,0.5290,,"this work, PBE0/ANO-RCC, free ion, spherical average","most probable radius, outermost core orbital (c_orb)",
+density_anions_pbe0_anorcc,Ir,,c_count,0.6837,,"this work, PBE0/ANO-RCC, free ion, spherical average","sphere with chemical-core electrons (c_count, kind c in version 1.0)",
+density_anions_pbe0_anorcc,Ir,,c_elf,1.2032,,"this work, PBE0/ANO-RCC, free ion, spherical average",outermost ELF minimum inside r_outer (c_elf),
+density_anions_pbe0_anorcc,Pt,,v,2.5703,,"this work, PBE0/ANO-RCC, free ion, spherical average",rho=0.001 e/bohr3,computed EA differs from experiment by more than 0.3 eV
+density_anions_pbe0_anorcc,Pt,,r,1.36,,"this work, PBE0/ANO-RCC, free ion, spherical average",outermost occupied orbital,computed EA differs from experiment by more than 0.3 eV
+density_anions_pbe0_anorcc,Pt,,c,0.5167,,"this work, PBE0/ANO-RCC, free ion, spherical average","most probable radius, outermost core orbital (c_orb)",computed EA differs from experiment by more than 0.3 eV
+density_anions_pbe0_anorcc,Pt,,c_count,0.6474,,"this work, PBE0/ANO-RCC, free ion, spherical average","sphere with chemical-core electrons (c_count, kind c in version 1.0)",computed EA differs from experiment by more than 0.3 eV
+density_anions_pbe0_anorcc,Au,,v,2.5353,,"this work, PBE0/ANO-RCC, free ion, spherical average",rho=0.001 e/bohr3,computed EA differs from experiment by more than 0.3 eV
+density_anions_pbe0_anorcc,Au,,r,1.3029,,"this work, PBE0/ANO-RCC, free ion, spherical average",outermost occupied orbital,computed EA differs from experiment by more than 0.3 eV
+density_anions_pbe0_anorcc,Au,,c,0.5026,,"this work, PBE0/ANO-RCC, free ion, spherical average","most probable radius, outermost core orbital (c_orb)",computed EA differs from experiment by more than 0.3 eV
+density_anions_pbe0_anorcc,Au,,c_count,0.6155,,"this work, PBE0/ANO-RCC, free ion, spherical average","sphere with chemical-core electrons (c_count, kind c in version 1.0)",computed EA differs from experiment by more than 0.3 eV
+density_anions_pbe0_anorcc,Tl,,v,2.7916,,"this work, PBE0/ANO-RCC, free ion, spherical average",rho=0.001 e/bohr3,
+density_anions_pbe0_anorcc,Tl,,r,1.7534,,"this work, PBE0/ANO-RCC, free ion, spherical average",outermost occupied orbital,
+density_anions_pbe0_anorcc,Tl,,c,0.5925,,"this work, PBE0/ANO-RCC, free ion, spherical average","most probable radius, outermost core orbital (c_orb)",
+density_anions_pbe0_anorcc,Tl,,c_count,1.1575,,"this work, PBE0/ANO-RCC, free ion, spherical average","sphere with chemical-core electrons (c_count, kind c in version 1.0)",
+density_anions_pbe0_anorcc,Tl,,c_elf,1.2143,,"this work, PBE0/ANO-RCC, free ion, spherical average",outermost ELF minimum inside r_outer (c_elf),
+density_anions_pbe0_anorcc,Pb,,v,2.8128,,"this work, PBE0/ANO-RCC, free ion, spherical average",rho=0.001 e/bohr3,computed EA differs from experiment by more than 0.3 eV
+density_anions_pbe0_anorcc,Pb,,r,1.5122,,"this work, PBE0/ANO-RCC, free ion, spherical average",outermost occupied orbital,computed EA differs from experiment by more than 0.3 eV
+density_anions_pbe0_anorcc,Pb,,c,0.5696,,"this work, PBE0/ANO-RCC, free ion, spherical average","most probable radius, outermost core orbital (c_orb)",computed EA differs from experiment by more than 0.3 eV
+density_anions_pbe0_anorcc,Pb,,c_count,1.0597,,"this work, PBE0/ANO-RCC, free ion, spherical average","sphere with chemical-core electrons (c_count, kind c in version 1.0)",computed EA differs from experiment by more than 0.3 eV
+density_anions_pbe0_anorcc,Pb,,c_elf,1.0333,,"this work, PBE0/ANO-RCC, free ion, spherical average",outermost ELF minimum inside r_outer (c_elf),computed EA differs from experiment by more than 0.3 eV
+density_anions_pbe0_anorcc,Bi,,v,2.7984,,"this work, PBE0/ANO-RCC, free ion, spherical average",rho=0.001 e/bohr3,
+density_anions_pbe0_anorcc,Bi,,r,1.3938,,"this work, PBE0/ANO-RCC, free ion, spherical average",outermost occupied orbital,
+density_anions_pbe0_anorcc,Bi,,c,0.5484,,"this work, PBE0/ANO-RCC, free ion, spherical average","most probable radius, outermost core orbital (c_orb)",
+density_anions_pbe0_anorcc,Bi,,c_count,0.9825,,"this work, PBE0/ANO-RCC, free ion, spherical average","sphere with chemical-core electrons (c_count, kind c in version 1.0)",
+density_anions_pbe0_anorcc,Bi,,c_elf,0.9510,,"this work, PBE0/ANO-RCC, free ion, spherical average",outermost ELF minimum inside r_outer (c_elf),
+density_anions_pbe0_anorcc,Po,,v,2.7454,,"this work, PBE0/ANO-RCC, free ion, spherical average",rho=0.001 e/bohr3,computed EA differs from experiment by more than 0.3 eV
+density_anions_pbe0_anorcc,Po,,r,1.2754,,"this work, PBE0/ANO-RCC, free ion, spherical average",outermost occupied orbital,computed EA differs from experiment by more than 0.3 eV
+density_anions_pbe0_anorcc,Po,,c,0.5308,,"this work, PBE0/ANO-RCC, free ion, spherical average","most probable radius, outermost core orbital (c_orb)",computed EA differs from experiment by more than 0.3 eV
+density_anions_pbe0_anorcc,Po,,c_count,0.9190,,"this work, PBE0/ANO-RCC, free ion, spherical average","sphere with chemical-core electrons (c_count, kind c in version 1.0)",computed EA differs from experiment by more than 0.3 eV
+density_anions_pbe0_anorcc,Po,,c_elf,0.8801,,"this work, PBE0/ANO-RCC, free ion, spherical average",outermost ELF minimum inside r_outer (c_elf),computed EA differs from experiment by more than 0.3 eV
+density_anions_pbe0_anorcc,At,,v,2.6772,,"this work, PBE0/ANO-RCC, free ion, spherical average",rho=0.001 e/bohr3,computed EA differs from experiment by more than 0.3 eV
+density_anions_pbe0_anorcc,At,,r,1.1886,,"this work, PBE0/ANO-RCC, free ion, spherical average",outermost occupied orbital,computed EA differs from experiment by more than 0.3 eV
+density_anions_pbe0_anorcc,At,,c,0.5114,,"this work, PBE0/ANO-RCC, free ion, spherical average","most probable radius, outermost core orbital (c_orb)",computed EA differs from experiment by more than 0.3 eV
+density_anions_pbe0_anorcc,At,,c_count,0.8653,,"this work, PBE0/ANO-RCC, free ion, spherical average","sphere with chemical-core electrons (c_count, kind c in version 1.0)",computed EA differs from experiment by more than 0.3 eV
+density_anions_pbe0_anorcc,At,,c_elf,0.8213,,"this work, PBE0/ANO-RCC, free ion, spherical average",outermost ELF minimum inside r_outer (c_elf),computed EA differs from experiment by more than 0.3 eV
+density_anions_pbe0_anorcc,Fr,,v,3.0356,,"this work, PBE0/ANO-RCC, free ion, spherical average",rho=0.001 e/bohr3,
+density_anions_pbe0_anorcc,Fr,,r,2.7072,,"this work, PBE0/ANO-RCC, free ion, spherical average",outermost occupied orbital,
+density_anions_pbe0_anorcc,Fr,,c,1.0245,,"this work, PBE0/ANO-RCC, free ion, spherical average","most probable radius, outermost core orbital (c_orb)",
+density_anions_pbe0_anorcc,Fr,,c_count,2.0428,,"this work, PBE0/ANO-RCC, free ion, spherical average","sphere with chemical-core electrons (c_count, kind c in version 1.0)",
+density_anions_pbe0_anorcc,Fr,,c_elf,2.1551,,"this work, PBE0/ANO-RCC, free ion, spherical average",outermost ELF minimum inside r_outer (c_elf),
+density_anions_pbe0_anorcc,Th,,v,3.11,,"this work, PBE0/ANO-RCC, free ion, spherical average",rho=0.001 e/bohr3,
+density_anions_pbe0_anorcc,Th,,r,2.1404,,"this work, PBE0/ANO-RCC, free ion, spherical average",outermost occupied orbital,
+density_anions_pbe0_anorcc,Th,,c,0.8922,,"this work, PBE0/ANO-RCC, free ion, spherical average","most probable radius, outermost core orbital (c_orb)",
+density_anions_pbe0_anorcc,Th,,c_count,1.3224,,"this work, PBE0/ANO-RCC, free ion, spherical average","sphere with chemical-core electrons (c_count, kind c in version 1.0)",
+density_anions_pbe0_anorcc,Th,,c_elf,1.6132,,"this work, PBE0/ANO-RCC, free ion, spherical average",outermost ELF minimum inside r_outer (c_elf),
+density_anions_pbe0_anorcc,U,,v,3.0733,,"this work, PBE0/ANO-RCC, free ion, spherical average",rho=0.001 e/bohr3,
+density_anions_pbe0_anorcc,U,,r,2.189,,"this work, PBE0/ANO-RCC, free ion, spherical average",outermost occupied orbital,
+density_anions_pbe0_anorcc,U,,c,0.8535,,"this work, PBE0/ANO-RCC, free ion, spherical average","most probable radius, outermost core orbital (c_orb)",
+density_anions_pbe0_anorcc,U,,c_count,1.0253,,"this work, PBE0/ANO-RCC, free ion, spherical average","sphere with chemical-core electrons (c_count, kind c in version 1.0)",
+density_anions_pbe0_anorcc,U,,c_elf,1.6342,,"this work, PBE0/ANO-RCC, free ion, spherical average",outermost ELF minimum inside r_outer (c_elf),

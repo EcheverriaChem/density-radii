@@ -1,0 +1,40 @@
+set_id,symbol,variant,kind,value_A,esd_A,source,table_ref,note
+bondi1964,H,,v,1.20,,"Bondi, J. Phys. Chem. 1964, 68, 441",Table I / Table XIII (aliphatic H,Table I / Table XIII (aliphatic H; aromatic H 1.00)
+bondi1964,He,,v,1.40,,"Bondi, J. Phys. Chem. 1964, 68, 441",Table I,Table I
+bondi1964,C,,v,1.70,,"Bondi, J. Phys. Chem. 1964, 68, 441",Table I (aliphatic,Table I (aliphatic; aromatic 1.77)
+bondi1964,N,,v,1.55,,"Bondi, J. Phys. Chem. 1964, 68, 441",Table I,Table I
+bondi1964,O,,v,1.52,,"Bondi, J. Phys. Chem. 1964, 68, 441",Table I,Table I
+bondi1964,F,,v,1.47,,"Bondi, J. Phys. Chem. 1964, 68, 441",Table I,Table I
+bondi1964,Ne,,v,1.54,,"Bondi, J. Phys. Chem. 1964, 68, 441",Table I,Table I
+bondi1964,Si,,v,2.10,,"Bondi, J. Phys. Chem. 1964, 68, 441",Table I / text,Table I / text
+bondi1964,P,,v,1.80,,"Bondi, J. Phys. Chem. 1964, 68, 441",Table I,Table I
+bondi1964,S,,v,1.80,,"Bondi, J. Phys. Chem. 1964, 68, 441",Table I,Table I
+bondi1964,Cl,,v,1.75,,"Bondi, J. Phys. Chem. 1964, 68, 441",Table I,Table I
+bondi1964,Ar,,v,1.88,,"Bondi, J. Phys. Chem. 1964, 68, 441",Table I,Table I
+bondi1964,As,,v,1.85,,"Bondi, J. Phys. Chem. 1964, 68, 441",Table I,Table I
+bondi1964,Se,,v,1.90,,"Bondi, J. Phys. Chem. 1964, 68, 441",Table I,Table I
+bondi1964,Br,,v,1.85,,"Bondi, J. Phys. Chem. 1964, 68, 441",Table I,Table I; Mantina 2009 and Alvarez 2013 quote 1.83 as Bondi - CHECK
+bondi1964,Kr,,v,2.02,,"Bondi, J. Phys. Chem. 1964, 68, 441",Table I,Table I
+bondi1964,Te,,v,2.06,,"Bondi, J. Phys. Chem. 1964, 68, 441",Table I / text,Table I / text; Alvarez 2013 quotes 2.00 - CHECK
+bondi1964,I,,v,1.98,,"Bondi, J. Phys. Chem. 1964, 68, 441",Table I,Table I
+bondi1964,Xe,,v,2.16,,"Bondi, J. Phys. Chem. 1964, 68, 441",Table I,Table I
+bondi1964,Sn,,v,2.17,,"Bondi, J. Phys. Chem. 1964, 68, 441",Table XIV (critical volume),Table XIV (critical volume)
+bondi1964,Li,,v,1.82,,"Bondi, J. Phys. Chem. 1964, 68, 441",Table XIV,Table XIV; Mantina/Alvarez quote 1.81 - CHECK
+bondi1964,Na,,v,2.27,,"Bondi, J. Phys. Chem. 1964, 68, 441",Table XIV,Table XIV
+bondi1964,Mg,,v,1.73,,"Bondi, J. Phys. Chem. 1964, 68, 441",Table XIV,Table XIV
+bondi1964,K,,v,2.75,,"Bondi, J. Phys. Chem. 1964, 68, 441",Table XIV,Table XIV
+bondi1964,Ni,,v,1.63,,"Bondi, J. Phys. Chem. 1964, 68, 441",Table XIV (UV spectroscopy),Table XIV (UV spectroscopy)
+bondi1964,Cu,,v,1.40,,"Bondi, J. Phys. Chem. 1964, 68, 441",Table XIV (X-ray),Table XIV (X-ray)
+bondi1964,Zn,,v,1.39,,"Bondi, J. Phys. Chem. 1964, 68, 441",Table XIV,Table XIV
+bondi1964,Ga,,v,1.87,,"Bondi, J. Phys. Chem. 1964, 68, 441",Table XIV,Table XIV
+bondi1964,Pd,,v,1.63,,"Bondi, J. Phys. Chem. 1964, 68, 441",Table XIV (UV spectroscopy),Table XIV (UV spectroscopy)
+bondi1964,Ag,,v,1.72,,"Bondi, J. Phys. Chem. 1964, 68, 441",Table XIV,Table XIV
+bondi1964,Cd,,v,1.58,,"Bondi, J. Phys. Chem. 1964, 68, 441",Table XIV,Table XIV; Alvarez 2013 quotes 1.62 - CHECK
+bondi1964,In,,v,1.93,,"Bondi, J. Phys. Chem. 1964, 68, 441",Table XIV,Table XIV
+bondi1964,Pt,xray,v,1.72,,"Bondi, J. Phys. Chem. 1964, 68, 441",default variant,default variant; Table XIV (X-ray); value quoted by Alvarez 2013
+bondi1964,Pt,uv,v,1.75,,"Bondi, J. Phys. Chem. 1964, 68, 441",Table XIV (UV spectroscopy),Table XIV (UV spectroscopy)
+bondi1964,Au,,v,1.66,,"Bondi, J. Phys. Chem. 1964, 68, 441",Table XIV,Table XIV
+bondi1964,Hg,,v,1.55,,"Bondi, J. Phys. Chem. 1964, 68, 441",Table XIV (critical volume),Table XIV (critical volume); text contact value 1.5; Alvarez 2013 quotes 1.70 - CHECK
+bondi1964,Tl,,v,1.96,,"Bondi, J. Phys. Chem. 1964, 68, 441",Table XIV,Table XIV
+bondi1964,Pb,,v,2.02,,"Bondi, J. Phys. Chem. 1964, 68, 441",Table XIV,Table XIV
+bondi1964,U,,v,1.86,,"Bondi, J. Phys. Chem. 1964, 68, 441",Table XIV,Table XIV

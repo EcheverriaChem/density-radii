@@ -1,0 +1,4 @@
+symbol,Z,roots,root_spread,v_rho_CAS,v_rho_SD,r_outer_CAS,r_outer_SD,c_count_CAS,c_count_SD,pop_dev_SD
+La,57,5,0 (roots degenerate to 1e-9 Eh),2.8861,2.8456,2.0537,1.9881,1.3962,1.3757,-0.437
+Ce,58,9,1399 cm-1,2.8952,2.8529,2.041,2.0156,1.1804,1.1542,0.447
+Th,90,7,406 cm-1,2.898,2.8712,1.9226,1.8676,1.3418,1.3326,-0.244

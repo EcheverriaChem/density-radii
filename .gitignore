@@ -1,0 +1,6 @@
+__pycache__/
+*.pyc
+workflow/config.yaml
+.pytest_cache/
+*.gbw
+*.tmp

@@ -1,0 +1,7 @@
+set_id,symbol,variant,kind,value_A,esd_A,source,table_ref,note
+vogt2014,He,,v,1.43,,"Vogt & Alvarez, Inorg. Chem. 2014, 53, 9260; corrigendum ibid. 2014, 53, 10779",Table 1,from He...E gas-phase and inorganic structures
+vogt2014,Ne,,v,1.58,,"Vogt & Alvarez, Inorg. Chem. 2014, 53, 9260; corrigendum ibid. 2014, 53, 10779",Table 1,from Ne...O gas phase
+vogt2014,Ar,,v,1.94,,"Vogt & Alvarez, Inorg. Chem. 2014, 53, 9260; corrigendum ibid. 2014, 53, 10779",Table 1,from Ar...O gas phase; revised from 1.90 in the corrigendum
+vogt2014,Kr,,v,2.07,,"Vogt & Alvarez, Inorg. Chem. 2014, 53, 9260; corrigendum ibid. 2014, 53, 10779",Table 1,from Kr...O gas phase
+vogt2014,Xe,,v,2.28,,"Vogt & Alvarez, Inorg. Chem. 2014, 53, 9260; corrigendum ibid. 2014, 53, 10779",Table 1,from Xe...O gas phase
+vogt2014,Rn,,v,2.4,,"Vogt & Alvarez, Inorg. Chem. 2014, 53, 9260; corrigendum ibid. 2014, 53, 10779",Table 1,tentative estimate: covalent radius + 0.9 A

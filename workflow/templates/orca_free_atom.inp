@@ -1,0 +1,10 @@
+# {label}
+! {scf_type} {method} {hamiltonian} {basis} NoRI {scf_keywords}
+%pal nprocs {nprocs} end
+%maxcore {maxcore}
+%scf
+  MaxIter {maxiter}
+{scf_extra}end
+* xyz {charge} {mult}
+{symbol}  0.0  0.0  0.0
+*

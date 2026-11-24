@@ -1,0 +1,8 @@
+ion,variant,n,mean,mad,max
+cations,"PBE0 / X2C, x2c-TZVPPall",11,0.004,0.014,0.036
+cations,"HF / DKH2, ANO-RCC-TZP",11,-0.007,0.018,0.052
+cations,"HF / X2C, x2c-TZVPPall",11,0.0,0.017,0.042
+anions,"PBE0 / X2C, x2c-TZVPPall",10,-0.043,0.048,0.094
+anions,"HF / DKH2, ANO-RCC-TZP",10,0.006,0.036,0.086
+anions,"HF / X2C, x2c-TZVPPall",10,-0.028,0.074,0.116
+anions,"PBE0 / ANO-RCC, decontracted",10,-0.0,0.008,0.021

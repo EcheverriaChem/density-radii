@@ -1,0 +1,97 @@
+Z,symbol,configuration,ground_term,multiplicity,status,note
+1,H,1s1,2S,2,"APPROVED (group, 2026-09-16)",
+2,He,1s2,1S,1,"APPROVED (group, 2026-09-16)",
+3,Li,[He]2s1,2S,2,"APPROVED (group, 2026-09-16)",
+4,Be,[He]2s2,1S,1,"APPROVED (group, 2026-09-16)",
+5,B,[He]2s2 2p1,2P,2,"APPROVED (group, 2026-09-16)",
+6,C,[He]2s2 2p2,3P,3,"APPROVED (group, 2026-09-16)",
+7,N,[He]2s2 2p3,4S,4,"APPROVED (group, 2026-09-16)",
+8,O,[He]2s2 2p4,3P,3,"APPROVED (group, 2026-09-16)",
+9,F,[He]2s2 2p5,2P,2,"APPROVED (group, 2026-09-16)",
+10,Ne,[He]2s2 2p6,1S,1,"APPROVED (group, 2026-09-16)",
+11,Na,[Ne]3s1,2S,2,"APPROVED (group, 2026-09-16)",
+12,Mg,[Ne]3s2,1S,1,"APPROVED (group, 2026-09-16)",
+13,Al,[Ne]3s2 3p1,2P,2,"APPROVED (group, 2026-09-16)",
+14,Si,[Ne]3s2 3p2,3P,3,"APPROVED (group, 2026-09-16)",
+15,P,[Ne]3s2 3p3,4S,4,"APPROVED (group, 2026-09-16)",
+16,S,[Ne]3s2 3p4,3P,3,"APPROVED (group, 2026-09-16)",
+17,Cl,[Ne]3s2 3p5,2P,2,"APPROVED (group, 2026-09-16)",
+18,Ar,[Ne]3s2 3p6,1S,1,"APPROVED (group, 2026-09-16)",
+19,K,[Ar]4s1,2S,2,"APPROVED (group, 2026-09-16)",
+20,Ca,[Ar]4s2,1S,1,"APPROVED (group, 2026-09-16)",
+21,Sc,[Ar]3d1 4s2,2D,2,"APPROVED (group, 2026-09-16)",
+22,Ti,[Ar]3d2 4s2,3F,3,"APPROVED (group, 2026-09-16)",
+23,V,[Ar]3d3 4s2,4F,4,"APPROVED (group, 2026-09-16)",
+24,Cr,[Ar]3d5 4s1,7S,7,"APPROVED (group, 2026-09-16)",non-aufbau ground configuration; compare with alternative configuration in pilot
+25,Mn,[Ar]3d5 4s2,6S,6,"APPROVED (group, 2026-09-16)",
+26,Fe,[Ar]3d6 4s2,5D,5,"APPROVED (group, 2026-09-16)",
+27,Co,[Ar]3d7 4s2,4F,4,"APPROVED (group, 2026-09-16)",
+28,Ni,[Ar]3d8 4s2,3F,3,"APPROVED (group, 2026-09-16)",
+29,Cu,[Ar]3d10 4s1,2S,2,"APPROVED (group, 2026-09-16)",non-aufbau ground configuration; compare with alternative configuration in pilot
+30,Zn,[Ar]3d10 4s2,1S,1,"APPROVED (group, 2026-09-16)",
+31,Ga,[Ar]3d10 4s2 4p1,2P,2,"APPROVED (group, 2026-09-16)",
+32,Ge,[Ar]3d10 4s2 4p2,3P,3,"APPROVED (group, 2026-09-16)",
+33,As,[Ar]3d10 4s2 4p3,4S,4,"APPROVED (group, 2026-09-16)",
+34,Se,[Ar]3d10 4s2 4p4,3P,3,"APPROVED (group, 2026-09-16)",
+35,Br,[Ar]3d10 4s2 4p5,2P,2,"APPROVED (group, 2026-09-16)",
+36,Kr,[Ar]3d10 4s2 4p6,1S,1,"APPROVED (group, 2026-09-16)",
+37,Rb,[Kr]5s1,2S,2,"APPROVED (group, 2026-09-16)",
+38,Sr,[Kr]5s2,1S,1,"APPROVED (group, 2026-09-16)",
+39,Y,[Kr]4d1 5s2,2D,2,"APPROVED (group, 2026-09-16)",
+40,Zr,[Kr]4d2 5s2,3F,3,"APPROVED (group, 2026-09-16)",
+41,Nb,[Kr]4d4 5s1,6D,6,"APPROVED (group, 2026-09-16)",non-aufbau ground configuration; compare with alternative configuration in pilot
+42,Mo,[Kr]4d5 5s1,7S,7,"APPROVED (group, 2026-09-16)",non-aufbau ground configuration; compare with alternative configuration in pilot
+43,Tc,[Kr]4d5 5s2,6S,6,"APPROVED (group, 2026-09-16)",
+44,Ru,[Kr]4d7 5s1,5F,5,"APPROVED (group, 2026-09-16)",non-aufbau ground configuration; compare with alternative configuration in pilot
+45,Rh,[Kr]4d8 5s1,4F,4,"APPROVED (group, 2026-09-16)",non-aufbau ground configuration; compare with alternative configuration in pilot
+46,Pd,[Kr]4d10,1S,1,"APPROVED (group, 2026-09-16)",non-aufbau ground configuration; compare with alternative configuration in pilot
+47,Ag,[Kr]4d10 5s1,2S,2,"APPROVED (group, 2026-09-16)",non-aufbau ground configuration; compare with alternative configuration in pilot
+48,Cd,[Kr]4d10 5s2,1S,1,"APPROVED (group, 2026-09-16)",
+49,In,[Kr]4d10 5s2 5p1,2P,2,"APPROVED (group, 2026-09-16)",
+50,Sn,[Kr]4d10 5s2 5p2,3P,3,"APPROVED (group, 2026-09-16)",
+51,Sb,[Kr]4d10 5s2 5p3,4S,4,"APPROVED (group, 2026-09-16)",
+52,Te,[Kr]4d10 5s2 5p4,3P,3,"APPROVED (group, 2026-09-16)",
+53,I,[Kr]4d10 5s2 5p5,2P,2,"APPROVED (group, 2026-09-16)",
+54,Xe,[Kr]4d10 5s2 5p6,1S,1,"APPROVED (group, 2026-09-16)",
+55,Cs,[Xe]6s1,2S,2,"APPROVED (group, 2026-09-16)",
+56,Ba,[Xe]6s2,1S,1,"APPROVED (group, 2026-09-16)",
+57,La,[Xe]5d1 6s2,2D,2,"APPROVED (group, 2026-09-16)",
+58,Ce,[Xe]4f1 5d1 6s2,1G,3,APPROVED (group),f-block; open 4f/5f shell: expect SCF difficulties; configuration as in Rahm 2016 Fig. 2 and NIST
+59,Pr,[Xe]4f3 6s2,4I,4,APPROVED (group),f-block; open 4f/5f shell: expect SCF difficulties; configuration as in Rahm 2016 Fig. 2 and NIST
+60,Nd,[Xe]4f4 6s2,5I,5,APPROVED (group),f-block; open 4f/5f shell: expect SCF difficulties; configuration as in Rahm 2016 Fig. 2 and NIST
+61,Pm,[Xe]4f5 6s2,6H,6,APPROVED (group),f-block; open 4f/5f shell: expect SCF difficulties; configuration as in Rahm 2016 Fig. 2 and NIST
+62,Sm,[Xe]4f6 6s2,7F,7,APPROVED (group),f-block; open 4f/5f shell: expect SCF difficulties; configuration as in Rahm 2016 Fig. 2 and NIST
+63,Eu,[Xe]4f7 6s2,8S,8,APPROVED (group),f-block; open 4f/5f shell: expect SCF difficulties; configuration as in Rahm 2016 Fig. 2 and NIST
+64,Gd,[Xe]4f7 5d1 6s2,9D,9,APPROVED (group),f-block; open 4f/5f shell: expect SCF difficulties; configuration as in Rahm 2016 Fig. 2 and NIST
+65,Tb,[Xe]4f9 6s2,6H,6,APPROVED (group),f-block; open 4f/5f shell: expect SCF difficulties; configuration as in Rahm 2016 Fig. 2 and NIST
+66,Dy,[Xe]4f10 6s2,5I,5,APPROVED (group),f-block; open 4f/5f shell: expect SCF difficulties; configuration as in Rahm 2016 Fig. 2 and NIST
+67,Ho,[Xe]4f11 6s2,4I,4,APPROVED (group),f-block; open 4f/5f shell: expect SCF difficulties; configuration as in Rahm 2016 Fig. 2 and NIST
+68,Er,[Xe]4f12 6s2,3H,3,APPROVED (group),f-block; open 4f/5f shell: expect SCF difficulties; configuration as in Rahm 2016 Fig. 2 and NIST
+69,Tm,[Xe]4f13 6s2,2F,2,APPROVED (group),f-block; open 4f/5f shell: expect SCF difficulties; configuration as in Rahm 2016 Fig. 2 and NIST
+70,Yb,[Xe]4f14 6s2,1S,1,APPROVED (group),f-block row; configuration as in Rahm 2016 Fig. 2 and NIST
+71,Lu,[Xe]4f14 5d1 6s2,2D,2,APPROVED (group),f-block row; configuration as in Rahm 2016 Fig. 2 and NIST
+72,Hf,[Xe]4f14 5d2 6s2,3F,3,"APPROVED (group, 2026-09-16)",
+73,Ta,[Xe]4f14 5d3 6s2,4F,4,"APPROVED (group, 2026-09-16)",
+74,W,[Xe]4f14 5d4 6s2,5D,5,"APPROVED (group, 2026-09-16)",
+75,Re,[Xe]4f14 5d5 6s2,6S,6,"APPROVED (group, 2026-09-16)",
+76,Os,[Xe]4f14 5d6 6s2,5D,5,"APPROVED (group, 2026-09-16)",
+77,Ir,[Xe]4f14 5d7 6s2,4F,4,"APPROVED (group, 2026-09-16)",
+78,Pt,[Xe]4f14 5d9 6s1,3D,3,"APPROVED (group, 2026-09-16)",non-aufbau ground configuration; compare with alternative configuration in pilot
+79,Au,[Xe]4f14 5d10 6s1,2S,2,"APPROVED (group, 2026-09-16)",non-aufbau ground configuration; compare with alternative configuration in pilot
+80,Hg,[Xe]4f14 5d10 6s2,1S,1,"APPROVED (group, 2026-09-16)",
+81,Tl,[Xe]4f14 5d10 6s2 6p1,2P,2,"APPROVED (group, 2026-09-16)",
+82,Pb,[Xe]4f14 5d10 6s2 6p2,3P,3,"APPROVED (group, 2026-09-16)",
+83,Bi,[Xe]4f14 5d10 6s2 6p3,4S,4,"APPROVED (group, 2026-09-16)",
+84,Po,[Xe]4f14 5d10 6s2 6p4,3P,3,"APPROVED (group, 2026-09-16)",
+85,At,[Xe]4f14 5d10 6s2 6p5,2P,2,"APPROVED (group, 2026-09-16)",
+86,Rn,[Xe]4f14 5d10 6s2 6p6,1S,1,"APPROVED (group, 2026-09-16)",
+87,Fr,[Rn]7s1,2S,2,"APPROVED (group, 2026-09-16)",
+88,Ra,[Rn]7s2,1S,1,"APPROVED (group, 2026-09-16)",
+89,Ac,[Rn]6d1 7s2,2D,2,APPROVED (group),f-block row; configuration as in Rahm 2016 Fig. 2 and NIST
+90,Th,[Rn]6d2 7s2,3F,3,APPROVED (group),f-block row; configuration as in Rahm 2016 Fig. 2 and NIST
+91,Pa,[Rn]5f2 6d1 7s2,4K,4,APPROVED (group),f-block; open 4f/5f shell: expect SCF difficulties; configuration as in Rahm 2016 Fig. 2 and NIST
+92,U,[Rn]5f3 6d1 7s2,5L,5,APPROVED (group),f-block; open 4f/5f shell: expect SCF difficulties; configuration as in Rahm 2016 Fig. 2 and NIST
+93,Np,[Rn]5f4 6d1 7s2,6L,6,APPROVED (group),f-block; open 4f/5f shell: expect SCF difficulties; configuration as in Rahm 2016 Fig. 2 and NIST
+94,Pu,[Rn]5f6 7s2,7F,7,APPROVED (group),f-block; open 4f/5f shell: expect SCF difficulties; configuration as in Rahm 2016 Fig. 2 and NIST
+95,Am,[Rn]5f7 7s2,8S,8,APPROVED (group),f-block; open 4f/5f shell: expect SCF difficulties; configuration as in Rahm 2016 Fig. 2 and NIST
+96,Cm,[Rn]5f7 6d1 7s2,9D,9,APPROVED (group),f-block; open 4f/5f shell: expect SCF difficulties; configuration as in Rahm 2016 Fig. 2 and NIST

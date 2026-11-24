@@ -1,0 +1,12 @@
+name: density-radii
+channels: [conda-forge]
+dependencies:
+  - python>=3.10
+  - numpy
+  - scipy
+  - pandas
+  - matplotlib
+  - statsmodels
+  - cclib
+  - snakemake-minimal
+  - pytest

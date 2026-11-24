@@ -1,0 +1,4 @@
+Z,symbol,charge,configuration,ground_term,multiplicity,status,note
+28,Ni,0,[Ar]3d9 4s1,3D,3,APPROVED (J-averaged ground configuration),"NIST lowest J-averaged term; 240 cm-1 below 3d8 4s2 3F (R1.7)"
+65,Tb,0,[Xe]4f8 5d1 6s2,8G,8,APPROVED (J-averaged ground configuration),"NIST lowest J-averaged term; at least 0.19 eV below 4f9 6s2 6H (R1.7). f-block recipe"
+74,W,0,[Xe]4f14 5d5 6s1,7S,7,APPROVED (J-averaged ground configuration),"NIST lowest J-averaged term; 0.19 eV below 5d4 6s2 5D (R1.7)"

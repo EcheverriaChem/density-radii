@@ -1,0 +1,404 @@
+Z1,Z2,R_pm,species_and_ref
+3,3,267.29,Li2
+1,10,99.1195,NeH+ [85]
+1,42,170.3,CH=MoH3 [105]
+6,6,153.1,"C2H6 [65] , p.914, [66]"
+1,11,188.66,NaH
+1,42,170.2,CH=MoH2F [106]
+6,6,153.7,C(CH3)4 [67]
+1,12,173.0,MgH2 [67]
+1,43,159.8,TcH5 PW
+6,6,154.0,"diamond [65] , p.913"
+1,13,157.5,"Al2H6 [86] , B3LYP"
+1,44,156.7,RuH4 PW
+7,7,145.3,"N2H4 [65] , p.803(IR)"
+1,13,158.4,"AlH3 [86] , B3LYP"
+1,45,161.7,RhH3 PW
+8,8,121.7,"O2F2 [65] , p.502"
+1,13,159.0,AlH3 [67]
+1,45,152.0,RhH3 [107]
+11,11,307.887,Na2
+1,13,159.7,"AlH3 [83] , MP2"
+1,46,151.7,"PdH2 [108] , open 1 A1 state"
+14,14,235.0,"Si(s) [65] , p.986"
+1,14,148.0,"SiH4 [65] , p.914"
+1,46,152.2,PdH2 [79] p.550
+14,14,236.0,Si[Si(CH3)3]4
+1,15,142.06,"PH3 [65] , p.846"
+1,47,161.791,AgH [96]
+15,15,221.2,P2Me4 [68]
+1,16,134.0,H2S [67]
+1,48,166.4,CdH+
+15,15,223.0,"P(black) [65] , p.89"
+1,16,134.5,H2S2 [84]
+1,48,167.917,CdH2 [109]
+16,16,202.0,"S2Me2 [65] , p.728"
+1,16,135.0,"H2S [65] , p.705"
+1,48,171.4,"HCdCdH PW, SDD"
+16,16,205.5,S2H2 [69]
+1,16,135.2,H2S2 [69]
+1,49,172.8,InH3 [110]
+17,17,198.79,Cl2
+1,17,127.49,HCl
+1,49,175.0,"InH3 [83] , MP2"
+19,19,390.51,K2
+1,18,128.056,ArH+ [87]
+1,49,175.0,InH3 [111]
+29,29,221.927,Cu2 [70]
+1,19,224.0,KH
+1,50,170.0,"SnH4 [65] , p.915"
+30,30,237.5,HZnZnH [71]
+1,20,200.0,CaH2 [67]
+1,50,171.0,SnH4 [67]
+30,30,236.0,Ar-ZnZn-Ar [72]
+1,20,203.0,"CaH2 [88] , B3LYP"
+1,51,169.5,Sb2H4 [75]
+30,30,230.5,(Cp*)ZnZn(Cp*) [73]
+1,21,181.3,ScH3 [89]
+1,51,170.4,SbH3 [99]
+32,32,241.0,"Ge2H6 [65] , p.914"
+1,21,183.5,"ScH3 [90] , CCSD(T)"
+1,51,170.7,"SbH3 [65] , p.879"
+32,32,245.0,"Ge(s) [74] , p.24"
+1,22,168.8,"TiH4 [79] , p.550"
+1,52,164.0,Te2H2 [69]
+33,33,242.9,As2Me4 [68]
+1,22,171.1,"TiH4 [91] , BP86"
+1,52,164.4,Te2H2 [75]
+34,34,229.0,"Se2Ph2 [65] , p.728"
+1,22,171.7,TiH2Me2 [92]
+1,52,166.0,TeH2 [67]
+34,34,233.0,"Se2Me2 [65] , p.728"
+1,23,162.2,VH5 PW
+1,52,169.0,"TeH2 [100] , B3LYP+SO"
+34,34,234.6,H2Se2 [75]
+1,23,169.8,HC=VH2F [93]
+1,53,160.99,HI
+35,35,228.105,Br2
+1,24,154.2,"CrH6(av) [79] , p.550"
+1,54,160.2813,XeH+ [112]
+37,37,420.99,Rb2
+1,24,153.5,CrH6(av) [94]
+1,56,223.0,BaH2 [67]
+47,47,253.03,Ag2 [76]
+1,25,151.2,MnH5 PW
+1,56,228.1,BaH2 [113]
+48,48,269.6,HCdCdH PW
+1,26,148.0,FeH4 PW
+1,56,228.7,BaH2 [88]
+50,50,277.6,Sn2(CH3)6 [77]
+1,27,143.1,CoH3 PW
+1,57,211.1,"LaH3 [69] , 4-comp. MP2"
+50,50,280.0,Sn(grey) [78]
+1,28,141.7,"NiH2 [79] , p.550"
+1,57,212.0,LaH3 [114]
+51,51,281.8,Sb2Me4 [77]
+1,28,142.6,NiH2 [95]
+1,57,214.2,(Cp)2LaH [115]
+52,52,268.6,Te2(CH3)2 [77]
+1,29,146.2543776,CuH [96]
+1,58,194.2,CeH+ 3 [89]
+52,52,276.2,"H2Te2 [75] , MP4"
+1,30,150.35,(Cp)ZnH PW
+1,58,195.9,(Cp)2CeH+ [115]
+53,53,266.63,I2
+1,30,151.25,I-Zn-H PW
+1,59,208.0,PrH3 [114]
+55,55,465.1,Cs2
+1,30,151.4,ZnH+
+1,59,209.3,PrH3 [89]
+77,77,241.7,"H2IrIrH2 [79] , p.414"
+1,30,152.394,ZnH2 [97]
+1,59,211.2,(Cp)2PrH [115]
+78,78,248.3,"HPtPtH [79] , p.414"
+1,31,155.6,Ga2H6 [98]
+1,60,207.0,NdH3 PW
+79,79,247.19,Au2
+1,31,156.7,GaH3 [98]
+1,60,209.9,(Cp)2NdH [115]
+80,80,268.2,HHgHgH PW
+1,31,158.7,"GaH3 [83] , MP2"
+1,61,206.0,PmH3 PW
+82,82,286.97,(Bp)3Pb Pb(Bp)3
+1,32,153.0,GeH4 [67]
+1,61,208.8,(Cp)2PmH [115]
+82,82,288.0,"Pb2(CH3)6 [65] , p.915"
+1,33,151.3,As2H4 [75]
+1,62,204.0,SmH3 PW
+83,83,304.0,Bi2(SiMe3)4 [75]
+1,33,151.9,"AsH3 [65] , p.879"
+1,62,207.8,(Cp)2SmH [115]
+84,84,289.9,Po2 H2 [75]
+1,33,151.1,AsH3 [99]
+1,63,233.0,EuH 3 [114]
+84,84,291.0,Po2 H2 [69]
+1,34,145.0,Se2H2 [69]
+1,63,233.1,(Cp)2EuH- [115]
+85,85,297.9,At2 [81]
+1,34,145.9,Se2H2 [75]
+1,64,202.0,GdH3 PW
+87,87,447.0,Fr2 [26]
+1,34,146.0,"H2Se [65] , p.705"
+1,64,205.9,(Cp)2GdH [115]
+1,2,77.43,HeH+ [82]
+1,34,146.7,"H2Se [100] , B3LYP+SO"
+1,65,201.0,TbH3 PW
+1,3,159.4,LiH
+1,35,141.456,HBr
+1,65,204.5,(Cp)2TbH [115]
+1,4,134.0,BeH2 [67]
+1,36,142.11904,KrH+ [101]
+1,66,200.0,DyH3 PW
+1,5,118.0,BH3 [67]
+1,37,236.6808,RbH [102]
+1,66,203.1,(Cp)2DyH [115]
+1,5,119.1,"BH3 [83] , MP2"
+1,38,215.0,SrH2 [67]
+1,67,199.0,HoH3 PW
+1,6,109.0,CH4
+1,38,216.4,"SrH2 [88] , B3LYP"
+1,67,201.8,(Cp)2HoH [115]
+1,6,111.0,"C2H6 [65] , p.914"
+1,39,197.1,YH3 [89]
+1,68,198.0,ErH3 PW
+1,7,100.8,N2H4 [84]
+1,40,185.0,"ZrH4 [79] , p.550"
+1,68,200.5,(Cp)2ErH [115]
+1,7,101.1,"NH2(CH3) [65] , p.914"
+1,40,186.8,ZrH2Me2 [103]
+1,69,197.0,TmH3 PW[80]
+1,7,101.5,"NH3 [65] , p.793"
+1,40,187.0,ZrH4 [27]
+1,69,199.4,(Cp)2TmH [115]
+1,7,102.2,"NH(CH3)2 [65] , p.793"
+1,40,187.5,CH2=ZrHCl [104]
+1,70,201.5,YbH3 PW
+1,8,96.0,"H2O [65] , p.653"
+1,41,175.5,NbH5 PW
+1,71,192.2,"LuH3 [69] ,4-comp. MP2"
+1,8,97.0,H2O2 [69]
+1,41,183.7,HC=NbH2F [93]
+1,9,91.76,HF
+1,42,166.2,"MoH6(av) [79] , p.550 Chem. Eur. J. 2009, 15, 186 – 197  2009 Wiley-VCH Verlag GmbH & Co. KGaA, Weinheim www.chemeurj.org 189 FULL PAPER Molecular Single-Bond Covalent Radii for Elements 1–118 15213765, 2009, 1, Downloaded from https://chemistry-europe.onlinelibrary.wiley.com/doi/10.1002/chem.200800987 by Universidad De Zaragoza, Wiley Online Library on [21/09/2026]. See the Terms and Conditions (https://onlinelibrary.wiley.com/terms-and-conditions) on Wiley Online Library for rules of use; OA articles are governed by the applicable Creative Commons License Table 4. (Continued) Z1 Z2 Distance Species Reference Z1 Z2 Distance Species Reference Z1 Z2 Distance Species Reference"
+1,71,196.0,LuH3 PW
+1,94,208.1,"PuH3 PW,[131] B3LYP 6 A2"
+6,15,183.8,P2Me4 [68]
+1,71,197.2,(Cp)2LuH [115]
+1,95,202.6,AmH3 PW
+6,15,184.3,"P(CH3)3 [65] , p.846"
+1,72,183.2,"HfH4 [79] , p.550"
+1,96,198.4,CmH3 PW
+6,15,184.7,P(CH3)3 [67] (ED)
+1,72,185.0,HfH4 [27]
+1,97,199.6,BkH3 PW
+6,16,180.2,S(CH3)2 [67] (MW)
+1,72,186.9,CH2=HfHCl [104]
+1,99,197.2,EsH3 PW
+6,16,180.7,(ED)
+1,73,176.9,TaH5 PW
+1,100,199.1,FmH3 PW
+6,16,181.9,MeSH [84]
+1,73,183.9,HC=TaH2F [93]
+1,101,204.6,MdH3 PW
+6,17,178.5,"ClCH3 [67] , (MW)"
+1,74,168.45,"WH6(av) [79] , p.550"
+1,102,207.8,NoH3 PW
+6,19,269.8,K-CH3 [141]
+1,74,169.0,"WH6(av) [116,117]"
+1,102,212.2,"NoH2 PW, [132]"
+6,20,245.2,CaMe2 [113]
+1,74,171.9,CH=WH2F [106]
+1,103,193.4,"LrH3 [69] , 4-comp. MP2"
+6,20,248.7,CaMe2 [142]
+1,75,162.6,"ReH5 [79] , p.391"
+1,103,197.2,LrH3 PW
+6,21,218.3,ScMe3 [89]
+1,75,163.0,ReH5 PW
+1,104,189.1,RfH4 PW
+6,22,205.0,TiH2Me2 [92]
+1,75,166.0,"H4ReReH4 [79] , p.414"
+1,105,181.7,DbH3 PW
+6,22,208.5,"TiMe4 [143,144]"
+1,76,159.4,OsH4 PW
+1,105,180.9,DbH5 PW
+6,29,186.6,CuMe [145]
+1,76,160.1,"OsH4 [79] , p.391"
+1,106,176.5,SgH3 PW
+6,29,192.2,CuMe2  [145]
+1,76,161.4,"H3Os-OsH3 [79] , p.414"
+1,106,178.688,SgH6 PW
+6,30,193.0,"Zn(CH3)2 [67] , (ED)"
+1,76,163.0,OsH4 [118]
+1,107,172.2,BhH3 PW
+6,31,196.7,"Ga(CH3)3 [67] , (ED)"
+1,76,165.3,"ReH4Me [79] , p.398"
+1,107,174.355,BhH5 PW
+6,32,194.5,"Ge(CH3)4 [67] , (ED)"
+1,77,154.5,"IrH2Me [79] , p.398"
+1,108,165.3,HsH3 PW
+6,32,195.0,"GeH2(CH3)2 [65] , p.914"
+1,77,154.3,IrH3 PW
+1,108,165.6,HsH4 PW
+6,32,196.0,"(H3Ge)3CH [146] , (ED)"
+1,77,154.8,"IrH3 [79] , p.391"
+1,109,162.999,MtH3 PW
+6,32,197.0,"(H3Ge)4C [146] , (ED)"
+1,77,155.3,"H2Ir-IrH2 [79] , p.414"
+1,110,156.855,DsH2 PW
+6,33,196.8,"As(CH3)3 [67] , (ED)"
+1,78,151.8,"MePtH [79] , p.398"
+1,110,162.7,DsH3 PW
+6,34,194.3,"Se(CH3)2 [67] , (MW)"
+1,78,152.0,"HPtPtH [79] , p.414"
+1,111,149.9,"(E111)H [133] , SOPP/ CCSD(T)"
+6,35,193.2,"BrCH3 [67] , (MW)"
+1,78,152.0,"PtH2 [79] , p.550"
+1,111,151.0,(E111)H [134]
+6,37,285.9,Rb-CH3 [141]
+1,78,152.0,PtH2 [95]
+1,111,152.9,(E111)H [135]
+6,38,262.1,SrMe2 [142]
+1,78,152.0,"HPtCH3 [119,120]"
+1,111,154.3,(E111)H PW ADF
+6,39,234.8,YMe3 [89]
+1,79,152.3675,AuH [96]
+1,111,154.6,"(E111)H [136] , BDF"
+6,40,227.3,ZrMe4 [144]
+1,80,159.44,HgH+
+1,112,151.7,(E112)H+ [137]
+6,41,220.4,Nb(CH3)5 [147]
+1,80,163.315,HgH2 [121]
+1,112,158.3,(E112)H+ [41]
+6,47,211.1,"AgMe [145] , MP2"
+1,80,168.7,HHgHgH PW
+1,113,168.0,"(E113)H3 [138] , (av of T)"
+6,48,211.2,"Cd(CH3)2 [67] , (RR)"
+1,81,173.0,TlH3 [122]
+1,114,175.0,(E114)H4 [124]
+6,49,216.1,"In(CH3)3 [67] , (ED)"
+1,81,174.3,"TlH3 [83] , MP2"
+1,115,193.8,(E115)H3 PW
+6,49,217.9,"In(CH3)3 [148] , B3PW91"
+1,81,179.0,TlH3 [111]
+1,116,204.7,"(E116)H2 [100] , B3LYP+SO"
+6,50,213.4,Sn(CH3)4 [149]
+1,82,174.3,PbH4 [123]
+1,116,204.7,(E116)H2 [139]
+6,50,214.4,"[67] , (ED)"
+1,82,175.0,PbH4 [124]
+1,116,205.9,"(E116)H2 [100] , CCSD(T)+SO"
+6,51,216.3,"Sb(CH3)3 [67] , (ED)"
+1,82,175.4,Pb2H2 [123]
+1,117,193.8,H(E117) [126]
+6,51,216.5,"Sb(CH3)5 [150] , (ED)"
+1,83,177.59,BiH3 [125]
+1,117,194.9,H(E117) [127]
+6,52,214.2,"Te(CH3)2 [67] , (ED)"
+1,84,174.0,Po2H2 [75]
+1,117,198.3,"H(E117) [39] , CCSD(T)"
+6,53,213.2,"ICH3 [67] , (MW)"
+1,84,174.0,Po2 H2 [69]
+1,118,199.2,"(E118)H+ [41] , CCSD(T)"
+6,56,275.7,BaMe2 [142]
+1,84,180.8,"PoH2 [100] ,B3LYP SO"
+3,6,203.0,LiCH(SiMe3)2 [140]
+6,57,249.5,LaMe3 [89]
+1,85,173.7,"HAt [126] ,CCSD(T)"
+3,11,288.5,LiNa
+6,57,257.6,(Cp)2LaCF3 [151]
+1,85,174.2,HAt [127]
+3,19,331.915,LiK [57]
+6,59,246.1,PrMe3 [89]
+1,86,161.8,"RnH+ [41] , CCSD(T)"
+3,55,366.81,LiCs [58]
+6,60,244.0,NdMe3 [89]
+1,87,250.9,FrH PW
+4,6,169.8,Be(CH3)2 [67]
+6,61,243.1,PmMe3 [89]
+1,88,233.1,RaH2 PW
+5,6,157.8,B(CH3)3 [67]
+6,62,241.7,NdMe3 [89]
+1,89,220.8,AcH3 PW
+6,7,146.6,"NH(CH3)2 [65] , p.793"
+6,63,270.1,EuMe3 [89]
+1,89,221.5,"AcH3 [69] , 4-comp. MP2"
+6,7,147.4,"NH2(CH3) [65] , p.793"
+6,64,239.3,GdMe3 [89]
+1,90,205.8,ThH4 [128]
+6,8,141.6,"O(CH3)2 [65] , p.500 (ED)"
+6,65,237.5,TbMe3 [89]
+1,90,207.1,ThH4 [129]
+6,8,142.5,MeOH [84]
+6,66,236.9,DyMe3 [89]
+1,90,207.1,ThH4 [129]
+6,9,138.9,FCH3 [67]
+6,67,235.8,HoMe3 [89]
+1,91,200.6,PaH5 PW
+6,11,231.5,Na-CH3
+6,68,234.7,ErMe3 [89]
+1,92,196.7,UH6 [17]
+6,12,212.6,Mg(CH3)2 [67]
+6,69,234.0,TmMe3 [89]
+1,92,206.6,"UH3 [130] ,DFT 4 A2"
+6,13,195.7,Al(CH3)3 [67]
+6,70,261.5,YbMe3 [89]
+1,93,202.9,NpH4 PW
+6,14,187.0,"(CH3)3SiH [65] , p.914"
+6,71,232.4,LuMe3 [89]
+1,94,200.7,PuH4 PW
+6,14,187.5,"Si(CH3)4 [67] , (ED)"
+6,72,225.2,"HfMe4 [144] www.chemeurj.org  2009 Wiley-VCH Verlag GmbH & Co. KGaA, Weinheim Chem. Eur. J. 2009, 15, 186 – 197 190 P. Pyykkç and M. Atsumi 15213765, 2009, 1, Downloaded from https://chemistry-europe.onlinelibrary.wiley.com/doi/10.1002/chem.200800987 by Universidad De Zaragoza, Wiley Online Library on [21/09/2026]. See the Terms and Conditions (https://onlinelibrary.wiley.com/terms-and-conditions) on Wiley Online Library for rules of use; OA articles are governed by the applicable Creative Commons License Group 6: Six-coordinated hydride and methyl compounds were used. Because both adopt low-symmetry, C3v struc- tures, an average of the two distances was taken. Group 7: ML5 systems were used. Group 8: ML4 systems were used. Group 9: ML3 systems were used. Group 10: ML2 systems of C2v symmetry were used. Group 11: ML, M=H, Me. In the coinage-metal group (M=Cu, Ag, Au, Rg) (Rg=roentgenium, E111), the mono- valent systems ML, L=H, Me were used. The intermetallics AgCu and AuCu were added. The resulting r(Au) is 4 pm smaller than r(Ag). Group 12: ML2 systems were used. The Zn–Zn distances of the new dizinc compounds fit in well. Group 13: ML3 systems were used. As discussed by Himmel and Gaertner,[32] variations of Ga–Ga distances occur in the range 239–254 pm for putative single bonds. The present 2r(Ga) is 248 pm. Group 14: Elements of Group 14 were treated as tetracoor- dinate. Concerning the homonuclear E–E distances we in- clude, in addition to molecular data, solid diamond, Si, Ge, and grey tin. As noted by Pauling on p. 247 of reference [2], the E–E’ distance in SiC is anomalously short. He attributed it to an ionic contribution. Another reason could be the in- volvement of Si d orbitals. We omit SiC. More generally this anomalous shortness affects the bonds in the neighborhood (Si, P, S)–(O, F). Pitzer[33] evoked differences in core repul- sion between 2nd-row (2s2p) and 3rd-row (3s3p) elements, to explain it. Concerning the Group 14 halides, EX4, for E=Ge–Pb and X=I, the present radii give distances, close to the ex- perimental ones.[31] For the more ionic systems X=F–Br, the experimental R are below the sum of radii. Table 4. (Continued) Z1 Z2 Distance Species Reference Z1 Z2 Distance Species Reference Z1 Z2 Distance Species Reference"
+6,73,216.6,TaMe5 (av) [150]
+9,35,175.894,BrF
+14,42,255.7,H3 Si-MoH [161]
+6,73,219.8,TaMe5 [147]
+9,36,187.693,KrF2 [153]
+14,74,254.8,H3 Si-WH [161]
+6,74,206.1,"WH5Me [79] , p.398"
+9,53,190.9759,IF
+17,35,213.665,BrCl
+6,74,214.6,WMe6 exp. see [152]
+9,54,193.48,XeF4 [154]
+17,53,232.0878,ICI
+6,75,201.2,"ReH4Me [79] , p.398"
+9,54,195.0,"XeF4 [155] , RCI"
+17,54,230.6,XeCl+ in [XeCl][Sb7F11] [162]
+6,76,200.1,"OsH3Me [79] , p.398"
+9,54,197.436,XeF2 [153]
+17,116,273.6,(E116)Cl2 [139]
+6,77,200.4,"IrH2Me [79] , p.398"
+9,86,205.0,"RnF4 [155] , RCI"
+19,37,406.85,KRb [62]
+6,78,200.0,HPtCH3 [119]
+9,86,210.3,RnF2 [156]
+29,47,237.35,AgCu [163]
+6,78,200.4,"HPtMe [79] , p.398"
+9,86,213.5,"RnF2 [157] , CCSD(T)"
+29,79,233.03,AuCu [164]
+6,79,201.7,"AuMe [145] , MP2"
+9,118,221.7,"(E118)F2 [157] , CCSD(T)"
+34,50,257.9,av SnSe in CSD [165]
+6,79,204.8,"AuMe [79] , p.398"
+9,118,215.0,"(E118)F4 [155] , RCI(D4h)"
+35,53,246.8989,IBr
+6,80,208.3,"Hg(CH3)2 [67] , (ED)"
+9,118,214.0,"(E118)F4 [155] , RCI (Td)"
+35,116,288.4,(E116)Br2 [139]
+6,80,209.4,(RR)
+11,19,349.935,NaK [158]
+37,55,441.8,"RbCs [166,167]"
+6,81,220.6,"Tl(CH3)3 [67] , (ED)"
+11,37,364.35,NaRb [159]
+37,87,434.0,RbFr [26]
+6,82,223.8,"Pb(CH3)4 [67] , (ED)"
+11,55,385.063,NaCs [61]
+53,116,310.0,(E116)I2 [139]
+6,83,226.7,"Bi(CH3)3 [67] , (ED)"
+14,15,224.8,"P(SiH3)3 [65] , p.846"
+55,87,452.4,CsFr [26]
+8,30,177.01,Zn(OH)2 PW
+14,16,212.9,S(SiH3)2 [160]
+85,116,321.3,(E116)At2 [139]
+9,17,162.8313,ClF
+14,34,227.0,"Se(SiH3)2 [65] , p.705"
+116,117,342.0,(E116)(E117)2 [139]

@@ -1,0 +1,412 @@
+set_id,symbol,variant,kind,value_A,esd_A,source,table_ref,note
+density_hf_x2c,H,,v,1.5227,,"this work, HF/x2c, free atom, spherical average",rho=0.001 e/bohr3,original
+density_hf_x2c,H,,r,0.533,,"this work, HF/x2c, free atom, spherical average","most probable radius, outermost occupied orbital",original
+density_hf_x2c,H,,c,0.0,,"this work, HF/x2c, free atom, spherical average","most probable radius, outermost core orbital (c_orb)",original
+density_hf_x2c,H,,c_count,0.0,,"this work, HF/x2c, free atom, spherical average","sphere with chemical-core electrons (c_count, kind c in version 1.0)",original
+density_hf_x2c,He,,v,1.3285,,"this work, HF/x2c, free atom, spherical average",rho=0.001 e/bohr3,original
+density_hf_x2c,He,,r,0.3046,,"this work, HF/x2c, free atom, spherical average","most probable radius, outermost occupied orbital",original
+density_hf_x2c,He,,c,0.0,,"this work, HF/x2c, free atom, spherical average","most probable radius, outermost core orbital (c_orb)",original
+density_hf_x2c,He,,c_count,0.0,,"this work, HF/x2c, free atom, spherical average","sphere with chemical-core electrons (c_count, kind c in version 1.0)",original
+density_hf_x2c,Li,,v,2.2048,,"this work, HF/x2c, free atom, spherical average",rho=0.001 e/bohr3,original
+density_hf_x2c,Li,,r,1.6328,,"this work, HF/x2c, free atom, spherical average","most probable radius, outermost occupied orbital",original
+density_hf_x2c,Li,,c,0.1922,,"this work, HF/x2c, free atom, spherical average","most probable radius, outermost core orbital (c_orb)",original
+density_hf_x2c,Li,,c_count,0.8109,,"this work, HF/x2c, free atom, spherical average","sphere with chemical-core electrons (c_count, kind c in version 1.0)",original
+density_hf_x2c,Li,,c_elf,0.8077,,"this work, HF/x2c, free atom, spherical average",outermost ELF minimum inside r_outer (c_elf),original
+density_hf_x2c,Be,,v,2.205,,"this work, HF/x2c, free atom, spherical average",rho=0.001 e/bohr3,original
+density_hf_x2c,Be,,r,1.0935,,"this work, HF/x2c, free atom, spherical average","most probable radius, outermost occupied orbital",original
+density_hf_x2c,Be,,c,0.1411,,"this work, HF/x2c, free atom, spherical average","most probable radius, outermost core orbital (c_orb)",original
+density_hf_x2c,Be,,c_count,0.5214,,"this work, HF/x2c, free atom, spherical average","sphere with chemical-core electrons (c_count, kind c in version 1.0)",original
+density_hf_x2c,Be,,c_elf,0.5383,,"this work, HF/x2c, free atom, spherical average",outermost ELF minimum inside r_outer (c_elf),original
+density_hf_x2c,B,,v,2.0635,,"this work, HF/x2c, free atom, spherical average",rho=0.001 e/bohr3,original
+density_hf_x2c,B,,r,0.8376,,"this work, HF/x2c, free atom, spherical average","most probable radius, outermost occupied orbital",original
+density_hf_x2c,B,,c,0.1111,,"this work, HF/x2c, free atom, spherical average","most probable radius, outermost core orbital (c_orb)",original
+density_hf_x2c,B,,c_count,0.3713,,"this work, HF/x2c, free atom, spherical average","sphere with chemical-core electrons (c_count, kind c in version 1.0)",original
+density_hf_x2c,B,,c_elf,0.3945,,"this work, HF/x2c, free atom, spherical average",outermost ELF minimum inside r_outer (c_elf),original
+density_hf_x2c,C,,v,1.9076,,"this work, HF/x2c, free atom, spherical average",rho=0.001 e/bohr3,original
+density_hf_x2c,C,,r,0.6599,,"this work, HF/x2c, free atom, spherical average","most probable radius, outermost occupied orbital",original
+density_hf_x2c,C,,c,0.0917,,"this work, HF/x2c, free atom, spherical average","most probable radius, outermost core orbital (c_orb)",original
+density_hf_x2c,C,,c_count,0.2840,,"this work, HF/x2c, free atom, spherical average","sphere with chemical-core electrons (c_count, kind c in version 1.0)",original
+density_hf_x2c,C,,c_elf,0.3072,,"this work, HF/x2c, free atom, spherical average",outermost ELF minimum inside r_outer (c_elf),original
+density_hf_x2c,N,,v,1.7708,,"this work, HF/x2c, free atom, spherical average",rho=0.001 e/bohr3,original
+density_hf_x2c,N,,r,0.5541,,"this work, HF/x2c, free atom, spherical average","most probable radius, outermost occupied orbital",original
+density_hf_x2c,N,,c,0.0794,,"this work, HF/x2c, free atom, spherical average","most probable radius, outermost core orbital (c_orb)",original
+density_hf_x2c,N,,c_count,0.2283,,"this work, HF/x2c, free atom, spherical average","sphere with chemical-core electrons (c_count, kind c in version 1.0)",original
+density_hf_x2c,N,,c_elf,0.2490,,"this work, HF/x2c, free atom, spherical average",outermost ELF minimum inside r_outer (c_elf),original
+density_hf_x2c,O,,v,1.6898,,"this work, HF/x2c, free atom, spherical average",rho=0.001 e/bohr3,original
+density_hf_x2c,O,,r,0.4717,,"this work, HF/x2c, free atom, spherical average","most probable radius, outermost occupied orbital",original
+density_hf_x2c,O,,c,0.0688,,"this work, HF/x2c, free atom, spherical average","most probable radius, outermost core orbital (c_orb)",original
+density_hf_x2c,O,,c_count,0.1905,,"this work, HF/x2c, free atom, spherical average","sphere with chemical-core electrons (c_count, kind c in version 1.0)",original
+density_hf_x2c,O,,c_elf,0.2101,,"this work, HF/x2c, free atom, spherical average",outermost ELF minimum inside r_outer (c_elf),original
+density_hf_x2c,F,,v,1.6097,,"this work, HF/x2c, free atom, spherical average",rho=0.001 e/bohr3,original
+density_hf_x2c,F,,r,0.4103,,"this work, HF/x2c, free atom, spherical average","most probable radius, outermost occupied orbital",original
+density_hf_x2c,F,,c,0.0600,,"this work, HF/x2c, free atom, spherical average","most probable radius, outermost core orbital (c_orb)",original
+density_hf_x2c,F,,c_count,0.1627,,"this work, HF/x2c, free atom, spherical average","sphere with chemical-core electrons (c_count, kind c in version 1.0)",original
+density_hf_x2c,F,,c_elf,0.1806,,"this work, HF/x2c, free atom, spherical average",outermost ELF minimum inside r_outer (c_elf),original
+density_hf_x2c,Ne,,v,1.5343,,"this work, HF/x2c, free atom, spherical average",rho=0.001 e/bohr3,original
+density_hf_x2c,Ne,,r,0.3638,,"this work, HF/x2c, free atom, spherical average","most probable radius, outermost occupied orbital",original
+density_hf_x2c,Ne,,c,0.0547,,"this work, HF/x2c, free atom, spherical average","most probable radius, outermost core orbital (c_orb)",original
+density_hf_x2c,Ne,,c_count,0.1415,,"this work, HF/x2c, free atom, spherical average","sphere with chemical-core electrons (c_count, kind c in version 1.0)",original
+density_hf_x2c,Ne,,c_elf,0.1573,,"this work, HF/x2c, free atom, spherical average",outermost ELF minimum inside r_outer (c_elf),original
+density_hf_x2c,Na,,v,2.245,,"this work, HF/x2c, free atom, spherical average",rho=0.001 e/bohr3,original
+density_hf_x2c,Na,,r,1.8147,,"this work, HF/x2c, free atom, spherical average","most probable radius, outermost occupied orbital",original
+density_hf_x2c,Na,,c,0.3209,,"this work, HF/x2c, free atom, spherical average","most probable radius, outermost core orbital (c_orb)",original
+density_hf_x2c,Na,,c_count,1.1223,,"this work, HF/x2c, free atom, spherical average","sphere with chemical-core electrons (c_count, kind c in version 1.0)",original
+density_hf_x2c,Na,,c_elf,1.1135,,"this work, HF/x2c, free atom, spherical average",outermost ELF minimum inside r_outer (c_elf),original
+density_hf_x2c,Mg,,v,2.4299,,"this work, HF/x2c, free atom, spherical average",rho=0.001 e/bohr3,original
+density_hf_x2c,Mg,,r,1.379,,"this work, HF/x2c, free atom, spherical average","most probable radius, outermost occupied orbital",original
+density_hf_x2c,Mg,,c,0.2892,,"this work, HF/x2c, free atom, spherical average","most probable radius, outermost core orbital (c_orb)",original
+density_hf_x2c,Mg,,c_count,0.8605,,"this work, HF/x2c, free atom, spherical average","sphere with chemical-core electrons (c_count, kind c in version 1.0)",original
+density_hf_x2c,Mg,,c_elf,0.8785,,"this work, HF/x2c, free atom, spherical average",outermost ELF minimum inside r_outer (c_elf),original
+density_hf_x2c,Al,,v,2.424,,"this work, HF/x2c, free atom, spherical average",rho=0.001 e/bohr3,original
+density_hf_x2c,Al,,r,1.4255,,"this work, HF/x2c, free atom, spherical average","most probable radius, outermost occupied orbital",original
+density_hf_x2c,Al,,c,0.2610,,"this work, HF/x2c, free atom, spherical average","most probable radius, outermost core orbital (c_orb)",original
+density_hf_x2c,Al,,c_count,0.7147,,"this work, HF/x2c, free atom, spherical average","sphere with chemical-core electrons (c_count, kind c in version 1.0)",original
+density_hf_x2c,Al,,c_elf,0.7373,,"this work, HF/x2c, free atom, spherical average",outermost ELF minimum inside r_outer (c_elf),original
+density_hf_x2c,Si,,v,2.3466,,"this work, HF/x2c, free atom, spherical average",rho=0.001 e/bohr3,original
+density_hf_x2c,Si,,r,1.1612,,"this work, HF/x2c, free atom, spherical average","most probable radius, outermost occupied orbital",original
+density_hf_x2c,Si,,c,0.2398,,"this work, HF/x2c, free atom, spherical average","most probable radius, outermost core orbital (c_orb)",original
+density_hf_x2c,Si,,c_count,0.6109,,"this work, HF/x2c, free atom, spherical average","sphere with chemical-core electrons (c_count, kind c in version 1.0)",original
+density_hf_x2c,Si,,c_elf,0.6256,,"this work, HF/x2c, free atom, spherical average",outermost ELF minimum inside r_outer (c_elf),original
+density_hf_x2c,P,,v,2.2364,,"this work, HF/x2c, free atom, spherical average",rho=0.001 e/bohr3,original
+density_hf_x2c,P,,r,0.975,,"this work, HF/x2c, free atom, spherical average","most probable radius, outermost occupied orbital",original
+density_hf_x2c,P,,c,0.2204,,"this work, HF/x2c, free atom, spherical average","most probable radius, outermost core orbital (c_orb)",original
+density_hf_x2c,P,,c_count,0.5321,,"this work, HF/x2c, free atom, spherical average","sphere with chemical-core electrons (c_count, kind c in version 1.0)",original
+density_hf_x2c,P,,c_elf,0.5393,,"this work, HF/x2c, free atom, spherical average",outermost ELF minimum inside r_outer (c_elf),original
+density_hf_x2c,S,,v,2.1527,,"this work, HF/x2c, free atom, spherical average",rho=0.001 e/bohr3,original
+density_hf_x2c,S,,r,0.8545,,"this work, HF/x2c, free atom, spherical average","most probable radius, outermost occupied orbital",original
+density_hf_x2c,S,,c,0.2045,,"this work, HF/x2c, free atom, spherical average","most probable radius, outermost core orbital (c_orb)",original
+density_hf_x2c,S,,c_count,0.4708,,"this work, HF/x2c, free atom, spherical average","sphere with chemical-core electrons (c_count, kind c in version 1.0)",original
+density_hf_x2c,S,,c_elf,0.4792,,"this work, HF/x2c, free atom, spherical average",outermost ELF minimum inside r_outer (c_elf),original
+density_hf_x2c,Cl,,v,2.0647,,"this work, HF/x2c, free atom, spherical average",rho=0.001 e/bohr3,original
+density_hf_x2c,Cl,,r,0.7572,,"this work, HF/x2c, free atom, spherical average","most probable radius, outermost occupied orbital",original
+density_hf_x2c,Cl,,c,0.1904,,"this work, HF/x2c, free atom, spherical average","most probable radius, outermost core orbital (c_orb)",original
+density_hf_x2c,Cl,,c_count,0.4214,,"this work, HF/x2c, free atom, spherical average","sphere with chemical-core electrons (c_count, kind c in version 1.0)",original
+density_hf_x2c,Cl,,c_elf,0.4298,,"this work, HF/x2c, free atom, spherical average",outermost ELF minimum inside r_outer (c_elf),original
+density_hf_x2c,Ar,,v,1.9767,,"this work, HF/x2c, free atom, spherical average",rho=0.001 e/bohr3,original
+density_hf_x2c,Ar,,r,0.681,,"this work, HF/x2c, free atom, spherical average","most probable radius, outermost occupied orbital",original
+density_hf_x2c,Ar,,c,0.1781,,"this work, HF/x2c, free atom, spherical average","most probable radius, outermost core orbital (c_orb)",original
+density_hf_x2c,Ar,,c_count,0.3807,,"this work, HF/x2c, free atom, spherical average","sphere with chemical-core electrons (c_count, kind c in version 1.0)",original
+density_hf_x2c,Ar,,c_elf,0.3884,,"this work, HF/x2c, free atom, spherical average",outermost ELF minimum inside r_outer (c_elf),original
+density_hf_x2c,K,,v,2.2921,,"this work, HF/x2c, free atom, spherical average",rho=0.001 e/bohr3,original
+density_hf_x2c,K,,r,2.2715,,"this work, HF/x2c, free atom, spherical average","most probable radius, outermost occupied orbital",original
+density_hf_x2c,K,,c,0.6136,,"this work, HF/x2c, free atom, spherical average","most probable radius, outermost core orbital (c_orb)",original
+density_hf_x2c,K,,c_count,1.6189,,"this work, HF/x2c, free atom, spherical average","sphere with chemical-core electrons (c_count, kind c in version 1.0)",original
+density_hf_x2c,K,,c_elf,1.6222,,"this work, HF/x2c, free atom, spherical average",outermost ELF minimum inside r_outer (c_elf),original
+density_hf_x2c,Ca,,v,2.7225,,"this work, HF/x2c, free atom, spherical average",rho=0.001 e/bohr3,original
+density_hf_x2c,Ca,,r,1.8295,,"this work, HF/x2c, free atom, spherical average","most probable radius, outermost occupied orbital",original
+density_hf_x2c,Ca,,c,0.5572,,"this work, HF/x2c, free atom, spherical average","most probable radius, outermost core orbital (c_orb)",original
+density_hf_x2c,Ca,,c_count,1.2937,,"this work, HF/x2c, free atom, spherical average","sphere with chemical-core electrons (c_count, kind c in version 1.0)",original
+density_hf_x2c,Ca,,c_elf,1.3304,,"this work, HF/x2c, free atom, spherical average",outermost ELF minimum inside r_outer (c_elf),original
+density_hf_x2c,Sc,,v,2.6635,,"this work, HF/x2c, free atom, spherical average",rho=0.001 e/bohr3,original
+density_hf_x2c,Sc,,r,1.7195,,"this work, HF/x2c, free atom, spherical average","most probable radius, outermost occupied orbital",original
+density_hf_x2c,Sc,,c,0.5149,,"this work, HF/x2c, free atom, spherical average","most probable radius, outermost core orbital (c_orb)",original
+density_hf_x2c,Sc,,c_count,0.9526,,"this work, HF/x2c, free atom, spherical average","sphere with chemical-core electrons (c_count, kind c in version 1.0)",original
+density_hf_x2c,Sc,,c_elf,1.2426,,"this work, HF/x2c, free atom, spherical average",outermost ELF minimum inside r_outer (c_elf),original
+density_hf_x2c,Ti,,v,2.6066,,"this work, HF/x2c, free atom, spherical average",rho=0.001 e/bohr3,original
+density_hf_x2c,Ti,,r,1.6476,,"this work, HF/x2c, free atom, spherical average","most probable radius, outermost occupied orbital",original
+density_hf_x2c,Ti,,c,0.4796,,"this work, HF/x2c, free atom, spherical average","most probable radius, outermost core orbital (c_orb)",original
+density_hf_x2c,Ti,,c_count,0.7849,,"this work, HF/x2c, free atom, spherical average","sphere with chemical-core electrons (c_count, kind c in version 1.0)",original
+density_hf_x2c,Ti,,c_elf,1.1888,,"this work, HF/x2c, free atom, spherical average",outermost ELF minimum inside r_outer (c_elf),original
+density_hf_x2c,V,,v,2.5541,,"this work, HF/x2c, free atom, spherical average",rho=0.001 e/bohr3,original
+density_hf_x2c,V,,r,1.582,,"this work, HF/x2c, free atom, spherical average","most probable radius, outermost occupied orbital",original
+density_hf_x2c,V,,c,0.4497,,"this work, HF/x2c, free atom, spherical average","most probable radius, outermost core orbital (c_orb)",original
+density_hf_x2c,V,,c_count,0.6772,,"this work, HF/x2c, free atom, spherical average","sphere with chemical-core electrons (c_count, kind c in version 1.0)",original
+density_hf_x2c,V,,c_elf,1.1510,,"this work, HF/x2c, free atom, spherical average",outermost ELF minimum inside r_outer (c_elf),original
+density_hf_x2c,Cr,,v,2.3265,,"this work, HF/x2c, free atom, spherical average",rho=0.001 e/bohr3,original
+density_hf_x2c,Cr,,r,1.5207,,"this work, HF/x2c, free atom, spherical average","most probable radius, outermost occupied orbital",original
+density_hf_x2c,Cr,,c,0.4250,,"this work, HF/x2c, free atom, spherical average","most probable radius, outermost core orbital (c_orb)",original
+density_hf_x2c,Cr,,c_count,0.5925,,"this work, HF/x2c, free atom, spherical average","sphere with chemical-core electrons (c_count, kind c in version 1.0)",original
+density_hf_x2c,Cr,,c_elf,1.3353,,"this work, HF/x2c, free atom, spherical average",outermost ELF minimum inside r_outer (c_elf),original
+density_hf_x2c,Mn,,v,2.4648,,"this work, HF/x2c, free atom, spherical average",rho=0.001 e/bohr3,original
+density_hf_x2c,Mn,,r,1.4784,,"this work, HF/x2c, free atom, spherical average","most probable radius, outermost occupied orbital",original
+density_hf_x2c,Mn,,c,0.4003,,"this work, HF/x2c, free atom, spherical average","most probable radius, outermost core orbital (c_orb)",original
+density_hf_x2c,Mn,,c_count,0.5366,,"this work, HF/x2c, free atom, spherical average","sphere with chemical-core electrons (c_count, kind c in version 1.0)",original
+density_hf_x2c,Mn,,c_elf,1.1043,,"this work, HF/x2c, free atom, spherical average",outermost ELF minimum inside r_outer (c_elf),original
+density_hf_x2c,Fe,,v,2.4197,,"this work, HF/x2c, free atom, spherical average",rho=0.001 e/bohr3,fix:atomic_radii_fixes.csv
+density_hf_x2c,Fe,,r,1.3959,,"this work, HF/x2c, free atom, spherical average","most probable radius, outermost occupied orbital",fix:atomic_radii_fixes.csv
+density_hf_x2c,Fe,,c,0.3809,,"this work, HF/x2c, free atom, spherical average","most probable radius, outermost core orbital (c_orb)",fix:atomic_radii_fixes.csv
+density_hf_x2c,Fe,,c_count,0.4877,,"this work, HF/x2c, free atom, spherical average","sphere with chemical-core electrons (c_count, kind c in version 1.0)",fix:atomic_radii_fixes.csv
+density_hf_x2c,Fe,,c_elf,1.0741,,"this work, HF/x2c, free atom, spherical average",outermost ELF minimum inside r_outer (c_elf),fix:atomic_radii_fixes.csv
+density_hf_x2c,Co,,v,2.3794,,"this work, HF/x2c, free atom, spherical average",rho=0.001 e/bohr3,fix:atomic_radii_fixes.csv
+density_hf_x2c,Co,,r,1.3304,,"this work, HF/x2c, free atom, spherical average","most probable radius, outermost occupied orbital",fix:atomic_radii_fixes.csv
+density_hf_x2c,Co,,c,0.3615,,"this work, HF/x2c, free atom, spherical average","most probable radius, outermost core orbital (c_orb)",fix:atomic_radii_fixes.csv
+density_hf_x2c,Co,,c_count,0.4463,,"this work, HF/x2c, free atom, spherical average","sphere with chemical-core electrons (c_count, kind c in version 1.0)",fix:atomic_radii_fixes.csv
+density_hf_x2c,Co,,c_elf,1.0467,,"this work, HF/x2c, free atom, spherical average",outermost ELF minimum inside r_outer (c_elf),fix:atomic_radii_fixes.csv
+density_hf_x2c,Ni,,v,2.3419,,"this work, HF/x2c, free atom, spherical average",rho=0.001 e/bohr3,fix:atomic_radii_fixes.csv
+density_hf_x2c,Ni,,r,1.2732,,"this work, HF/x2c, free atom, spherical average","most probable radius, outermost occupied orbital",fix:atomic_radii_fixes.csv
+density_hf_x2c,Ni,,c,0.3439,,"this work, HF/x2c, free atom, spherical average","most probable radius, outermost core orbital (c_orb)",fix:atomic_radii_fixes.csv
+density_hf_x2c,Ni,,c_count,0.4112,,"this work, HF/x2c, free atom, spherical average","sphere with chemical-core electrons (c_count, kind c in version 1.0)",fix:atomic_radii_fixes.csv
+density_hf_x2c,Ni,,c_elf,1.0182,,"this work, HF/x2c, free atom, spherical average",outermost ELF minimum inside r_outer (c_elf),fix:atomic_radii_fixes.csv
+density_hf_x2c,Cu,,v,2.1704,,"this work, HF/x2c, free atom, spherical average",rho=0.001 e/bohr3,original
+density_hf_x2c,Cu,,r,1.3367,,"this work, HF/x2c, free atom, spherical average","most probable radius, outermost occupied orbital",original
+density_hf_x2c,Cu,,c,0.3297,,"this work, HF/x2c, free atom, spherical average","most probable radius, outermost core orbital (c_orb)",original
+density_hf_x2c,Cu,,c_count,0.3801,,"this work, HF/x2c, free atom, spherical average","sphere with chemical-core electrons (c_count, kind c in version 1.0)",original
+density_hf_x2c,Cu,,c_elf,1.1405,,"this work, HF/x2c, free atom, spherical average",outermost ELF minimum inside r_outer (c_elf),original
+density_hf_x2c,Zn,,v,2.2754,,"this work, HF/x2c, free atom, spherical average",rho=0.001 e/bohr3,original
+density_hf_x2c,Zn,,r,1.176,,"this work, HF/x2c, free atom, spherical average","most probable radius, outermost occupied orbital",original
+density_hf_x2c,Zn,,c,0.3156,,"this work, HF/x2c, free atom, spherical average","most probable radius, outermost core orbital (c_orb)",original
+density_hf_x2c,Zn,,c_count,0.3542,,"this work, HF/x2c, free atom, spherical average","sphere with chemical-core electrons (c_count, kind c in version 1.0)",original
+density_hf_x2c,Zn,,c_elf,0.9634,,"this work, HF/x2c, free atom, spherical average",outermost ELF minimum inside r_outer (c_elf),original
+density_hf_x2c,Ga,,v,2.3885,,"this work, HF/x2c, free atom, spherical average",rho=0.001 e/bohr3,original
+density_hf_x2c,Ga,,r,1.36,,"this work, HF/x2c, free atom, spherical average","most probable radius, outermost occupied orbital",original
+density_hf_x2c,Ga,,c,0.3015,,"this work, HF/x2c, free atom, spherical average","most probable radius, outermost core orbital (c_orb)",original
+density_hf_x2c,Ga,,c_count,0.8752,,"this work, HF/x2c, free atom, spherical average","sphere with chemical-core electrons (c_count, kind c in version 1.0)",original
+density_hf_x2c,Ga,,c_elf,0.8506,,"this work, HF/x2c, free atom, spherical average",outermost ELF minimum inside r_outer (c_elf),original
+density_hf_x2c,Ge,,v,2.3813,,"this work, HF/x2c, free atom, spherical average",rho=0.001 e/bohr3,original
+density_hf_x2c,Ge,,r,1.1971,,"this work, HF/x2c, free atom, spherical average","most probable radius, outermost occupied orbital",original
+density_hf_x2c,Ge,,c,0.2892,,"this work, HF/x2c, free atom, spherical average","most probable radius, outermost core orbital (c_orb)",original
+density_hf_x2c,Ge,,c_count,0.7763,,"this work, HF/x2c, free atom, spherical average","sphere with chemical-core electrons (c_count, kind c in version 1.0)",original
+density_hf_x2c,Ge,,c_elf,0.7565,,"this work, HF/x2c, free atom, spherical average",outermost ELF minimum inside r_outer (c_elf),original
+density_hf_x2c,As,,v,2.322,,"this work, HF/x2c, free atom, spherical average",rho=0.001 e/bohr3,original
+density_hf_x2c,As,,r,1.0808,,"this work, HF/x2c, free atom, spherical average","most probable radius, outermost occupied orbital",original
+density_hf_x2c,As,,c,0.2768,,"this work, HF/x2c, free atom, spherical average","most probable radius, outermost core orbital (c_orb)",original
+density_hf_x2c,As,,c_count,0.7001,,"this work, HF/x2c, free atom, spherical average","sphere with chemical-core electrons (c_count, kind c in version 1.0)",original
+density_hf_x2c,As,,c_elf,0.6817,,"this work, HF/x2c, free atom, spherical average",outermost ELF minimum inside r_outer (c_elf),original
+density_hf_x2c,Se,,v,2.2591,,"this work, HF/x2c, free atom, spherical average",rho=0.001 e/bohr3,original
+density_hf_x2c,Se,,r,0.9708,,"this work, HF/x2c, free atom, spherical average","most probable radius, outermost occupied orbital",original
+density_hf_x2c,Se,,c,0.2663,,"this work, HF/x2c, free atom, spherical average","most probable radius, outermost core orbital (c_orb)",original
+density_hf_x2c,Se,,c_count,0.6389,,"this work, HF/x2c, free atom, spherical average","sphere with chemical-core electrons (c_count, kind c in version 1.0)",original
+density_hf_x2c,Se,,c_elf,0.6251,,"this work, HF/x2c, free atom, spherical average",outermost ELF minimum inside r_outer (c_elf),original
+density_hf_x2c,Br,,v,2.1943,,"this work, HF/x2c, free atom, spherical average",rho=0.001 e/bohr3,original
+density_hf_x2c,Br,,r,0.8904,,"this work, HF/x2c, free atom, spherical average","most probable radius, outermost occupied orbital",original
+density_hf_x2c,Br,,c,0.2557,,"this work, HF/x2c, free atom, spherical average","most probable radius, outermost core orbital (c_orb)",original
+density_hf_x2c,Br,,c_count,0.5890,,"this work, HF/x2c, free atom, spherical average","sphere with chemical-core electrons (c_count, kind c in version 1.0)",original
+density_hf_x2c,Br,,c_elf,0.5774,,"this work, HF/x2c, free atom, spherical average",outermost ELF minimum inside r_outer (c_elf),original
+density_hf_x2c,Kr,,v,2.1247,,"this work, HF/x2c, free atom, spherical average",rho=0.001 e/bohr3,original
+density_hf_x2c,Kr,,r,0.8249,,"this work, HF/x2c, free atom, spherical average","most probable radius, outermost occupied orbital",original
+density_hf_x2c,Kr,,c,0.2469,,"this work, HF/x2c, free atom, spherical average","most probable radius, outermost core orbital (c_orb)",original
+density_hf_x2c,Kr,,c_count,0.5467,,"this work, HF/x2c, free atom, spherical average","sphere with chemical-core electrons (c_count, kind c in version 1.0)",original
+density_hf_x2c,Kr,,c_elf,0.5368,,"this work, HF/x2c, free atom, spherical average",outermost ELF minimum inside r_outer (c_elf),original
+density_hf_x2c,Rb,,v,2.3171,,"this work, HF/x2c, free atom, spherical average",rho=0.001 e/bohr3,original
+density_hf_x2c,Rb,,r,2.4069,,"this work, HF/x2c, free atom, spherical average","most probable radius, outermost occupied orbital",original
+density_hf_x2c,Rb,,c,0.7582,,"this work, HF/x2c, free atom, spherical average","most probable radius, outermost core orbital (c_orb)",original
+density_hf_x2c,Rb,,c_count,1.8019,,"this work, HF/x2c, free atom, spherical average","sphere with chemical-core electrons (c_count, kind c in version 1.0)",original
+density_hf_x2c,Rb,,c_elf,1.8854,,"this work, HF/x2c, free atom, spherical average",outermost ELF minimum inside r_outer (c_elf),original
+density_hf_x2c,Sr,,v,2.8175,,"this work, HF/x2c, free atom, spherical average",rho=0.001 e/bohr3,original
+density_hf_x2c,Sr,,r,1.9924,,"this work, HF/x2c, free atom, spherical average","most probable radius, outermost occupied orbital",original
+density_hf_x2c,Sr,,c,0.7036,,"this work, HF/x2c, free atom, spherical average","most probable radius, outermost core orbital (c_orb)",original
+density_hf_x2c,Sr,,c_count,1.4872,,"this work, HF/x2c, free atom, spherical average","sphere with chemical-core electrons (c_count, kind c in version 1.0)",original
+density_hf_x2c,Sr,,c_elf,1.5736,,"this work, HF/x2c, free atom, spherical average",outermost ELF minimum inside r_outer (c_elf),original
+density_hf_x2c,Y,,v,2.7835,,"this work, HF/x2c, free atom, spherical average",rho=0.001 e/bohr3,original
+density_hf_x2c,Y,,r,1.8337,,"this work, HF/x2c, free atom, spherical average","most probable radius, outermost occupied orbital",original
+density_hf_x2c,Y,,c,0.6630,,"this work, HF/x2c, free atom, spherical average","most probable radius, outermost core orbital (c_orb)",original
+density_hf_x2c,Y,,c_count,1.1797,,"this work, HF/x2c, free atom, spherical average","sphere with chemical-core electrons (c_count, kind c in version 1.0)",original
+density_hf_x2c,Y,,c_elf,1.4549,,"this work, HF/x2c, free atom, spherical average",outermost ELF minimum inside r_outer (c_elf),original
+density_hf_x2c,Zr,,v,2.7293,,"this work, HF/x2c, free atom, spherical average",rho=0.001 e/bohr3,original
+density_hf_x2c,Zr,,r,1.7787,,"this work, HF/x2c, free atom, spherical average","most probable radius, outermost occupied orbital",original
+density_hf_x2c,Zr,,c,0.6277,,"this work, HF/x2c, free atom, spherical average","most probable radius, outermost core orbital (c_orb)",original
+density_hf_x2c,Zr,,c_count,1.0025,,"this work, HF/x2c, free atom, spherical average","sphere with chemical-core electrons (c_count, kind c in version 1.0)",original
+density_hf_x2c,Zr,,c_elf,1.3791,,"this work, HF/x2c, free atom, spherical average",outermost ELF minimum inside r_outer (c_elf),original
+density_hf_x2c,Nb,,v,2.5216,,"this work, HF/x2c, free atom, spherical average",rho=0.001 e/bohr3,original
+density_hf_x2c,Nb,,r,1.6561,,"this work, HF/x2c, free atom, spherical average","most probable radius, outermost occupied orbital",original
+density_hf_x2c,Nb,,c,0.5995,,"this work, HF/x2c, free atom, spherical average","most probable radius, outermost core orbital (c_orb)",original
+density_hf_x2c,Nb,,c_count,0.8717,,"this work, HF/x2c, free atom, spherical average","sphere with chemical-core electrons (c_count, kind c in version 1.0)",original
+density_hf_x2c,Nb,,c_elf,1.4902,,"this work, HF/x2c, free atom, spherical average",outermost ELF minimum inside r_outer (c_elf),original
+density_hf_x2c,Mo,,v,2.4542,,"this work, HF/x2c, free atom, spherical average",rho=0.001 e/bohr3,original
+density_hf_x2c,Mo,,r,1.5842,,"this work, HF/x2c, free atom, spherical average","most probable radius, outermost occupied orbital",original
+density_hf_x2c,Mo,,c,0.5731,,"this work, HF/x2c, free atom, spherical average","most probable radius, outermost core orbital (c_orb)",original
+density_hf_x2c,Mo,,c_count,0.7889,,"this work, HF/x2c, free atom, spherical average","sphere with chemical-core electrons (c_count, kind c in version 1.0)",original
+density_hf_x2c,Tc,,v,2.5741,,"this work, HF/x2c, free atom, spherical average",rho=0.001 e/bohr3,fix:atomic_radii_fixes.csv
+density_hf_x2c,Tc,,r,1.6201,,"this work, HF/x2c, free atom, spherical average","most probable radius, outermost occupied orbital",fix:atomic_radii_fixes.csv
+density_hf_x2c,Tc,,c,0.5449,,"this work, HF/x2c, free atom, spherical average","most probable radius, outermost core orbital (c_orb)",fix:atomic_radii_fixes.csv
+density_hf_x2c,Tc,,c_count,0.7278,,"this work, HF/x2c, free atom, spherical average","sphere with chemical-core electrons (c_count, kind c in version 1.0)",fix:atomic_radii_fixes.csv
+density_hf_x2c,Tc,,c_elf,1.3267,,"this work, HF/x2c, free atom, spherical average",outermost ELF minimum inside r_outer (c_elf),fix:atomic_radii_fixes.csv
+density_hf_x2c,Ru,,v,2.3775,,"this work, HF/x2c, free atom, spherical average",rho=0.001 e/bohr3,original
+density_hf_x2c,Ru,,r,1.4996,,"this work, HF/x2c, free atom, spherical average","most probable radius, outermost occupied orbital",original
+density_hf_x2c,Ru,,c,0.5237,,"this work, HF/x2c, free atom, spherical average","most probable radius, outermost core orbital (c_orb)",original
+density_hf_x2c,Ru,,c_count,0.6689,,"this work, HF/x2c, free atom, spherical average","sphere with chemical-core electrons (c_count, kind c in version 1.0)",original
+density_hf_x2c,Rh,,v,2.3415,,"this work, HF/x2c, free atom, spherical average",rho=0.001 e/bohr3,original
+density_hf_x2c,Rh,,r,1.4699,,"this work, HF/x2c, free atom, spherical average","most probable radius, outermost occupied orbital",original
+density_hf_x2c,Rh,,c,0.5026,,"this work, HF/x2c, free atom, spherical average","most probable radius, outermost core orbital (c_orb)",original
+density_hf_x2c,Rh,,c_count,0.6226,,"this work, HF/x2c, free atom, spherical average","sphere with chemical-core electrons (c_count, kind c in version 1.0)",original
+density_hf_x2c,Pd,,v,2.1087,,"this work, HF/x2c, free atom, spherical average",rho=0.001 e/bohr3,original
+density_hf_x2c,Pd,,r,0.5838,,"this work, HF/x2c, free atom, spherical average","most probable radius, outermost occupied orbital",original
+density_hf_x2c,Pd,,c,0.4832,,"this work, HF/x2c, free atom, spherical average","most probable radius, outermost core orbital (c_orb)",original
+density_hf_x2c,Pd,,c_count,0.5819,,"this work, HF/x2c, free atom, spherical average","sphere with chemical-core electrons (c_count, kind c in version 1.0)",original
+density_hf_x2c,Pd,,c_elf,0.3259,,"this work, HF/x2c, free atom, spherical average",outermost ELF minimum inside r_outer (c_elf),original
+density_hf_x2c,Ag,,v,2.2803,,"this work, HF/x2c, free atom, spherical average",rho=0.001 e/bohr3,original
+density_hf_x2c,Ag,,r,1.4213,,"this work, HF/x2c, free atom, spherical average","most probable radius, outermost occupied orbital",original
+density_hf_x2c,Ag,,c,0.4655,,"this work, HF/x2c, free atom, spherical average","most probable radius, outermost core orbital (c_orb)",original
+density_hf_x2c,Ag,,c_count,0.5477,,"this work, HF/x2c, free atom, spherical average","sphere with chemical-core electrons (c_count, kind c in version 1.0)",original
+density_hf_x2c,Cd,,v,2.3844,,"this work, HF/x2c, free atom, spherical average",rho=0.001 e/bohr3,original
+density_hf_x2c,Cd,,r,1.2986,,"this work, HF/x2c, free atom, spherical average","most probable radius, outermost occupied orbital",original
+density_hf_x2c,Cd,,c,0.4497,,"this work, HF/x2c, free atom, spherical average","most probable radius, outermost core orbital (c_orb)",original
+density_hf_x2c,Cd,,c_count,0.5182,,"this work, HF/x2c, free atom, spherical average","sphere with chemical-core electrons (c_count, kind c in version 1.0)",original
+density_hf_x2c,Cd,,c_elf,1.2210,,"this work, HF/x2c, free atom, spherical average",outermost ELF minimum inside r_outer (c_elf),original
+density_hf_x2c,In,,v,2.497,,"this work, HF/x2c, free atom, spherical average",rho=0.001 e/bohr3,original
+density_hf_x2c,In,,r,1.544,,"this work, HF/x2c, free atom, spherical average","most probable radius, outermost occupied orbital",original
+density_hf_x2c,In,,c,0.4955,,"this work, HF/x2c, free atom, spherical average","most probable radius, outermost core orbital (c_orb)",original
+density_hf_x2c,In,,c_count,1.0831,,"this work, HF/x2c, free atom, spherical average","sphere with chemical-core electrons (c_count, kind c in version 1.0)",original
+density_hf_x2c,In,,c_elf,1.0761,,"this work, HF/x2c, free atom, spherical average",outermost ELF minimum inside r_outer (c_elf),original
+density_hf_x2c,Sn,,v,2.5323,,"this work, HF/x2c, free atom, spherical average",rho=0.001 e/bohr3,original
+density_hf_x2c,Sn,,r,1.3663,,"this work, HF/x2c, free atom, spherical average","most probable radius, outermost occupied orbital",original
+density_hf_x2c,Sn,,c,0.4726,,"this work, HF/x2c, free atom, spherical average","most probable radius, outermost core orbital (c_orb)",original
+density_hf_x2c,Sn,,c_count,0.9801,,"this work, HF/x2c, free atom, spherical average","sphere with chemical-core electrons (c_count, kind c in version 1.0)",original
+density_hf_x2c,Sn,,c_elf,0.9651,,"this work, HF/x2c, free atom, spherical average",outermost ELF minimum inside r_outer (c_elf),original
+density_hf_x2c,Sb,,v,2.4948,,"this work, HF/x2c, free atom, spherical average",rho=0.001 e/bohr3,original
+density_hf_x2c,Sb,,r,1.2436,,"this work, HF/x2c, free atom, spherical average","most probable radius, outermost occupied orbital",original
+density_hf_x2c,Sb,,c,0.4514,,"this work, HF/x2c, free atom, spherical average","most probable radius, outermost core orbital (c_orb)",original
+density_hf_x2c,Sb,,c_count,0.8991,,"this work, HF/x2c, free atom, spherical average","sphere with chemical-core electrons (c_count, kind c in version 1.0)",original
+density_hf_x2c,Sb,,c_elf,0.8704,,"this work, HF/x2c, free atom, spherical average",outermost ELF minimum inside r_outer (c_elf),original
+density_hf_x2c,Te,,v,2.4613,,"this work, HF/x2c, free atom, spherical average",rho=0.001 e/bohr3,original
+density_hf_x2c,Te,,r,1.1696,,"this work, HF/x2c, free atom, spherical average","most probable radius, outermost occupied orbital",original
+density_hf_x2c,Te,,c,0.4320,,"this work, HF/x2c, free atom, spherical average","most probable radius, outermost core orbital (c_orb)",original
+density_hf_x2c,Te,,c_count,0.8340,,"this work, HF/x2c, free atom, spherical average","sphere with chemical-core electrons (c_count, kind c in version 1.0)",original
+density_hf_x2c,Te,,c_elf,0.8130,,"this work, HF/x2c, free atom, spherical average",outermost ELF minimum inside r_outer (c_elf),original
+density_hf_x2c,I,,v,2.4137,,"this work, HF/x2c, free atom, spherical average",rho=0.001 e/bohr3,original
+density_hf_x2c,I,,r,1.0829,,"this work, HF/x2c, free atom, spherical average","most probable radius, outermost occupied orbital",original
+density_hf_x2c,I,,c,0.4126,,"this work, HF/x2c, free atom, spherical average","most probable radius, outermost core orbital (c_orb)",original
+density_hf_x2c,I,,c_count,0.7784,,"this work, HF/x2c, free atom, spherical average","sphere with chemical-core electrons (c_count, kind c in version 1.0)",original
+density_hf_x2c,I,,c_elf,0.7614,,"this work, HF/x2c, free atom, spherical average",outermost ELF minimum inside r_outer (c_elf),original
+density_hf_x2c,Xe,,v,2.3668,,"this work, HF/x2c, free atom, spherical average",rho=0.001 e/bohr3,original
+density_hf_x2c,Xe,,r,1.0216,,"this work, HF/x2c, free atom, spherical average","most probable radius, outermost occupied orbital",original
+density_hf_x2c,Xe,,c,0.3968,,"this work, HF/x2c, free atom, spherical average","most probable radius, outermost core orbital (c_orb)",original
+density_hf_x2c,Xe,,c_count,0.7307,,"this work, HF/x2c, free atom, spherical average","sphere with chemical-core electrons (c_count, kind c in version 1.0)",original
+density_hf_x2c,Xe,,c_elf,0.7132,,"this work, HF/x2c, free atom, spherical average",outermost ELF minimum inside r_outer (c_elf),original
+density_hf_x2c,Cs,,v,2.455,,"this work, HF/x2c, free atom, spherical average",rho=0.001 e/bohr3,original
+density_hf_x2c,Cs,,r,2.6755,,"this work, HF/x2c, free atom, spherical average","most probable radius, outermost occupied orbital",original
+density_hf_x2c,Cs,,c,0.9451,,"this work, HF/x2c, free atom, spherical average","most probable radius, outermost core orbital (c_orb)",original
+density_hf_x2c,Cs,,c_count,2.0806,,"this work, HF/x2c, free atom, spherical average","sphere with chemical-core electrons (c_count, kind c in version 1.0)",original
+density_hf_x2c,Cs,,c_elf,2.0848,,"this work, HF/x2c, free atom, spherical average",outermost ELF minimum inside r_outer (c_elf),original
+density_hf_x2c,Ba,,v,2.9334,,"this work, HF/x2c, free atom, spherical average",rho=0.001 e/bohr3,original
+density_hf_x2c,Ba,,r,2.2504,,"this work, HF/x2c, free atom, spherical average","most probable radius, outermost occupied orbital",original
+density_hf_x2c,Ba,,c,0.8852,,"this work, HF/x2c, free atom, spherical average","most probable radius, outermost core orbital (c_orb)",original
+density_hf_x2c,Ba,,c_count,1.7318,,"this work, HF/x2c, free atom, spherical average","sphere with chemical-core electrons (c_count, kind c in version 1.0)",original
+density_hf_x2c,Ba,,c_elf,1.7905,,"this work, HF/x2c, free atom, spherical average",outermost ELF minimum inside r_outer (c_elf),original
+density_hf_x2c,La,,v,2.8867,,"this work, HF/x2c, free atom, spherical average",rho=0.001 e/bohr3,s/d hybridised (symmetry broken); original
+density_hf_x2c,La,,r,2.0537,,"this work, HF/x2c, free atom, spherical average","most probable radius, outermost occupied orbital",s/d hybridised (symmetry broken); original
+density_hf_x2c,La,,c,0.8446,,"this work, HF/x2c, free atom, spherical average","most probable radius, outermost core orbital (c_orb)",s/d hybridised (symmetry broken); original
+density_hf_x2c,La,,c_count,1.3860,,"this work, HF/x2c, free atom, spherical average","sphere with chemical-core electrons (c_count, kind c in version 1.0)",s/d hybridised (symmetry broken); original
+density_hf_x2c,La,,c_elf,1.7368,,"this work, HF/x2c, free atom, spherical average",outermost ELF minimum inside r_outer (c_elf),s/d hybridised (symmetry broken); original
+density_hf_x2c,Ce,,v,2.8683,,"this work, HF/x2c, free atom, spherical average",rho=0.001 e/bohr3,s/d hybridised (symmetry broken); fix:fblock_fixes.csv
+density_hf_x2c,Ce,,r,2.0135,,"this work, HF/x2c, free atom, spherical average","most probable radius, outermost occupied orbital",s/d hybridised (symmetry broken); fix:fblock_fixes.csv
+density_hf_x2c,Ce,,c,0.8235,,"this work, HF/x2c, free atom, spherical average","most probable radius, outermost core orbital (c_orb)",s/d hybridised (symmetry broken); fix:fblock_fixes.csv
+density_hf_x2c,Ce,,c_count,1.1760,,"this work, HF/x2c, free atom, spherical average","sphere with chemical-core electrons (c_count, kind c in version 1.0)",s/d hybridised (symmetry broken); fix:fblock_fixes.csv
+density_hf_x2c,Ce,,c_elf,1.6956,,"this work, HF/x2c, free atom, spherical average",outermost ELF minimum inside r_outer (c_elf),s/d hybridised (symmetry broken); fix:fblock_fixes.csv
+density_hf_x2c,Pm,,v,2.841,,"this work, HF/x2c, free atom, spherical average",rho=0.001 e/bohr3,original
+density_hf_x2c,Pm,,r,2.0685,,"this work, HF/x2c, free atom, spherical average","most probable radius, outermost occupied orbital",original
+density_hf_x2c,Pm,,c,0.7882,,"this work, HF/x2c, free atom, spherical average","most probable radius, outermost core orbital (c_orb)",original
+density_hf_x2c,Pm,,c_count,0.8110,,"this work, HF/x2c, free atom, spherical average","sphere with chemical-core electrons (c_count, kind c in version 1.0)",original
+density_hf_x2c,Pm,,c_elf,1.6403,,"this work, HF/x2c, free atom, spherical average",outermost ELF minimum inside r_outer (c_elf),original
+density_hf_x2c,Sm,,v,2.8285,,"this work, HF/x2c, free atom, spherical average",rho=0.001 e/bohr3,original
+density_hf_x2c,Sm,,r,2.0431,,"this work, HF/x2c, free atom, spherical average","most probable radius, outermost occupied orbital",original
+density_hf_x2c,Sm,,c,0.7706,,"this work, HF/x2c, free atom, spherical average","most probable radius, outermost core orbital (c_orb)",original
+density_hf_x2c,Sm,,c_count,0.7398,,"this work, HF/x2c, free atom, spherical average","sphere with chemical-core electrons (c_count, kind c in version 1.0)",original
+density_hf_x2c,Sm,,c_elf,1.6132,,"this work, HF/x2c, free atom, spherical average",outermost ELF minimum inside r_outer (c_elf),original
+density_hf_x2c,Eu,,v,2.8149,,"this work, HF/x2c, free atom, spherical average",rho=0.001 e/bohr3,fix:fblock_fixes2.csv
+density_hf_x2c,Eu,,r,2.0156,,"this work, HF/x2c, free atom, spherical average","most probable radius, outermost occupied orbital",fix:fblock_fixes2.csv
+density_hf_x2c,Eu,,c,0.7565,,"this work, HF/x2c, free atom, spherical average","most probable radius, outermost core orbital (c_orb)",fix:fblock_fixes2.csv
+density_hf_x2c,Eu,,c_count,0.6781,,"this work, HF/x2c, free atom, spherical average","sphere with chemical-core electrons (c_count, kind c in version 1.0)",fix:fblock_fixes2.csv
+density_hf_x2c,Eu,,c_elf,1.5881,,"this work, HF/x2c, free atom, spherical average",outermost ELF minimum inside r_outer (c_elf),fix:fblock_fixes2.csv
+density_hf_x2c,Gd,,v,2.8042,,"this work, HF/x2c, free atom, spherical average",rho=0.001 e/bohr3,fix:fblock_fixes2.csv
+density_hf_x2c,Gd,,r,1.9099,,"this work, HF/x2c, free atom, spherical average","most probable radius, outermost occupied orbital",fix:fblock_fixes2.csv
+density_hf_x2c,Gd,,c,0.7300,,"this work, HF/x2c, free atom, spherical average","most probable radius, outermost core orbital (c_orb)",fix:fblock_fixes2.csv
+density_hf_x2c,Gd,,c_count,0.6411,,"this work, HF/x2c, free atom, spherical average","sphere with chemical-core electrons (c_count, kind c in version 1.0)",fix:fblock_fixes2.csv
+density_hf_x2c,Gd,,c_elf,1.4985,,"this work, HF/x2c, free atom, spherical average",outermost ELF minimum inside r_outer (c_elf),fix:fblock_fixes2.csv
+density_hf_x2c,Tb,,v,2.789,,"this work, HF/x2c, free atom, spherical average",rho=0.001 e/bohr3,fix:fblock_fixes2.csv
+density_hf_x2c,Tb,,r,1.9501,,"this work, HF/x2c, free atom, spherical average","most probable radius, outermost occupied orbital",fix:fblock_fixes2.csv
+density_hf_x2c,Tb,,c,0.7247,,"this work, HF/x2c, free atom, spherical average","most probable radius, outermost core orbital (c_orb)",fix:fblock_fixes2.csv
+density_hf_x2c,Tb,,c_count,0.5803,,"this work, HF/x2c, free atom, spherical average","sphere with chemical-core electrons (c_count, kind c in version 1.0)",fix:fblock_fixes2.csv
+density_hf_x2c,Tb,,c_elf,1.5391,,"this work, HF/x2c, free atom, spherical average",outermost ELF minimum inside r_outer (c_elf),fix:fblock_fixes2.csv
+density_hf_x2c,Dy,,v,2.7796,,"this work, HF/x2c, free atom, spherical average",rho=0.001 e/bohr3,fix:fblock_fixes2.csv
+density_hf_x2c,Dy,,r,1.9204,,"this work, HF/x2c, free atom, spherical average","most probable radius, outermost occupied orbital",fix:fblock_fixes2.csv
+density_hf_x2c,Dy,,c,0.7106,,"this work, HF/x2c, free atom, spherical average","most probable radius, outermost core orbital (c_orb)",fix:fblock_fixes2.csv
+density_hf_x2c,Dy,,c_count,0.5400,,"this work, HF/x2c, free atom, spherical average","sphere with chemical-core electrons (c_count, kind c in version 1.0)",fix:fblock_fixes2.csv
+density_hf_x2c,Dy,,c_elf,1.5222,,"this work, HF/x2c, free atom, spherical average",outermost ELF minimum inside r_outer (c_elf),fix:fblock_fixes2.csv
+density_hf_x2c,Ho,,v,2.7679,,"this work, HF/x2c, free atom, spherical average",rho=0.001 e/bohr3,fix:fblock_fixes2.csv
+density_hf_x2c,Ho,,r,1.8993,,"this work, HF/x2c, free atom, spherical average","most probable radius, outermost occupied orbital",fix:fblock_fixes2.csv
+density_hf_x2c,Ho,,c,0.6965,,"this work, HF/x2c, free atom, spherical average","most probable radius, outermost core orbital (c_orb)",fix:fblock_fixes2.csv
+density_hf_x2c,Ho,,c_count,0.5050,,"this work, HF/x2c, free atom, spherical average","sphere with chemical-core electrons (c_count, kind c in version 1.0)",fix:fblock_fixes2.csv
+density_hf_x2c,Ho,,c_elf,1.5096,,"this work, HF/x2c, free atom, spherical average",outermost ELF minimum inside r_outer (c_elf),fix:fblock_fixes2.csv
+density_hf_x2c,Er,,v,2.755,,"this work, HF/x2c, free atom, spherical average",rho=0.001 e/bohr3,fix:fblock_fixes2.csv
+density_hf_x2c,Er,,r,1.8655,,"this work, HF/x2c, free atom, spherical average","most probable radius, outermost occupied orbital",fix:fblock_fixes2.csv
+density_hf_x2c,Er,,c,0.6824,,"this work, HF/x2c, free atom, spherical average","most probable radius, outermost core orbital (c_orb)",fix:fblock_fixes2.csv
+density_hf_x2c,Er,,c_count,0.4746,,"this work, HF/x2c, free atom, spherical average","sphere with chemical-core electrons (c_count, kind c in version 1.0)",fix:fblock_fixes2.csv
+density_hf_x2c,Er,,c_elf,1.4875,,"this work, HF/x2c, free atom, spherical average",outermost ELF minimum inside r_outer (c_elf),fix:fblock_fixes2.csv
+density_hf_x2c,Tm,,v,2.7449,,"this work, HF/x2c, free atom, spherical average",rho=0.001 e/bohr3,fix:fblock_fixes2.csv
+density_hf_x2c,Tm,,r,1.838,,"this work, HF/x2c, free atom, spherical average","most probable radius, outermost occupied orbital",fix:fblock_fixes2.csv
+density_hf_x2c,Tm,,c,0.6718,,"this work, HF/x2c, free atom, spherical average","most probable radius, outermost core orbital (c_orb)",fix:fblock_fixes2.csv
+density_hf_x2c,Tm,,c_count,0.4478,,"this work, HF/x2c, free atom, spherical average","sphere with chemical-core electrons (c_count, kind c in version 1.0)",fix:fblock_fixes2.csv
+density_hf_x2c,Tm,,c_elf,1.4711,,"this work, HF/x2c, free atom, spherical average",outermost ELF minimum inside r_outer (c_elf),fix:fblock_fixes2.csv
+density_hf_x2c,Yb,,v,2.7327,,"this work, HF/x2c, free atom, spherical average",rho=0.001 e/bohr3,fix:fblock_fixes2.csv
+density_hf_x2c,Yb,,r,1.8126,,"this work, HF/x2c, free atom, spherical average","most probable radius, outermost occupied orbital",fix:fblock_fixes2.csv
+density_hf_x2c,Yb,,c,0.6577,,"this work, HF/x2c, free atom, spherical average","most probable radius, outermost core orbital (c_orb)",fix:fblock_fixes2.csv
+density_hf_x2c,Yb,,c_count,1.3992,,"this work, HF/x2c, free atom, spherical average","sphere with chemical-core electrons (c_count, kind c in version 1.0)",fix:fblock_fixes2.csv
+density_hf_x2c,Yb,,c_elf,1.4402,,"this work, HF/x2c, free atom, spherical average",outermost ELF minimum inside r_outer (c_elf),fix:fblock_fixes2.csv
+density_hf_x2c,Lu,,v,2.7343,,"this work, HF/x2c, free atom, spherical average",rho=0.001 e/bohr3,original
+density_hf_x2c,Lu,,r,1.7068,,"this work, HF/x2c, free atom, spherical average","most probable radius, outermost occupied orbital",original
+density_hf_x2c,Lu,,c,0.6383,,"this work, HF/x2c, free atom, spherical average","most probable radius, outermost core orbital (c_orb)",original
+density_hf_x2c,Lu,,c_count,1.1634,,"this work, HF/x2c, free atom, spherical average","sphere with chemical-core electrons (c_count, kind c in version 1.0)",original
+density_hf_x2c,Lu,,c_elf,1.3316,,"this work, HF/x2c, free atom, spherical average",outermost ELF minimum inside r_outer (c_elf),original
+density_hf_x2c,Hf,,v,2.6827,,"this work, HF/x2c, free atom, spherical average",rho=0.001 e/bohr3,original
+density_hf_x2c,Hf,,r,1.6603,,"this work, HF/x2c, free atom, spherical average","most probable radius, outermost occupied orbital",original
+density_hf_x2c,Hf,,c,0.6189,,"this work, HF/x2c, free atom, spherical average","most probable radius, outermost core orbital (c_orb)",original
+density_hf_x2c,Hf,,c_count,1.0101,,"this work, HF/x2c, free atom, spherical average","sphere with chemical-core electrons (c_count, kind c in version 1.0)",original
+density_hf_x2c,Hf,,c_elf,1.2518,,"this work, HF/x2c, free atom, spherical average",outermost ELF minimum inside r_outer (c_elf),original
+density_hf_x2c,Ta,,v,2.6248,,"this work, HF/x2c, free atom, spherical average",rho=0.001 e/bohr3,original
+density_hf_x2c,Ta,,r,1.6117,,"this work, HF/x2c, free atom, spherical average","most probable radius, outermost occupied orbital",original
+density_hf_x2c,Ta,,c,0.5995,,"this work, HF/x2c, free atom, spherical average","most probable radius, outermost core orbital (c_orb)",original
+density_hf_x2c,Ta,,c_count,0.9101,,"this work, HF/x2c, free atom, spherical average","sphere with chemical-core electrons (c_count, kind c in version 1.0)",original
+density_hf_x2c,Ta,,c_elf,1.2312,,"this work, HF/x2c, free atom, spherical average",outermost ELF minimum inside r_outer (c_elf),original
+density_hf_x2c,W,,v,2.5517,,"this work, HF/x2c, free atom, spherical average",rho=0.001 e/bohr3,original
+density_hf_x2c,W,,r,1.5186,,"this work, HF/x2c, free atom, spherical average","most probable radius, outermost occupied orbital",original
+density_hf_x2c,W,,c,0.5837,,"this work, HF/x2c, free atom, spherical average","most probable radius, outermost core orbital (c_orb)",original
+density_hf_x2c,W,,c_count,0.8344,,"this work, HF/x2c, free atom, spherical average","sphere with chemical-core electrons (c_count, kind c in version 1.0)",original
+density_hf_x2c,W,,c_elf,1.2541,,"this work, HF/x2c, free atom, spherical average",outermost ELF minimum inside r_outer (c_elf),original
+density_hf_x2c,Re,,v,2.5191,,"this work, HF/x2c, free atom, spherical average",rho=0.001 e/bohr3,original
+density_hf_x2c,Re,,r,1.527,,"this work, HF/x2c, free atom, spherical average","most probable radius, outermost occupied orbital",original
+density_hf_x2c,Re,,c,0.5660,,"this work, HF/x2c, free atom, spherical average","most probable radius, outermost core orbital (c_orb)",original
+density_hf_x2c,Re,,c_count,0.7749,,"this work, HF/x2c, free atom, spherical average","sphere with chemical-core electrons (c_count, kind c in version 1.0)",original
+density_hf_x2c,Re,,c_elf,1.2965,,"this work, HF/x2c, free atom, spherical average",outermost ELF minimum inside r_outer (c_elf),original
+density_hf_x2c,Os,,v,2.474,,"this work, HF/x2c, free atom, spherical average",rho=0.001 e/bohr3,original
+density_hf_x2c,Os,,r,1.4446,,"this work, HF/x2c, free atom, spherical average","most probable radius, outermost occupied orbital",original
+density_hf_x2c,Os,,c,0.5502,,"this work, HF/x2c, free atom, spherical average","most probable radius, outermost core orbital (c_orb)",original
+density_hf_x2c,Os,,c_count,0.7262,,"this work, HF/x2c, free atom, spherical average","sphere with chemical-core electrons (c_count, kind c in version 1.0)",original
+density_hf_x2c,Os,,c_elf,1.3292,,"this work, HF/x2c, free atom, spherical average",outermost ELF minimum inside r_outer (c_elf),original
+density_hf_x2c,Ir,,v,2.4275,,"this work, HF/x2c, free atom, spherical average",rho=0.001 e/bohr3,fix:atomic_radii_fixes.csv
+density_hf_x2c,Ir,,r,1.3832,,"this work, HF/x2c, free atom, spherical average","most probable radius, outermost occupied orbital",fix:atomic_radii_fixes.csv
+density_hf_x2c,Ir,,c,0.5343,,"this work, HF/x2c, free atom, spherical average","most probable radius, outermost core orbital (c_orb)",fix:atomic_radii_fixes.csv
+density_hf_x2c,Ir,,c_count,0.6844,,"this work, HF/x2c, free atom, spherical average","sphere with chemical-core electrons (c_count, kind c in version 1.0)",fix:atomic_radii_fixes.csv
+density_hf_x2c,Ir,,c_elf,1.3292,,"this work, HF/x2c, free atom, spherical average",outermost ELF minimum inside r_outer (c_elf),fix:atomic_radii_fixes.csv
+density_hf_x2c,Pt,,v,2.3007,,"this work, HF/x2c, free atom, spherical average",rho=0.001 e/bohr3,original
+density_hf_x2c,Pt,,r,1.3304,,"this work, HF/x2c, free atom, spherical average","most probable radius, outermost occupied orbital",original
+density_hf_x2c,Pt,,c,0.5202,,"this work, HF/x2c, free atom, spherical average","most probable radius, outermost core orbital (c_orb)",original
+density_hf_x2c,Pt,,c_count,0.6459,,"this work, HF/x2c, free atom, spherical average","sphere with chemical-core electrons (c_count, kind c in version 1.0)",original
+density_hf_x2c,Au,,v,2.2736,,"this work, HF/x2c, free atom, spherical average",rho=0.001 e/bohr3,original
+density_hf_x2c,Au,,r,1.3177,,"this work, HF/x2c, free atom, spherical average","most probable radius, outermost occupied orbital",original
+density_hf_x2c,Au,,c,0.5061,,"this work, HF/x2c, free atom, spherical average","most probable radius, outermost core orbital (c_orb)",original
+density_hf_x2c,Au,,c_count,0.6144,,"this work, HF/x2c, free atom, spherical average","sphere with chemical-core electrons (c_count, kind c in version 1.0)",original
+density_hf_x2c,Hg,,v,2.3273,,"this work, HF/x2c, free atom, spherical average",rho=0.001 e/bohr3,original
+density_hf_x2c,Hg,,r,1.2521,,"this work, HF/x2c, free atom, spherical average","most probable radius, outermost occupied orbital",original
+density_hf_x2c,Hg,,c,0.4920,,"this work, HF/x2c, free atom, spherical average","most probable radius, outermost core orbital (c_orb)",original
+density_hf_x2c,Hg,,c_count,0.5878,,"this work, HF/x2c, free atom, spherical average","sphere with chemical-core electrons (c_count, kind c in version 1.0)",original
+density_hf_x2c,Tl,,v,2.4626,,"this work, HF/x2c, free atom, spherical average",rho=0.001 e/bohr3,original
+density_hf_x2c,Tl,,r,1.6011,,"this work, HF/x2c, free atom, spherical average","most probable radius, outermost occupied orbital",original
+density_hf_x2c,Tl,,c,0.5872,,"this work, HF/x2c, free atom, spherical average","most probable radius, outermost core orbital (c_orb)",original
+density_hf_x2c,Tl,,c_count,1.1583,,"this work, HF/x2c, free atom, spherical average","sphere with chemical-core electrons (c_count, kind c in version 1.0)",original
+density_hf_x2c,Tl,,c_elf,1.1238,,"this work, HF/x2c, free atom, spherical average",outermost ELF minimum inside r_outer (c_elf),original
+density_hf_x2c,Pb,,v,2.5303,,"this work, HF/x2c, free atom, spherical average",rho=0.001 e/bohr3,original
+density_hf_x2c,Pb,,r,1.4319,,"this work, HF/x2c, free atom, spherical average","most probable radius, outermost occupied orbital",original
+density_hf_x2c,Pb,,c,0.5660,,"this work, HF/x2c, free atom, spherical average","most probable radius, outermost core orbital (c_orb)",original
+density_hf_x2c,Pb,,c_count,1.0632,,"this work, HF/x2c, free atom, spherical average","sphere with chemical-core electrons (c_count, kind c in version 1.0)",original
+density_hf_x2c,Pb,,c_elf,1.0014,,"this work, HF/x2c, free atom, spherical average",outermost ELF minimum inside r_outer (c_elf),original
+density_hf_x2c,Bi,,v,2.5165,,"this work, HF/x2c, free atom, spherical average",rho=0.001 e/bohr3,original
+density_hf_x2c,Bi,,r,1.3177,,"this work, HF/x2c, free atom, spherical average","most probable radius, outermost occupied orbital",original
+density_hf_x2c,Bi,,c,0.5449,,"this work, HF/x2c, free atom, spherical average","most probable radius, outermost core orbital (c_orb)",original
+density_hf_x2c,Bi,,c_count,0.9853,,"this work, HF/x2c, free atom, spherical average","sphere with chemical-core electrons (c_count, kind c in version 1.0)",original
+density_hf_x2c,Bi,,c_elf,0.9302,,"this work, HF/x2c, free atom, spherical average",outermost ELF minimum inside r_outer (c_elf),original
+density_hf_x2c,Po,,v,2.4968,,"this work, HF/x2c, free atom, spherical average",rho=0.001 e/bohr3,original
+density_hf_x2c,Po,,r,1.2352,,"this work, HF/x2c, free atom, spherical average","most probable radius, outermost occupied orbital",original
+density_hf_x2c,Po,,c,0.5272,,"this work, HF/x2c, free atom, spherical average","most probable radius, outermost core orbital (c_orb)",original
+density_hf_x2c,Po,,c_count,0.9211,,"this work, HF/x2c, free atom, spherical average","sphere with chemical-core electrons (c_count, kind c in version 1.0)",original
+density_hf_x2c,Po,,c_elf,0.8874,,"this work, HF/x2c, free atom, spherical average",outermost ELF minimum inside r_outer (c_elf),original
+density_hf_x2c,At,,v,2.4565,,"this work, HF/x2c, free atom, spherical average",rho=0.001 e/bohr3,original
+density_hf_x2c,At,,r,1.1548,,"this work, HF/x2c, free atom, spherical average","most probable radius, outermost occupied orbital",original
+density_hf_x2c,At,,c,0.5078,,"this work, HF/x2c, free atom, spherical average","most probable radius, outermost core orbital (c_orb)",original
+density_hf_x2c,At,,c_count,0.8670,,"this work, HF/x2c, free atom, spherical average","sphere with chemical-core electrons (c_count, kind c in version 1.0)",original
+density_hf_x2c,At,,c_elf,0.8389,,"this work, HF/x2c, free atom, spherical average",outermost ELF minimum inside r_outer (c_elf),original
+density_hf_x2c,Rn,,v,2.4072,,"this work, HF/x2c, free atom, spherical average",rho=0.001 e/bohr3,original
+density_hf_x2c,Rn,,r,1.0914,,"this work, HF/x2c, free atom, spherical average","most probable radius, outermost occupied orbital",original
+density_hf_x2c,Rn,,c,0.4920,,"this work, HF/x2c, free atom, spherical average","most probable radius, outermost core orbital (c_orb)",original
+density_hf_x2c,Rn,,c_count,0.8202,,"this work, HF/x2c, free atom, spherical average","sphere with chemical-core electrons (c_count, kind c in version 1.0)",original
+density_hf_x2c,Rn,,c_elf,0.7930,,"this work, HF/x2c, free atom, spherical average",outermost ELF minimum inside r_outer (c_elf),original

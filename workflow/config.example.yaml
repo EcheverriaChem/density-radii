@@ -1,0 +1,34 @@
+# density-radii: workflow configuration for the free-atom and free-ion calculations
+# ORCA runs on Agustina (BIFI); Q-Chem, AIMAll, Multiwfn and Chargemol run elsewhere.
+agustina:
+  account: CHANGE_ME            # sbatch --account (mandatory)
+  partition: agustina_thin      # 64 cores / 256 GB; use RES only with RES hours
+  scratch: /path/to/scratch/density-radii
+  orca_module: orca/6.1.1       # as given by the group; check exact case with `module avail`
+  extra_modules: NONE           # e.g. an OpenMPI module if `module load orca/6.1.1` does not pull it in
+
+other_cluster:
+  qchem_setup: CHANGE_ME
+  aimall_bin: CHANGE_ME
+  multiwfn_bin: CHANGE_ME
+
+free_atoms:
+  nprocs: 4
+  maxcore_mb: 3000
+  walltime: "04:00:00"
+  methods: [PBE0, HF]
+  schemes: [x2c, anorcc]
+
+# Scheme x2c: X2C Hamiltonian + Karlsruhe x2c all-electron basis (ORCA 6.1.1 manual, H-Rn).
+# Whether x2c-TZVPPall is defined for Ce-Lu must be confirmed in the f-block pilot.
+scheme_x2c:
+  hamiltonian: X2C
+  basis: x2c-TZVPPall
+  elements: H-Rn
+
+# Scheme anorcc: DKH2 + ANO-RCC-TZP (ORCA 6.1.1 manual, H-Cm).
+# Covers Fr-Cm (outside x2c) and serves as the basis/Hamiltonian cross-check.
+scheme_anorcc:
+  hamiltonian: DKH
+  basis: ANO-RCC-TZP
+  elements: H-Cm

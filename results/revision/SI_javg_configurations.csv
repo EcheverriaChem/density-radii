@@ -1,0 +1,4 @@
+element,lowest-level configuration (primary set),lowest J-averaged configuration,dE_exp J-averaged (eV),dE_PBE0 (eV),v_rho(0.001) primary,v_rho(0.001) J-avg,r_outer primary,r_outer J-avg,c_count primary,c_count J-avg,c_ELF primary,c_ELF J-avg
+Ni,[Ar]3d8 4s2 (3F),[Ar]3d9 4s1 (3D),-0.030,-0.101,2.313,2.186,1.229,1.261,0.411,0.410,0.960,1.083
+W,[Xe]4f14 5d4 6s2 (5D),[Xe]4f14 5d5 6s1 (7S),-0.187,-0.771,2.533,2.459,1.455,1.434,0.838,0.830,1.204,1.240
+Tb,[Xe]4f9 6s2 (6H),[Xe]4f8 5d1 6s2 (8G),<= -0.19 (est. -0.33),+0.389,2.757,2.757,1.903,1.827,0.584,0.595,1.550,1.490

@@ -1,0 +1,26 @@
+cff-version: 1.2.0
+message: "If you use these radii or this code, please cite the article below."
+title: "density-radii: van der Waals-like, valence and core radii of free atoms and ions from electron densities"
+version: 1.1.0
+date-released: 2026-11-24
+repository-code: "https://github.com/GITHUB_USER/density-radii"
+license: MIT
+authors:
+  - family-names: Urriolabeitia
+    given-names: Asier
+    affiliation: "Departamento de Quimica Fisica, BIFI, Universidad de Zaragoza"
+  - family-names: Echeverria
+    given-names: Jorge
+    affiliation: "Instituto de Sintesis Quimica y Catalisis Homogenea (ISQCH), Universidad de Zaragoza"
+    email: jorge.echeverria@unizar.es
+preferred-citation:
+  type: article
+  title: "Van der Waals-Like, Valence and Core Radii of the Atoms and Singly Charged Ions of Elements 1-96 from the Same Relativistic Calculations"
+  authors:
+    - family-names: Urriolabeitia
+      given-names: Asier
+    - family-names: Echeverria
+      given-names: Jorge
+  journal: "The Journal of Physical Chemistry A"
+  year: 2026
+  # volume, pages and doi to be completed on acceptance

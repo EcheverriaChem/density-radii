@@ -1,0 +1,13 @@
+# bonding-configuration fix of 060_Nd_PBE0_anorcc_bond [deltascf]: alpha 4f(30) -> 5d(32): 4f4 6s2 -> 4f3 5d1 6s2
+! UKS PBE0 DKH ANO-RCC-TZP NoRI NormalSCF SlowConv NoSOSCF NoTRAH DeltaSCF MORead
+%moinp "/fs/agustina/jorge/density_radii/bond_configs/060_Nd_PBE0_anorcc_bond/job.gbw"
+%pal nprocs 4 end
+%maxcore 3000
+%scf
+  MaxIter 2000
+  Shift Shift 0.40 ErrOff 0.0 end
+  ALPHACONF 0,1,1
+end
+* xyz 0 5
+Nd  0.0  0.0  0.0
+*

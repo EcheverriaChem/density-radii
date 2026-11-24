@@ -1,0 +1,94 @@
+set_id,symbol,variant,kind,value_A,esd_A,rho_vdw_pct,n,source,table_ref,note
+alvarez2013,H,,v,1.20,,66,9888,"Alvarez, Dalton Trans. 2013, 42, 8617",Table 1,
+alvarez2013,He,,v,1.43,,,12,"Alvarez, Dalton Trans. 2013, 42, 8617",Table 1,bracketed; He-water clathrate
+alvarez2013,Li,,v,2.12,,76,11067,"Alvarez, Dalton Trans. 2013, 42, 8617",Table 1,
+alvarez2013,Be,,v,1.98,,90,3515,"Alvarez, Dalton Trans. 2013, 42, 8617",Table 1,
+alvarez2013,B,,v,1.91,,70,152194,"Alvarez, Dalton Trans. 2013, 42, 8617",Table 1,
+alvarez2013,C,,v,1.77,,82,385475,"Alvarez, Dalton Trans. 2013, 42, 8617",Table 1,"only sp3 C, R<=2.5%"
+alvarez2013,N,,v,1.66,,52,187967,"Alvarez, Dalton Trans. 2013, 42, 8617",Table 1,from N...N contacts
+alvarez2013,O,,v,1.50,,73,420207,"Alvarez, Dalton Trans. 2013, 42, 8617",Table 1,
+alvarez2013,F,,v,1.46,,66,497497,"Alvarez, Dalton Trans. 2013, 42, 8617",Table 1,
+alvarez2013,Ne,,v,1.58,,,12,"Alvarez, Dalton Trans. 2013, 42, 8617",Table 1,bracketed; solid Ne
+alvarez2013,Na,,v,2.50,,51,16016,"Alvarez, Dalton Trans. 2013, 42, 8617",Table 1,
+alvarez2013,Mg,,v,2.51,,92,11581,"Alvarez, Dalton Trans. 2013, 42, 8617",Table 1,
+alvarez2013,Al,,v,2.25,,75,9877,"Alvarez, Dalton Trans. 2013, 42, 8617",Table 1,
+alvarez2013,Si,,v,2.19,,55,15077,"Alvarez, Dalton Trans. 2013, 42, 8617",Table 1,
+alvarez2013,P,,v,1.90,,67,178077,"Alvarez, Dalton Trans. 2013, 42, 8617",Table 1,
+alvarez2013,S,,v,1.89,,58,741158,"Alvarez, Dalton Trans. 2013, 42, 8617",Table 1,
+alvarez2013,Cl,,v,1.82,,69,641448,"Alvarez, Dalton Trans. 2013, 42, 8617",Table 1,
+alvarez2013,Ar,,v,1.83,,93,527,"Alvarez, Dalton Trans. 2013, 42, 8617",Table 1,from Ar...C contacts
+alvarez2013,K,,v,2.73,,28,76013,"Alvarez, Dalton Trans. 2013, 42, 8617",Table 1,rho_vdW <= 45%: poorly defined peak (paper's rule of thumb)
+alvarez2013,Ca,,v,2.62,,78,5420,"Alvarez, Dalton Trans. 2013, 42, 8617",Table 1,
+alvarez2013,Sc,,v,2.58,,93,1287,"Alvarez, Dalton Trans. 2013, 42, 8617",Table 1,
+alvarez2013,Ti,,v,2.46,,36,6685,"Alvarez, Dalton Trans. 2013, 42, 8617",Table 1,rho_vdW <= 45%: poorly defined peak (paper's rule of thumb)
+alvarez2013,V,,v,2.42,,37,17485,"Alvarez, Dalton Trans. 2013, 42, 8617",Table 1,rho_vdW <= 45%: poorly defined peak (paper's rule of thumb)
+alvarez2013,Cr,,v,2.45,,71,60314,"Alvarez, Dalton Trans. 2013, 42, 8617",Table 1,
+alvarez2013,Mn,,v,2.45,,79,81976,"Alvarez, Dalton Trans. 2013, 42, 8617",Table 1,
+alvarez2013,Fe,,v,2.44,,67,207868,"Alvarez, Dalton Trans. 2013, 42, 8617",Table 1,
+alvarez2013,Co,,v,2.40,,81,186046,"Alvarez, Dalton Trans. 2013, 42, 8617",Table 1,
+alvarez2013,Ni,,v,2.40,,76,115164,"Alvarez, Dalton Trans. 2013, 42, 8617",Table 1,
+alvarez2013,Cu,,v,2.38,,75,42451,"Alvarez, Dalton Trans. 2013, 42, 8617",Table 1,only six-coordinated Cu
+alvarez2013,Zn,,v,2.39,,74,68186,"Alvarez, Dalton Trans. 2013, 42, 8617",Table 1,
+alvarez2013,Ga,,v,2.32,,80,6066,"Alvarez, Dalton Trans. 2013, 42, 8617",Table 1,
+alvarez2013,Ge,,v,2.29,,50,13207,"Alvarez, Dalton Trans. 2013, 42, 8617",Table 1,
+alvarez2013,As,,v,1.88,,54,22962,"Alvarez, Dalton Trans. 2013, 42, 8617",Table 1,
+alvarez2013,Se,,v,1.82,,46,36624,"Alvarez, Dalton Trans. 2013, 42, 8617",Table 1,
+alvarez2013,Br,,v,1.86,,68,172324,"Alvarez, Dalton Trans. 2013, 42, 8617",Table 1,
+alvarez2013,Kr,,v,2.25,,98,131,"Alvarez, Dalton Trans. 2013, 42, 8617",Table 1,
+alvarez2013,Rb,,v,3.21,,33,1960,"Alvarez, Dalton Trans. 2013, 42, 8617",Table 1,rho_vdW <= 45%: poorly defined peak (paper's rule of thumb)
+alvarez2013,Sr,,v,2.84,,84,2094,"Alvarez, Dalton Trans. 2013, 42, 8617",Table 1,
+alvarez2013,Y,,v,2.75,,89,3487,"Alvarez, Dalton Trans. 2013, 42, 8617",Table 1,
+alvarez2013,Zr,,v,2.52,,64,5523,"Alvarez, Dalton Trans. 2013, 42, 8617",Table 1,
+alvarez2013,Nb,,v,2.56,,50,3647,"Alvarez, Dalton Trans. 2013, 42, 8617",Table 1,
+alvarez2013,Mo,,v,2.45,,63,138249,"Alvarez, Dalton Trans. 2013, 42, 8617",Table 1,
+alvarez2013,Tc,,v,2.44,,79,2880,"Alvarez, Dalton Trans. 2013, 42, 8617",Table 1,
+alvarez2013,Ru,,v,2.46,,73,165471,"Alvarez, Dalton Trans. 2013, 42, 8617",Table 1,
+alvarez2013,Rh,,v,2.44,,54,34854,"Alvarez, Dalton Trans. 2013, 42, 8617",Table 1,
+alvarez2013,Pd,,v,2.15,,49,35830,"Alvarez, Dalton Trans. 2013, 42, 8617",Table 1,
+alvarez2013,Ag,,v,2.53,,50,27221,"Alvarez, Dalton Trans. 2013, 42, 8617",Table 1,
+alvarez2013,Cd,,v,2.49,,74,21952,"Alvarez, Dalton Trans. 2013, 42, 8617",Table 1,
+alvarez2013,In,,v,2.43,,80,5230,"Alvarez, Dalton Trans. 2013, 42, 8617",Table 1,
+alvarez2013,Sn,,v,2.42,,44,30075,"Alvarez, Dalton Trans. 2013, 42, 8617",Table 1,rho_vdW <= 45%: poorly defined peak (paper's rule of thumb)
+alvarez2013,Sb,,v,2.47,,26,15850,"Alvarez, Dalton Trans. 2013, 42, 8617",Table 1,rho_vdW <= 45%: poorly defined peak (paper's rule of thumb)
+alvarez2013,Te,,v,1.99,,67,13772,"Alvarez, Dalton Trans. 2013, 42, 8617",Table 1,
+alvarez2013,I,,v,2.04,,53,56317,"Alvarez, Dalton Trans. 2013, 42, 8617",Table 1,
+alvarez2013,Xe,,v,2.06,,86,2264,"Alvarez, Dalton Trans. 2013, 42, 8617",Table 1,from Xe...C contacts
+alvarez2013,Cs,,v,3.48,,46,775,"Alvarez, Dalton Trans. 2013, 42, 8617",Table 1,
+alvarez2013,Ba,,v,3.03,,58,2402,"Alvarez, Dalton Trans. 2013, 42, 8617",Table 1,
+alvarez2013,La,,v,2.98,,80,6471,"Alvarez, Dalton Trans. 2013, 42, 8617",Table 1,
+alvarez2013,Ce,,v,2.88,,81,3681,"Alvarez, Dalton Trans. 2013, 42, 8617",Table 1,
+alvarez2013,Pr,,v,2.92,,78,3360,"Alvarez, Dalton Trans. 2013, 42, 8617",Table 1,
+alvarez2013,Nd,,v,2.95,,81,6346,"Alvarez, Dalton Trans. 2013, 42, 8617",Table 1,
+alvarez2013,Sm,,v,2.90,,84,4162,"Alvarez, Dalton Trans. 2013, 42, 8617",Table 1,
+alvarez2013,Eu,,v,2.87,,80,7042,"Alvarez, Dalton Trans. 2013, 42, 8617",Table 1,
+alvarez2013,Gd,,v,2.83,,84,6682,"Alvarez, Dalton Trans. 2013, 42, 8617",Table 1,
+alvarez2013,Tb,,v,2.79,,81,5538,"Alvarez, Dalton Trans. 2013, 42, 8617",Table 1,
+alvarez2013,Dy,,v,2.87,,83,3615,"Alvarez, Dalton Trans. 2013, 42, 8617",Table 1,
+alvarez2013,Ho,,v,2.81,,82,2493,"Alvarez, Dalton Trans. 2013, 42, 8617",Table 1,
+alvarez2013,Er,,v,2.83,,86,4246,"Alvarez, Dalton Trans. 2013, 42, 8617",Table 1,
+alvarez2013,Tm,,v,2.79,,84,1141,"Alvarez, Dalton Trans. 2013, 42, 8617",Table 1,
+alvarez2013,Yb,,v,2.80,,83,4664,"Alvarez, Dalton Trans. 2013, 42, 8617",Table 1,
+alvarez2013,Lu,,v,2.74,,86,2018,"Alvarez, Dalton Trans. 2013, 42, 8617",Table 1,
+alvarez2013,Hf,,v,2.63,,86,936,"Alvarez, Dalton Trans. 2013, 42, 8617",Table 1,
+alvarez2013,Ta,,v,2.53,,80,2793,"Alvarez, Dalton Trans. 2013, 42, 8617",Table 1,
+alvarez2013,W,,v,2.57,,62,47936,"Alvarez, Dalton Trans. 2013, 42, 8617",Table 1,
+alvarez2013,Re,,v,2.49,,75,61593,"Alvarez, Dalton Trans. 2013, 42, 8617",Table 1,
+alvarez2013,Os,,v,2.48,,90,129040,"Alvarez, Dalton Trans. 2013, 42, 8617",Table 1,
+alvarez2013,Ir,,v,2.41,,73,18335,"Alvarez, Dalton Trans. 2013, 42, 8617",Table 1,
+alvarez2013,Pt,,v,2.29,,67,55873,"Alvarez, Dalton Trans. 2013, 42, 8617",Table 1,
+alvarez2013,Au,,v,2.32,,49,5132,"Alvarez, Dalton Trans. 2013, 42, 8617",Table 1,only square-planar Au
+alvarez2013,Hg,,v,2.45,,81,30628,"Alvarez, Dalton Trans. 2013, 42, 8617",Table 1,Table 1 value; text gives 2.46 (sec. 4.2) and 2.28 (sec. 5.1) - CHECK
+alvarez2013,Tl,,v,2.47,,71,3486,"Alvarez, Dalton Trans. 2013, 42, 8617",Table 1,
+alvarez2013,Pb,,v,2.60,,49,36781,"Alvarez, Dalton Trans. 2013, 42, 8617",Table 1,
+alvarez2013,Bi,,v,2.54,,43,14030,"Alvarez, Dalton Trans. 2013, 42, 8617",Table 1,rho_vdW <= 45%: poorly defined peak (paper's rule of thumb)
+alvarez2013,Ac,,v,2.8,,,33,"Alvarez, Dalton Trans. 2013, 42, 8617",Table 1,bracketed; Ac...Cl in AcCl3
+alvarez2013,Th,,v,2.93,,83,964,"Alvarez, Dalton Trans. 2013, 42, 8617",Table 1,
+alvarez2013,Pa,,v,2.88,,94,48,"Alvarez, Dalton Trans. 2013, 42, 8617",Table 1,bracketed; Pa...C in one structure
+alvarez2013,U,,v,2.71,,74,35070,"Alvarez, Dalton Trans. 2013, 42, 8617",Table 1,
+alvarez2013,Np,,v,2.82,,55,830,"Alvarez, Dalton Trans. 2013, 42, 8617",Table 1,
+alvarez2013,Pu,,v,2.81,,77,1299,"Alvarez, Dalton Trans. 2013, 42, 8617",Table 1,
+alvarez2013,Am,,v,2.83,,94,128,"Alvarez, Dalton Trans. 2013, 42, 8617",Table 1,
+alvarez2013,Cm,,v,3.05,,99,90,"Alvarez, Dalton Trans. 2013, 42, 8617",Table 1,bracketed
+alvarez2013,Bk,,v,3.4,,,3,"Alvarez, Dalton Trans. 2013, 42, 8617",Table 1,bracketed; Bk...Cl in Cs2BkCl6
+alvarez2013,Cf,,v,3.05,,100,14,"Alvarez, Dalton Trans. 2013, 42, 8617",Table 1,bracketed; one structure
+alvarez2013,Es,,v,2.7,,,2,"Alvarez, Dalton Trans. 2013, 42, 8617",Table 1,bracketed; Es...Cl in EsCl3

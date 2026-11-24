@@ -1,0 +1,6 @@
+change relative to the primary set (PBE0/DKH2/ANO-RCC-TZP),n atoms,v_rho(0.001) MAD (max) / A,r_outer MAD (max) / A,c_orb MAD (max) / A,c_count MAD (max) / A
+Hamiltonian and basis: PBE0/X2C/x2c-TZVPPall,85,0.010 (0.042),0.014 (0.104),0.002 (0.016),0.001 (0.030)
+Method: HF/DKH2/ANO-RCC-TZP,95,0.025 (0.059),0.051 (0.155),0.003 (0.011),0.005 (0.043)
+Method and Hamiltonian: HF/X2C/x2c-TZVPPall,84,0.026 (0.084),0.041 (0.185),0.003 (0.011),0.004 (0.049)
+Density threshold halved or doubled,96,0.29,-,-,-
+Correcting a wrong configuration,46 solutions,0.12 (0.48),0.23 (1.02),-,0.012

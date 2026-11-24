@@ -1,0 +1,45 @@
+set_id,symbol,variant,kind,value_A,esd_A,source,table_ref,note
+mantina2009,H,,v,1.10,,"Mantina et al., J. Phys. Chem. A 2009, 113, 5806",Table 12,Rowland-Taylor value
+mantina2009,He,,v,1.40,,"Mantina et al., J. Phys. Chem. A 2009, 113, 5806",Table 12,Bondi value as quoted by Mantina
+mantina2009,Li,,v,1.81,,"Mantina et al., J. Phys. Chem. A 2009, 113, 5806",Table 12,Bondi value as quoted by Mantina
+mantina2009,Be,,v,1.53,,"Mantina et al., J. Phys. Chem. A 2009, 113, 5806",Table 12,new in Mantina 2009 (CCSD(T) probe correlation)
+mantina2009,B,,v,1.92,,"Mantina et al., J. Phys. Chem. A 2009, 113, 5806",Table 12,new in Mantina 2009 (CCSD(T) probe correlation)
+mantina2009,C,,v,1.70,,"Mantina et al., J. Phys. Chem. A 2009, 113, 5806",Table 12,Bondi value as quoted by Mantina
+mantina2009,N,,v,1.55,,"Mantina et al., J. Phys. Chem. A 2009, 113, 5806",Table 12,Bondi value as quoted by Mantina
+mantina2009,O,,v,1.52,,"Mantina et al., J. Phys. Chem. A 2009, 113, 5806",Table 12,Bondi value as quoted by Mantina
+mantina2009,F,,v,1.47,,"Mantina et al., J. Phys. Chem. A 2009, 113, 5806",Table 12,Bondi value as quoted by Mantina
+mantina2009,Ne,,v,1.54,,"Mantina et al., J. Phys. Chem. A 2009, 113, 5806",Table 12,Bondi value as quoted by Mantina
+mantina2009,Na,,v,2.27,,"Mantina et al., J. Phys. Chem. A 2009, 113, 5806",Table 12,Bondi value as quoted by Mantina
+mantina2009,Mg,,v,1.73,,"Mantina et al., J. Phys. Chem. A 2009, 113, 5806",Table 12,Bondi value as quoted by Mantina
+mantina2009,Al,,v,1.84,,"Mantina et al., J. Phys. Chem. A 2009, 113, 5806",Table 12,new in Mantina 2009 (CCSD(T) probe correlation)
+mantina2009,Si,,v,2.10,,"Mantina et al., J. Phys. Chem. A 2009, 113, 5806",Table 12,Bondi value as quoted by Mantina
+mantina2009,P,,v,1.80,,"Mantina et al., J. Phys. Chem. A 2009, 113, 5806",Table 12,Bondi value as quoted by Mantina
+mantina2009,S,,v,1.80,,"Mantina et al., J. Phys. Chem. A 2009, 113, 5806",Table 12,Bondi value as quoted by Mantina
+mantina2009,Cl,,v,1.75,,"Mantina et al., J. Phys. Chem. A 2009, 113, 5806",Table 12,Bondi value as quoted by Mantina
+mantina2009,Ar,,v,1.88,,"Mantina et al., J. Phys. Chem. A 2009, 113, 5806",Table 12,Bondi value as quoted by Mantina
+mantina2009,K,,v,2.75,,"Mantina et al., J. Phys. Chem. A 2009, 113, 5806",Table 12,Bondi value as quoted by Mantina
+mantina2009,Ca,,v,2.31,,"Mantina et al., J. Phys. Chem. A 2009, 113, 5806",Table 12,new in Mantina 2009 (CCSD(T) probe correlation)
+mantina2009,Ga,,v,1.87,,"Mantina et al., J. Phys. Chem. A 2009, 113, 5806",Table 12,Bondi value as quoted by Mantina
+mantina2009,Ge,,v,2.11,,"Mantina et al., J. Phys. Chem. A 2009, 113, 5806",Table 12,new in Mantina 2009 (CCSD(T) probe correlation)
+mantina2009,As,,v,1.85,,"Mantina et al., J. Phys. Chem. A 2009, 113, 5806",Table 12,Bondi value as quoted by Mantina
+mantina2009,Se,,v,1.90,,"Mantina et al., J. Phys. Chem. A 2009, 113, 5806",Table 12,Bondi value as quoted by Mantina
+mantina2009,Br,,v,1.83,,"Mantina et al., J. Phys. Chem. A 2009, 113, 5806",Table 12,Bondi value as quoted by Mantina
+mantina2009,Kr,,v,2.02,,"Mantina et al., J. Phys. Chem. A 2009, 113, 5806",Table 12,Bondi value as quoted by Mantina
+mantina2009,Rb,,v,3.03,,"Mantina et al., J. Phys. Chem. A 2009, 113, 5806",Table 12,new in Mantina 2009 (CCSD(T) probe correlation)
+mantina2009,Sr,,v,2.49,,"Mantina et al., J. Phys. Chem. A 2009, 113, 5806",Table 12,new in Mantina 2009 (CCSD(T) probe correlation)
+mantina2009,In,,v,1.93,,"Mantina et al., J. Phys. Chem. A 2009, 113, 5806",Table 12,Bondi value as quoted by Mantina
+mantina2009,Sn,,v,2.17,,"Mantina et al., J. Phys. Chem. A 2009, 113, 5806",Table 12,Bondi value as quoted by Mantina
+mantina2009,Sb,,v,2.06,,"Mantina et al., J. Phys. Chem. A 2009, 113, 5806",Table 12,new in Mantina 2009 (CCSD(T) probe correlation)
+mantina2009,Te,,v,2.06,,"Mantina et al., J. Phys. Chem. A 2009, 113, 5806",Table 12,Bondi value as quoted by Mantina
+mantina2009,I,,v,1.98,,"Mantina et al., J. Phys. Chem. A 2009, 113, 5806",Table 12,Bondi value as quoted by Mantina
+mantina2009,Xe,,v,2.16,,"Mantina et al., J. Phys. Chem. A 2009, 113, 5806",Table 12,Bondi value as quoted by Mantina
+mantina2009,Cs,,v,3.43,,"Mantina et al., J. Phys. Chem. A 2009, 113, 5806",Table 12,new in Mantina 2009 (CCSD(T) probe correlation)
+mantina2009,Ba,,v,2.68,,"Mantina et al., J. Phys. Chem. A 2009, 113, 5806",Table 12,new in Mantina 2009 (CCSD(T) probe correlation)
+mantina2009,Tl,,v,1.96,,"Mantina et al., J. Phys. Chem. A 2009, 113, 5806",Table 12,Bondi value as quoted by Mantina
+mantina2009,Pb,,v,2.02,,"Mantina et al., J. Phys. Chem. A 2009, 113, 5806",Table 12,Bondi value as quoted by Mantina
+mantina2009,Bi,,v,2.07,,"Mantina et al., J. Phys. Chem. A 2009, 113, 5806",Table 12,new in Mantina 2009 (CCSD(T) probe correlation)
+mantina2009,Po,,v,1.97,,"Mantina et al., J. Phys. Chem. A 2009, 113, 5806",Table 12,new in Mantina 2009 (CCSD(T) probe correlation)
+mantina2009,At,,v,2.02,,"Mantina et al., J. Phys. Chem. A 2009, 113, 5806",Table 12,new in Mantina 2009 (CCSD(T) probe correlation)
+mantina2009,Rn,,v,2.20,,"Mantina et al., J. Phys. Chem. A 2009, 113, 5806",Table 12,new in Mantina 2009 (CCSD(T) probe correlation)
+mantina2009,Fr,,v,3.48,,"Mantina et al., J. Phys. Chem. A 2009, 113, 5806",Table 12,new in Mantina 2009 (CCSD(T) probe correlation)
+mantina2009,Ra,,v,2.83,,"Mantina et al., J. Phys. Chem. A 2009, 113, 5806",Table 12,new in Mantina 2009 (CCSD(T) probe correlation)

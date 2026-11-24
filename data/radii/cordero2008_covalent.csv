@@ -1,0 +1,102 @@
+set_id,Z,symbol,variant,kind,value_A,esd_A,n,source,table_ref,note
+cordero2008,1,H,,r,0.31,0.05,129,"Cordero et al., Dalton Trans. 2008, 2832-2838",Table 2,
+cordero2008,2,He,,r,0.28,,,"Cordero et al., Dalton Trans. 2008, 2832-2838",Table 2,extrapolated
+cordero2008,3,Li,,r,1.28,0.07,5789,"Cordero et al., Dalton Trans. 2008, 2832-2838",Table 2,
+cordero2008,4,Be,,r,0.96,0.03,310,"Cordero et al., Dalton Trans. 2008, 2832-2838",Table 2,
+cordero2008,5,B,,r,0.84,0.03,1770,"Cordero et al., Dalton Trans. 2008, 2832-2838",Table 2,
+cordero2008,6,C,sp3,r,0.76,0.01,10000,"Cordero et al., Dalton Trans. 2008, 2832-2838",Table 2,default variant for C
+cordero2008,6,C,sp2,r,0.73,0.02,10000,"Cordero et al., Dalton Trans. 2008, 2832-2838",Table 2,
+cordero2008,6,C,sp,r,0.69,0.01,171,"Cordero et al., Dalton Trans. 2008, 2832-2838",Table 2,
+cordero2008,7,N,,r,0.71,0.01,2200,"Cordero et al., Dalton Trans. 2008, 2832-2838",Table 2,text value 0.706(13)
+cordero2008,8,O,,r,0.66,0.02,10000,"Cordero et al., Dalton Trans. 2008, 2832-2838",Table 2,Table 1 value 0.661(19)
+cordero2008,9,F,,r,0.57,0.03,10000,"Cordero et al., Dalton Trans. 2008, 2832-2838",Table 2,
+cordero2008,10,Ne,,r,0.58,,,"Cordero et al., Dalton Trans. 2008, 2832-2838",Table 2,extrapolated
+cordero2008,11,Na,,r,1.66,0.09,1629,"Cordero et al., Dalton Trans. 2008, 2832-2838",Table 2,
+cordero2008,12,Mg,,r,1.41,0.07,3234,"Cordero et al., Dalton Trans. 2008, 2832-2838",Table 2,
+cordero2008,13,Al,,r,1.21,0.04,3206,"Cordero et al., Dalton Trans. 2008, 2832-2838",Table 2,
+cordero2008,14,Si,,r,1.11,0.02,10000,"Cordero et al., Dalton Trans. 2008, 2832-2838",Table 2,
+cordero2008,15,P,,r,1.07,0.03,10000,"Cordero et al., Dalton Trans. 2008, 2832-2838",Table 2,
+cordero2008,16,S,,r,1.05,0.03,10000,"Cordero et al., Dalton Trans. 2008, 2832-2838",Table 2,
+cordero2008,17,Cl,,r,1.02,0.04,1987,"Cordero et al., Dalton Trans. 2008, 2832-2838",Table 2,
+cordero2008,18,Ar,,r,1.06,0.10,9,"Cordero et al., Dalton Trans. 2008, 2832-2838",Table 2,
+cordero2008,19,K,,r,2.03,0.12,435,"Cordero et al., Dalton Trans. 2008, 2832-2838",Table 2,
+cordero2008,20,Ca,,r,1.76,0.10,2647,"Cordero et al., Dalton Trans. 2008, 2832-2838",Table 2,
+cordero2008,21,Sc,,r,1.70,0.07,32,"Cordero et al., Dalton Trans. 2008, 2832-2838",Table 2,
+cordero2008,22,Ti,,r,1.60,0.08,231,"Cordero et al., Dalton Trans. 2008, 2832-2838",Table 2,
+cordero2008,23,V,,r,1.53,0.08,389,"Cordero et al., Dalton Trans. 2008, 2832-2838",Table 2,
+cordero2008,24,Cr,,r,1.39,0.05,916,"Cordero et al., Dalton Trans. 2008, 2832-2838",Table 2,
+cordero2008,25,Mn,ls,r,1.39,0.05,321,"Cordero et al., Dalton Trans. 2008, 2832-2838",Table 2,low spin; no default variant
+cordero2008,25,Mn,hs,r,1.61,0.08,929,"Cordero et al., Dalton Trans. 2008, 2832-2838",Table 2,high spin; no default variant
+cordero2008,26,Fe,ls,r,1.32,0.03,336,"Cordero et al., Dalton Trans. 2008, 2832-2838",Table 2,low spin; no default variant
+cordero2008,26,Fe,hs,r,1.52,0.06,1540,"Cordero et al., Dalton Trans. 2008, 2832-2838",Table 2,high spin; no default variant
+cordero2008,27,Co,ls,r,1.26,0.03,5733,"Cordero et al., Dalton Trans. 2008, 2832-2838",Table 2,low spin; no default variant
+cordero2008,27,Co,hs,r,1.50,0.07,780,"Cordero et al., Dalton Trans. 2008, 2832-2838",Table 2,high spin; no default variant
+cordero2008,28,Ni,,r,1.24,0.04,1030,"Cordero et al., Dalton Trans. 2008, 2832-2838",Table 2,
+cordero2008,29,Cu,,r,1.32,0.04,1149,"Cordero et al., Dalton Trans. 2008, 2832-2838",Table 2,
+cordero2008,30,Zn,,r,1.22,0.04,443,"Cordero et al., Dalton Trans. 2008, 2832-2838",Table 2,
+cordero2008,31,Ga,,r,1.22,0.03,1330,"Cordero et al., Dalton Trans. 2008, 2832-2838",Table 2,
+cordero2008,32,Ge,,r,1.20,0.04,1013,"Cordero et al., Dalton Trans. 2008, 2832-2838",Table 2,
+cordero2008,33,As,,r,1.19,0.04,2015,"Cordero et al., Dalton Trans. 2008, 2832-2838",Table 2,
+cordero2008,34,Se,,r,1.20,0.04,1717,"Cordero et al., Dalton Trans. 2008, 2832-2838",Table 2,
+cordero2008,35,Br,,r,1.20,0.03,2140,"Cordero et al., Dalton Trans. 2008, 2832-2838",Table 2,
+cordero2008,36,Kr,,r,1.16,0.04,5,"Cordero et al., Dalton Trans. 2008, 2832-2838",Table 2,
+cordero2008,37,Rb,,r,2.20,0.09,23,"Cordero et al., Dalton Trans. 2008, 2832-2838",Table 2,
+cordero2008,38,Sr,,r,1.95,0.10,1500,"Cordero et al., Dalton Trans. 2008, 2832-2838",Table 2,
+cordero2008,39,Y,,r,1.90,0.07,30,"Cordero et al., Dalton Trans. 2008, 2832-2838",Table 2,
+cordero2008,40,Zr,,r,1.75,0.07,93,"Cordero et al., Dalton Trans. 2008, 2832-2838",Table 2,
+cordero2008,41,Nb,,r,1.64,0.06,18,"Cordero et al., Dalton Trans. 2008, 2832-2838",Table 2,
+cordero2008,42,Mo,,r,1.54,0.05,97,"Cordero et al., Dalton Trans. 2008, 2832-2838",Table 2,
+cordero2008,43,Tc,,r,1.47,0.07,96,"Cordero et al., Dalton Trans. 2008, 2832-2838",Table 2,
+cordero2008,44,Ru,,r,1.46,0.07,1032,"Cordero et al., Dalton Trans. 2008, 2832-2838",Table 2,
+cordero2008,45,Rh,,r,1.42,0.07,458,"Cordero et al., Dalton Trans. 2008, 2832-2838",Table 2,
+cordero2008,46,Pd,,r,1.39,0.06,1892,"Cordero et al., Dalton Trans. 2008, 2832-2838",Table 2,
+cordero2008,47,Ag,,r,1.45,0.05,1728,"Cordero et al., Dalton Trans. 2008, 2832-2838",Table 2,
+cordero2008,48,Cd,,r,1.44,0.09,19,"Cordero et al., Dalton Trans. 2008, 2832-2838",Table 2,
+cordero2008,49,In,,r,1.42,0.05,546,"Cordero et al., Dalton Trans. 2008, 2832-2838",Table 2,
+cordero2008,50,Sn,,r,1.39,0.04,2999,"Cordero et al., Dalton Trans. 2008, 2832-2838",Table 2,
+cordero2008,51,Sb,,r,1.39,0.05,609,"Cordero et al., Dalton Trans. 2008, 2832-2838",Table 2,
+cordero2008,52,Te,,r,1.38,0.04,692,"Cordero et al., Dalton Trans. 2008, 2832-2838",Table 2,
+cordero2008,53,I,,r,1.39,0.03,451,"Cordero et al., Dalton Trans. 2008, 2832-2838",Table 2,
+cordero2008,54,Xe,,r,1.40,0.09,2,"Cordero et al., Dalton Trans. 2008, 2832-2838",Table 2,text: from >100 Xe-E distances (ICSD)
+cordero2008,55,Cs,,r,2.44,0.11,24,"Cordero et al., Dalton Trans. 2008, 2832-2838",Table 2,
+cordero2008,56,Ba,,r,2.15,0.11,3076,"Cordero et al., Dalton Trans. 2008, 2832-2838",Table 2,
+cordero2008,57,La,,r,2.07,0.08,190,"Cordero et al., Dalton Trans. 2008, 2832-2838",Table 2,
+cordero2008,58,Ce,,r,2.04,0.09,47,"Cordero et al., Dalton Trans. 2008, 2832-2838",Table 2,
+cordero2008,59,Pr,,r,2.03,0.07,58,"Cordero et al., Dalton Trans. 2008, 2832-2838",Table 2,
+cordero2008,60,Nd,,r,2.01,0.06,96,"Cordero et al., Dalton Trans. 2008, 2832-2838",Table 2,
+cordero2008,61,Pm,,r,1.99,,,"Cordero et al., Dalton Trans. 2008, 2832-2838",Table 2,interpolated
+cordero2008,62,Sm,,r,1.98,0.08,53,"Cordero et al., Dalton Trans. 2008, 2832-2838",Table 2,
+cordero2008,63,Eu,,r,1.98,0.06,167,"Cordero et al., Dalton Trans. 2008, 2832-2838",Table 2,
+cordero2008,64,Gd,,r,1.96,0.06,178,"Cordero et al., Dalton Trans. 2008, 2832-2838",Table 2,
+cordero2008,65,Tb,,r,1.94,0.05,55,"Cordero et al., Dalton Trans. 2008, 2832-2838",Table 2,
+cordero2008,66,Dy,,r,1.92,0.07,59,"Cordero et al., Dalton Trans. 2008, 2832-2838",Table 2,
+cordero2008,67,Ho,,r,1.92,0.07,48,"Cordero et al., Dalton Trans. 2008, 2832-2838",Table 2,
+cordero2008,68,Er,,r,1.89,0.06,66,"Cordero et al., Dalton Trans. 2008, 2832-2838",Table 2,
+cordero2008,69,Tm,,r,1.90,0.10,15,"Cordero et al., Dalton Trans. 2008, 2832-2838",Table 2,
+cordero2008,70,Yb,,r,1.87,0.08,122,"Cordero et al., Dalton Trans. 2008, 2832-2838",Table 2,
+cordero2008,71,Lu,,r,1.87,0.08,61,"Cordero et al., Dalton Trans. 2008, 2832-2838",Table 2,
+cordero2008,72,Hf,,r,1.75,0.10,53,"Cordero et al., Dalton Trans. 2008, 2832-2838",Table 2,
+cordero2008,73,Ta,,r,1.70,0.08,88,"Cordero et al., Dalton Trans. 2008, 2832-2838",Table 2,
+cordero2008,74,W,,r,1.62,0.07,219,"Cordero et al., Dalton Trans. 2008, 2832-2838",Table 2,
+cordero2008,75,Re,,r,1.51,0.07,476,"Cordero et al., Dalton Trans. 2008, 2832-2838",Table 2,
+cordero2008,76,Os,,r,1.44,0.04,99,"Cordero et al., Dalton Trans. 2008, 2832-2838",Table 2,
+cordero2008,77,Ir,,r,1.41,0.06,131,"Cordero et al., Dalton Trans. 2008, 2832-2838",Table 2,
+cordero2008,78,Pt,,r,1.36,0.05,1768,"Cordero et al., Dalton Trans. 2008, 2832-2838",Table 2,
+cordero2008,79,Au,,r,1.36,0.06,114,"Cordero et al., Dalton Trans. 2008, 2832-2838",Table 2,
+cordero2008,80,Hg,,r,1.32,0.05,137,"Cordero et al., Dalton Trans. 2008, 2832-2838",Table 2,
+cordero2008,81,Tl,,r,1.45,0.07,291,"Cordero et al., Dalton Trans. 2008, 2832-2838",Table 2,
+cordero2008,82,Pb,,r,1.46,0.05,112,"Cordero et al., Dalton Trans. 2008, 2832-2838",Table 2,
+cordero2008,83,Bi,,r,1.48,0.04,51,"Cordero et al., Dalton Trans. 2008, 2832-2838",Table 2,
+cordero2008,84,Po,,r,1.40,0.04,4,"Cordero et al., Dalton Trans. 2008, 2832-2838",Table 2,
+cordero2008,85,At,,r,1.50,,,"Cordero et al., Dalton Trans. 2008, 2832-2838",Table 2,guess value (interpolated)
+cordero2008,86,Rn,,r,1.50,,,"Cordero et al., Dalton Trans. 2008, 2832-2838",Table 2,extrapolated
+cordero2008,87,Fr,,r,2.60,,,"Cordero et al., Dalton Trans. 2008, 2832-2838",Table 2,guess value (extrapolated)
+cordero2008,88,Ra,,r,2.21,0.02,3,"Cordero et al., Dalton Trans. 2008, 2832-2838",Table 2,
+cordero2008,89,Ac,,r,2.15,,1,"Cordero et al., Dalton Trans. 2008, 2832-2838",Table 2,CHECK: single trailing figure in Table 2 read as n (radius from AcH2)
+cordero2008,90,Th,,r,2.06,0.06,11,"Cordero et al., Dalton Trans. 2008, 2832-2838",Table 2,
+cordero2008,91,Pa,,r,2.00,,1,"Cordero et al., Dalton Trans. 2008, 2832-2838",Table 2,CHECK: single trailing figure in Table 2 read as n (radius from PaH3)
+cordero2008,92,U,,r,1.96,0.07,57,"Cordero et al., Dalton Trans. 2008, 2832-2838",Table 2,
+cordero2008,93,Np,,r,1.90,0.01,22,"Cordero et al., Dalton Trans. 2008, 2832-2838",Table 2,
+cordero2008,94,Pu,,r,1.87,0.01,9,"Cordero et al., Dalton Trans. 2008, 2832-2838",Table 2,text value 1.87(1)
+cordero2008,95,Am,,r,1.80,0.06,11,"Cordero et al., Dalton Trans. 2008, 2832-2838",Table 2,
+cordero2008,96,Cm,,r,1.69,0.03,16,"Cordero et al., Dalton Trans. 2008, 2832-2838",Table 2,
