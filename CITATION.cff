@@ -4,6 +4,11 @@ title: "density-radii: van der Waals-like, valence and core radii of free atoms 
 version: 1.2.0
 date-released: 2026-11-25
 repository-code: "https://github.com/EcheverriaChem/density-radii"
+doi: 10.5281/zenodo.24533530
+identifiers:
+  - type: doi
+    value: 10.5281/zenodo.24533530
+    description: "Zenodo archive of release 1.2.0"
 license: MIT
 authors:
   - family-names: Urriolabeitia

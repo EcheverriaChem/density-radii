@@ -1,5 +1,7 @@
 # density-radii
 
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.24533530.svg)](https://doi.org/10.5281/zenodo.24533530)
+
 Van der Waals-like, valence and core radii of the free atoms and singly charged ions of
 elements 1–96, derived from spherically averaged all-electron relativistic electron densities,
 together with the code that produces and validates them.
