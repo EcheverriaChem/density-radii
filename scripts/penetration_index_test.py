@@ -12,6 +12,8 @@ with p computed from four combinations of radii:
   v_rho + Cordero       van der Waals-like radius of this work with the covalent radii
   Alvarez + r_outer     crystallographic van der Waals radii with the valence radius of this work
   v_rho + r_outer       both radii from this work
+  Rahm + Cordero        density radii of Rahm et al. (2016/2017) with the covalent radii
+  Charry + Cordero      polarizability-derived radii of Charry and Tkatchenko (2024) with the covalent radii
 The first combination reproduces p_paper (largest deviation printed as a check).
 
 Writes results/revision/penetration_index_R2.csv (the r2 of Table 6, p_paper being the published
@@ -52,6 +54,8 @@ def main():
     cor1 = radius_map("cordero2008_covalent.csv", "r", ("sp", "ls"))
     vd = radius_map("density_pbe0_anorcc.csv", "v")
     rd = radius_map("density_pbe0_anorcc.csv", "r")
+    rahm = radius_map("rahm2017_density.csv", "v")
+    cha = radius_map("charry2024_vdw.csv", "v")
 
     def cordero(row, sym):
         if row.A == row.B == "C":
@@ -68,7 +72,9 @@ def main():
     combos = {"Alvarez+Cordero": (alv, cordero),
               "v_rho+Cordero": (vd, cordero),
               "Alvarez+r_outer": (alv, lambda row, s: rd.get(s, np.nan)),
-              "v_rho+r_outer": (vd, lambda row, s: rd.get(s, np.nan))}
+              "v_rho+r_outer": (vd, lambda row, s: rd.get(s, np.nan)),
+              "Rahm+Cordero": (rahm, cordero),
+              "Charry+Cordero": (cha, cordero)}
     for k, (v, r) in combos.items():
         D[f"p_{k}"] = D.apply(lambda row: p(row, v, r), axis=1)
     dev = (D["p_Alvarez+Cordero"] - D.p_paper).abs().max()

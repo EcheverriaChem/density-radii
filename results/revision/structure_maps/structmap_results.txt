@@ -1,0 +1,54 @@
+82 compounds; 41 RS (dE<0), 41 ZB
+
+Zunger 1980 (pseudopotential)
+  (r_sigma, r_pi) linear LSQ: RMSE 0.381 MaxAE 2.23  CV-RMSE 0.402
+  (r_sigma, r_pi) KRR CV-RMSE 0.348 (lambda 0.1, gamma 0.03)
+  (r_sigma, r_pi) linear RS/ZB separation: 92.7% fitted, 90.2% leave-one-out
+  (rs_A, rp_A, rs_B, rp_B) KRR CV-RMSE 0.105
+
+this work (PBE0/DKH2 all-electron)
+  (r_sigma, r_pi) linear LSQ: RMSE 0.313 MaxAE 1.84  CV-RMSE 0.342
+  (r_sigma, r_pi) KRR CV-RMSE 0.138 (lambda 1e-06, gamma 0.03)
+  (r_sigma, r_pi) linear RS/ZB separation: 95.1% fitted, 92.7% leave-one-out
+  (rs_A, rp_A, rs_B, rp_B) KRR CV-RMSE 0.108
+  Ghiringhelli 2D descriptor (with our IP, EA): LSQ RMSE 0.127 MaxAE 0.33  CV-RMSE 0.132
+  Ghiringhelli 1D descriptor: LSQ RMSE 0.159 MaxAE 0.40
+  2D descriptor RS/ZB separation: 95.1% fitted, 95.1% LOO
+
+        rs_Zunger  rp_Zunger  rs_ours  rp_ours
+symbol                                        
+Ag          0.553      0.704    1.335    1.806
+Al          0.407      0.479    1.108    1.415
+As          0.355      0.394    0.865    1.049
+B           0.254      0.167    0.810    0.846
+Ba          0.802      0.999    2.223    3.022
+Be          0.339      0.233    1.083    1.378
+Br          0.307      0.328    0.753    0.884
+C           0.206      0.132    0.649    0.630
+Ca          0.699      0.889    1.794    2.395
+Cd          0.521      0.651    1.258    1.864
+Cl          0.265      0.270    0.679    0.757
+Cs          0.905      1.376    2.555    3.643
+Cu          0.466      0.614    1.269    1.560
+F           0.132      0.082    0.406    0.379
+Ga          0.402      0.495    1.022    1.375
+Ge          0.381      0.445    0.935    1.184
+I           0.400      0.439    0.903    1.070
+In          0.497      0.587    1.151    1.557
+K           0.815      1.138    2.195    3.112
+Li          0.521      0.331    1.614    2.163
+Mg          0.476      0.598    1.354    1.933
+N           0.175      0.111    0.544    0.510
+Na          0.582      0.820    1.741    2.602
+O           0.151      0.095    0.465    0.442
+P           0.318      0.339    0.835    0.971
+Rb          0.884      1.286    2.322    3.355
+S           0.286      0.296    0.749    0.852
+Sb          0.439      0.495    1.011    1.231
+Se          0.325      0.355    0.804    0.964
+Si          0.360      0.392    0.948    1.140
+Sn          0.466      0.529    1.072    1.370
+Sr          0.751      0.947    1.956    2.649
+Te          0.418      0.466    0.954    1.146
+Zn          0.434      0.561    1.136    1.732
+r(rs) 0.980  r(rp) 0.951

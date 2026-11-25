@@ -1,0 +1,23 @@
+el,state,P_GPa,V_A3,source,r_WS,r_outer,v_rho,r_WS/r_outer,r_WS/v_rho,r_WS/c_ELF
+Li,"ambient (bcc, 295 K)",0.0,21.6,standard V0,1.7276,1.6138,2.2003,1.0705,0.7852,2.1369
+Li,"oC88 (complex, metallic)",65.0,7.2904,"Marqués et al. PRL 2011, lattice at 65 GPa",1.2029,1.6138,2.2003,0.7454,0.5467,1.4878
+Li,oC40 (semiconducting electride),75.0,6.7271,"Marqués et al. PRL 2011, lattice at 75 GPa",1.1711,1.6138,2.2003,0.7257,0.5322,1.4484
+Na,"ambient (bcc, 295 K)",0.0,39.5,standard V0,2.1127,1.7407,2.2518,1.2137,0.9382,1.8887
+Na,cI16 (complex),108.0,10.0618,a = 5.44 Å (Ma et al. 2009),1.3393,1.7407,2.2518,0.7694,0.5947,1.1973
+Na,hP4 (transparent electride),200.0,7.9,~5.0-fold compression (Ma et al. Nature 2009),1.2355,1.7407,2.2518,0.7098,0.5487,1.1045
+K,"ambient (bcc, 10 K)",0.0,71.507,Fabbris et al. PRB 2015,2.5749,2.1954,2.3477,1.1728,1.0968,
+K,"K-III host-guest (s-d), 22.1 GPa",22.1,23.5034,"McMahon & Nelmes 2006: aH=9.767, cH=4.732, q3=1.603",1.777,2.1954,2.3477,0.8094,0.7569,
+Rb,"ambient (bcc, 10 K)",0.0,87.338,Fabbris et al. PRB 2015,2.7524,2.3223,2.4015,1.1852,1.1461,
+Rb,"Rb-III oC52 (s-d), 14.3 GPa",14.3,31.4173,"McMahon & Nelmes 2006: a=7.886, b=11.240, c=18.431, Z=52",1.9575,2.3223,2.4015,0.8429,0.8151,
+Cs,"ambient (bcc, 10 K)",0.0,110.617,Fabbris et al. PRB 2015,2.9779,2.5549,2.4855,1.1656,1.1981,
+Cs,"Cs-III oC84 (s-d), 4.3 GPa",4.3,50.2154,"McMahon & Nelmes 2006: a=9.2718, b=13.3013, c=34.2025, Z=84",2.2887,2.5549,2.4855,0.8958,0.9208,
+Ca,"ambient (fcc, 295 K)",0.0,43.85,"Anzellini et al. PRMater 2018, Ca-I V0",2.1876,1.7935,2.697,1.2197,0.8111,
+Ca,bcc -> sc (s-d),32.0,21.83,Vinet EOS of Ca-II (Anzellini 2018),1.7338,1.7935,2.697,0.9667,0.6428,
+Sr,"ambient (fcc, 295 K)",0.0,56.3277,a = 6.085 Å,2.378,1.9564,2.7934,1.2155,0.8513,
+Sr,"Sr-III beta-tin (s-d), 34.8 GPa; onset 26 GPa",34.8,22.4176,"McMahon & Nelmes 2006: a=5.504, c=2.960 Å at 34.8 GPa",1.7492,1.9564,2.7934,0.8941,0.6262,
+Ba,"ambient (bcc, 295 K)",0.0,63.3665,a = 5.023 Å,2.4732,2.2229,2.9335,1.1126,0.8431,
+Ba,"Ba-IVa host-guest (s-d), 12.0 GPa",12.0,31.1697,Nelmes et al. PRL 1999: 10.776 atoms in I cell,1.9523,2.2229,2.9335,0.8783,0.6655,
+Mg,"ambient (hcp, 295 K)",0.0,23.24,standard V0,1.7703,1.3536,2.4057,1.3079,0.7359,1.9931
+Al,"ambient (fcc, 295 K)",0.0,16.6,standard V0,1.5825,1.415,2.4099,1.1184,0.6567,2.1525
+Mg,"sh/sc open structures (electride), 0.96 TPa",960.0,5.01,onset from Gorman et al. 2022; volume from PBE fcc EOS (this work),1.0615,1.3536,2.4057,0.7842,0.4412,1.1951
+Al,"host-guest open structure (electride), 3.2 TPa",3200.0,3.17,onset from Pickard & Needs 2010; volume from PBE bcc EOS (this work),0.9113,1.415,2.4099,0.644,0.3781,1.2395
