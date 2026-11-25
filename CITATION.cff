@@ -1,8 +1,8 @@
 cff-version: 1.2.0
 message: "If you use these radii or this code, please cite the article below."
 title: "density-radii: van der Waals-like, valence and core radii of free atoms and ions from electron densities"
-version: 1.1.0
-date-released: 2026-11-24
+version: 1.2.0
+date-released: 2026-11-25
 repository-code: "https://github.com/GITHUB_USER/density-radii"
 license: MIT
 authors:
@@ -21,6 +21,6 @@ preferred-citation:
       given-names: Asier
     - family-names: Echeverria
       given-names: Jorge
-  journal: "The Journal of Physical Chemistry A"
+  journal: "Journal of Chemical Theory and Computation"
   year: 2026
   # volume, pages and doi to be completed on acceptance

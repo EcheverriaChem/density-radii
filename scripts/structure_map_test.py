@@ -1,3 +1,7 @@
+"""Structure maps of the 82 octet binary compounds (Section 5.1.1, Table 5, Figure 6).
+
+Usage (from the package root):  python scripts/structure_map_test.py
+"""
 import numpy as np, pandas as pd, re, warnings
 warnings.filterwarnings('ignore')
 from sklearn.svm import SVC
@@ -5,18 +9,21 @@ from sklearn.linear_model import LogisticRegression
 from sklearn.kernel_ridge import KernelRidge
 from sklearn.model_selection import ShuffleSplit, LeaveOneOut
 B2A=0.529177
-O=pd.read_csv('octet_ghiringhelli2015.csv')
+from pathlib import Path
+ROOT=Path(__file__).resolve().parent.parent
+SM=ROOT/'results'/'revision'/'structure_maps'
+O=pd.read_csv(SM/'octet_ghiringhelli2015.csv')
 Zsym={3:'Li',4:'Be',5:'B',6:'C',7:'N',8:'O',9:'F',11:'Na',12:'Mg',13:'Al',14:'Si',15:'P',16:'S',17:'Cl',19:'K',20:'Ca',29:'Cu',30:'Zn',31:'Ga',32:'Ge',33:'As',34:'Se',35:'Br',37:'Rb',38:'Sr',47:'Ag',48:'Cd',49:'In',50:'Sn',51:'Sb',52:'Te',53:'I',55:'Cs',56:'Ba'}
 O['A']=O.ZA.map(Zsym); O['B']=O.ZB.map(Zsym)
 # our radii: valence s and p; empty valence p -> lowest virtual p
-R=pd.read_csv('orbital_radii_by_l.csv'); R=R[R.charge==0].set_index('symbol')
+R=pd.read_csv(SM/'orbital_radii_by_l.csv'); R=R[R.charge==0].set_index('symbol')
 def has_valence_p(conf):
     sub=conf.split(']')[-1].split()
     n=max([int(s[0]) for s in sub if s[1]=='s'] or [0])
     return any(s[1]=='p' and int(s[0])==n for s in sub)
 ours=pd.DataFrame({'rs':R.r_s,'rp':[R.loc[s,'r_p'] if has_valence_p(R.loc[s,'configuration']) else R.loc[s,'rv_p'] for s in R.index]},index=R.index)
-Zu=pd.read_csv('zunger1980_radii.csv').set_index('symbol'); zun=pd.DataFrame({'rs':Zu.rs_au*B2A,'rp':Zu.rp_au*B2A})
-I=pd.read_csv('/home/claude/release/density-radii/results/ion_radii_selected.csv'); I=I[(I.method=='PBE0')&(I.scheme=='anorcc')]
+Zu=pd.read_csv(SM/'zunger1980_radii.csv').set_index('symbol'); zun=pd.DataFrame({'rs':Zu.rs_au*B2A,'rp':Zu.rp_au*B2A})
+I=pd.read_csv(ROOT/'results'/'ion_radii_selected.csv'); I=I[(I.method=='PBE0')&(I.scheme=='anorcc')]
 IP=I[I.charge==1].set_index('symbol').IE_calc_eV; EA=I[I.charge==-1].set_index('symbol').EA_calc_eV.copy(); EA['N']=-0.07
 y=O.dE_RS_ZB_eV.values; lab=(y>0).astype(int)
 def feats(rad):
@@ -61,10 +68,10 @@ for name,rad in (('Zunger 1980 (pseudopotential)',zun),('this work (PBE0/DKH2 al
     print()
 cmp=pd.concat([zun.add_suffix('_Zunger'),ours.add_suffix('_ours')],axis=1).loc[sorted(set(O.A)|set(O.B))]
 print(cmp.round(3).to_string()); print('r(rs) %.3f  r(rp) %.3f'%(cmp.rs_Zunger.corr(cmp.rs_ours),cmp.rp_Zunger.corr(cmp.rp_ours)))
-cmp.to_csv('radii_comparison_octet.csv')
+cmp.to_csv(SM/'radii_comparison_octet.csv')
 
 import matplotlib; matplotlib.use('Agg'); import matplotlib.pyplot as plt
-plt.rcParams.update({'font.family':'Liberation Sans','font.size':28,'lines.linewidth':2,'axes.linewidth':2,'xtick.major.width':2,'ytick.major.width':2,'xtick.direction':'in','ytick.direction':'in','xtick.top':True,'ytick.right':True,'legend.frameon':False,'legend.fontsize':22})
+plt.rcParams.update({'font.family':'DejaVu Sans','font.size':28,'lines.linewidth':2,'axes.linewidth':2,'xtick.major.width':2,'ytick.major.width':2,'xtick.direction':'in','ytick.direction':'in','xtick.top':True,'ytick.right':True,'legend.frameon':False,'legend.fontsize':22})
 for tag,rad in (('zunger',zun),('ours',ours)):
     Z,_,_=feats(rad)
     fig,ax=plt.subplots(figsize=(8,8))
@@ -77,4 +84,4 @@ for tag,rad in (('zunger',zun),('ours',ours)):
     ax.set_xlabel(r'$r_\sigma$ (Å)'); ax.set_ylabel(r'$r_\pi$ (Å)')
     ax.set_ylim(Z[:,1].min()-0.05*np.ptp(Z[:,1]),Z[:,1].max()+0.25*np.ptp(Z[:,1])); ax.legend(loc='upper left',ncol=2,handletextpad=0.1,columnspacing=0.8)
     ax.set_title('Zunger 1980' if tag=='zunger' else 'this work',fontsize=26)
-    fig.tight_layout(); fig.savefig(f'Fig_structmap_{tag}.png',dpi=130); fig.savefig(f'Fig_structmap_{tag}.eps')
+    fig.tight_layout(); fig.savefig(SM/f'Fig_structmap_{tag}.png',dpi=130)

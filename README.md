@@ -8,9 +8,9 @@ Companion repository to:
 
 > A. Urriolabeitia and J. Echeverría, *Van der Waals-Like, Valence and Core Radii of the Atoms and
 > Singly Charged Ions of Elements 1–96 from the Same Relativistic Calculations*, submitted to
-> J. Phys. Chem. A (2026).
+> J. Chem. Theory Comput. (2026), submitted.
 
-Version 1.1.0 accompanies the revised manuscript; see `CHANGELOG.md` for what changed.
+Version 1.2.0 accompanies the revised manuscript; see `CHANGELOG.md` for what changed.
 
 ## What is here
 

@@ -1,8 +1,26 @@
 # Changelog
 
+## 1.2.0 (2026-11)
+
+Revision of the article for J. Chem. Theory Comput. (ct-2026-02056d), refocused on the scope of the
+three radii.
+
+### Added
+- Structure maps of the 82 octet binary compounds with the valence s and p orbital radii, compared
+  with the pseudopotential radii of Zunger: `scripts/structure_map_test.py`,
+  `results/revision/structure_maps/` (data of Ghiringhelli et al. 2015, Zunger 1980 radii and the
+  orbital radii of each angular momentum).
+- Elemental metals under compression: FHI-aims input generator, collector and rerun tools in
+  `tools/fhiaims/`, the PBE equations of state of ten metals up to 5.8 TPa
+  (`results/revision/compression/eos_pv_fhiaims.csv`), the volumes at the phase transitions
+  (`compression_points.csv`) and `scripts/plot_compression_xy.py`.
+- `scripts/penetration_index_test.py` also evaluates the density radii of Rahm et al. and the
+  polarizability-derived radii of Charry and Tkatchenko.
+- `scripts/build_supporting_information.py` builds the Supporting Information from the package data.
+
 ## 1.1.0 (2026-11)
 
-Revision of the article (J. Phys. Chem. A, transferred from J. Chem. Theory Comput.).
+First revision of the article.
 
 ### Changed
 - **Core radius.** `c` in `data/radii/density_*.csv` is now the orbital-based core radius c_orb,

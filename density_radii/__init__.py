@@ -15,4 +15,4 @@ __all__ = ["load_set", "RadiusSet", "sanity_check", "AtomDensity", "read", "fina
            "reduced_populations", "l_totals", "s2", "core_electrons", "core_electrons_ion",
            "expand", "valence_shells", "load_states", "parse_job_name", "max_principal_n",
            "expected_spin_populations", "observed_spin_populations"]
-__version__ = "1.1.0"
+__version__ = "1.2.0"

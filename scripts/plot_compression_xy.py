@@ -1,9 +1,15 @@
+"""Wigner-Seitz radius against r_outer (Section 5.1.2, Figure 7).
+
+Usage (from the package root):  python scripts/plot_compression_xy.py
+"""
 import pandas as pd, numpy as np, matplotlib
 matplotlib.use('Agg'); import matplotlib.pyplot as plt
 plt.rcParams.update({'font.family':'DejaVu Sans','font.size':28,'axes.linewidth':2,
   'xtick.major.width':2,'ytick.major.width':2,'xtick.direction':'in','ytick.direction':'in',
   'xtick.top':True,'ytick.right':True,'lines.linewidth':2})
-c=pd.read_csv('compression_points.csv')
+from pathlib import Path
+D=Path(__file__).resolve().parent.parent/'results'/'revision'/'compression'
+c=pd.read_csv(D/'compression_points.csv')
 sets=[('Ambient',c.P_GPa==0,'o','#0060ad',True),
       ('s$\\rightarrow$d onset',c.state.str.contains('s-d'),'s','#dd181f',False),
       ('Electride',c.state.str.contains('electride'),'^','#00a000',True)]
@@ -24,4 +30,4 @@ ax.set_xlim(1.25,2.7); ax.set_ylim(0.7,3.1); ax.set_xticks([1.4,1.8,2.2,2.6])
 ax.set_xlabel('$r_{\\rm outer}$ (\\u00c5)'.replace('\\\\u00c5','Å')); ax.set_ylabel('$r_{\\rm WS}$ (Å)')
 ax.set_xlabel('$r_{\\rm outer}$ (Å)')
 ax.legend(frameon=False,fontsize=22,loc='upper left')
-fig.tight_layout(); fig.savefig('Fig_compression_xy.png',dpi=150); fig.savefig('Fig_compression_xy.eps')
+fig.tight_layout(); fig.savefig(D/'Fig_compression_xy.png',dpi=150); fig.savefig(D/'Fig_compression_xy.eps')
